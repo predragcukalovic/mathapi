@@ -1,0 +1,62 @@
+2023-02-13 12:40:15,387 [1] ERROR Utils.ApplicationPoolRecycleListener - APP POOL StartListening
+2023-02-13 13:03:41,801 [165] ERROR Utils.ApplicationPoolRecycleListener - APP POOL StartListening
+2023-02-13 13:51:28,574 [1] ERROR Utils.ApplicationPoolRecycleListener - APP POOL StartListening
+2023-02-13 14:32:27,399 [25] ERROR Utils.ApplicationPoolRecycleListener - APP POOL StartListening
+2023-02-13 14:35:28,699 [95] ERROR Utils.ApplicationPoolRecycleListener - APP POOL StartListening
+2023-02-13 14:39:55,537 [25] ERROR Utils.ApplicationPoolRecycleListener - APP POOL StartListening
+2023-02-13 14:43:20,009 [1] ERROR Utils.ApplicationPoolRecycleListener - APP POOL StartListening
+2023-02-13 14:47:36,103 [1] ERROR Utils.ApplicationPoolRecycleListener - APP POOL StartListening
+2023-02-13 14:51:24,022 [11] ERROR Utils.ApplicationPoolRecycleListener - APP POOL StartListening
+2023-02-13 14:56:24,595 [76] ERROR Utils.ApplicationPoolRecycleListener - APP Pool 1.3_Cheat_And_Reset Recycle: An administrator has requested a recycle of all worker processes in application pool '1.3_Cheat_And_Reset'.
+2023-02-13 14:59:19,895 [1] ERROR Utils.ApplicationPoolRecycleListener - APP POOL StartListening
+2023-02-13 14:59:29,814 [29] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://onlinestreampromo.Papi.rs:91/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-13 14:59:29,814 [35] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://onlinestreampromo.Papi.rs:91/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-13 14:59:29,828 [24] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://onlinestreampromo.Papi.rs:91/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-13 15:04:15,532 [1] ERROR Utils.ApplicationPoolRecycleListener - APP POOL StartListening
+2023-02-13 15:07:53,321 [85] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Roulette ErrorHandler: WorkTimerException, System.Threading.ThreadStateException: Unable to set thread priority.
+   at System.Threading.Thread.SetPriorityNative(Int32 priority)
+   at System.Threading.Thread.set_Priority(ThreadPriority value)
+   at OnlineRouletteWheels.RouletteWheelBase.RouletteWheelBase.WorkTimerOnInitialised(Object state) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\RouletteWheelSimulator\OnlineGames.RouletteWheelSimulator\RouletteWheelBase\RouletteWheelBase.cs:line 154
+2023-02-13 15:07:55,594 [85] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Roulette ErrorHandler: WorkTimerException, System.Threading.ThreadStateException: Unable to set thread priority.
+   at System.Threading.Thread.SetPriorityNative(Int32 priority)
+   at System.Threading.Thread.set_Priority(ThreadPriority value)
+   at OnlineRouletteWheels.RouletteWheelBase.RouletteWheelBase.WorkTimerOnInitialised(Object state) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\RouletteWheelSimulator\OnlineGames.RouletteWheelSimulator\RouletteWheelBase\RouletteWheelBase.cs:line 154
+2023-02-13 15:07:57,159 [85] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Roulette ErrorHandler: WorkTimerException, System.Threading.ThreadStateException: Unable to set thread priority.
+   at System.Threading.Thread.SetPriorityNative(Int32 priority)
+   at System.Threading.Thread.set_Priority(ThreadPriority value)
+   at OnlineRouletteWheels.RouletteWheelBase.RouletteWheelBase.WorkTimerOnInitialised(Object state) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\RouletteWheelSimulator\OnlineGames.RouletteWheelSimulator\RouletteWheelBase\RouletteWheelBase.cs:line 154
+2023-02-13 15:11:09,793 [61] ERROR Utils.ApplicationPoolRecycleListener - APP POOL StartListening
+2023-02-13 15:15:02,386 [1] ERROR Utils.ApplicationPoolRecycleListener - APP POOL StartListening
+2023-02-13 15:19:13,526 [106] ERROR Utils.ApplicationPoolRecycleListener - APP POOL StartListening
+2023-02-13 15:22:03,294 [1] ERROR Utils.ApplicationPoolRecycleListener - APP POOL StartListening
+2023-02-13 15:32:27,877 [1] ERROR Utils.ApplicationPoolRecycleListener - APP POOL StartListening
+2023-02-13 15:33:23,799 [44] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://onlinestreampromo.Papi.rs:91/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-13 15:33:23,799 [58] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://onlinestreampromo.Papi.rs:91/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-13 15:33:23,799 [60] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://onlinestreampromo.Papi.rs:91/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-13 15:36:50,026 [1] ERROR Utils.ApplicationPoolRecycleListener - APP POOL StartListening
+2023-02-13 15:53:02,098 [124] ERROR Utils.ApplicationPoolRecycleListener - APP POOL StartListening
+2023-02-13 16:09:12,427 [120] ERROR Utils.ApplicationPoolRecycleListener - APP POOL StartListening

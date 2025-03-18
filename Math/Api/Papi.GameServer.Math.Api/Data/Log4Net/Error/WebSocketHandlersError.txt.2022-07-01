@@ -1,0 +1,6 @@
+2022-07-01 12:01:12,262 [87] ERROR OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: e71522dc-261a-472f-be4b-8dd30c0239aa
+2022-07-01 12:03:40,065 [186] ERROR OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Same user already logged in: e71522dc-261a-472f-be4b-8dd30c0239aa, token: FAZE_FAZ-FS_E69A275B6B3A4259A0A48FCABE5E8D45
+2022-07-01 12:03:45,226 [186] ERROR OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnOpen Error: e71522dc-261a-472f-be4b-8dd30c0239aa, message: System.NullReferenceException: Object reference not set to an instance of an object.
+   at OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler.OnOpen() in C:\projekti\1.3_Cheat_And_Reset\OCP\Project\OCP\UI\Web\WebSocketHandlers\ChannelAWebSocketHandler.cs:line 320
+2022-07-01 13:50:50,575 [145] ERROR OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: b974bcd8-7572-4375-8d8b-2577d0604ddd
+2022-07-01 15:11:34,640 [112] ERROR OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: b974bcd8-7572-4375-8d8b-2577d0604ddd

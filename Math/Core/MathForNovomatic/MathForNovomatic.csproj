@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Papi.GameServer.RNGUtils" Version="1.1.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Games\GameEpicFire40\GameEpicFire40.csproj" />
+    <ProjectReference Include="..\..\Utils\CombinationUtils\CombinationUtils.csproj" />
+    <ProjectReference Include="..\MathForGames\SlotSimulatorU\MathForGames.csproj" />
+  </ItemGroup>
+
+</Project>

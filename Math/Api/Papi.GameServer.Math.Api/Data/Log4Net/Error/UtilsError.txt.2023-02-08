@@ -1,0 +1,1366 @@
+2023-02-08 09:24:03,100 [108] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:24:05,075 [86] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:24:06,981 [116] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:24:06,981 [109] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:24:12,580 [93] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:24:39,221 [92] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:24:44,201 [93] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:24:44,201 [108] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:24:51,306 [122] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:24:58,281 [119] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:25:09,262 [108] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:25:09,262 [115] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:25:25,640 [111] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:25:38,341 [93] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:25:43,775 [83] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:25:45,070 [105] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:26:11,895 [154] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:26:20,818 [105] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:26:23,949 [93] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:26:30,972 [111] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:26:45,992 [110] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:26:58,170 [93] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:27:10,538 [134] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:27:17,585 [100] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:27:20,235 [135] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:27:45,746 [123] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:27:57,302 [127] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:27:57,479 [125] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:28:03,953 [121] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:28:22,318 [134] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:28:31,614 [121] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:28:43,780 [93] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:28:50,586 [121] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:28:56,721 [77] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:29:18,286 [125] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:29:29,599 [94] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:29:33,880 [121] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:29:37,417 [142] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:29:58,991 [135] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:30:03,892 [137] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:30:13,536 [127] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:30:16,098 [137] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:30:23,324 [94] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:30:33,248 [127] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:30:50,447 [132] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:30:50,701 [135] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:31:02,880 [132] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:31:09,948 [134] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:31:10,387 [131] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:31:15,809 [142] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:31:35,397 [142] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:31:36,959 [137] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:31:49,160 [137] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:31:56,259 [132] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:32:09,755 [147] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:32:23,713 [137] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:32:35,604 [112] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:32:42,768 [137] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:32:46,850 [135] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:33:09,847 [112] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:33:11,991 [112] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:33:22,110 [143] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:33:29,205 [143] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:33:46,326 [158] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:33:56,479 [115] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:34:08,615 [115] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:34:15,756 [169] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:34:23,579 [150] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:34:42,854 [117] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:34:48,645 [161] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:34:54,888 [177] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:35:01,926 [165] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:35:22,922 [205] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:35:29,189 [115] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:35:41,320 [159] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:35:48,351 [181] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:36:00,077 [204] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:36:15,782 [202] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:36:20,095 [124] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:36:25,233 [191] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:36:27,840 [201] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:36:34,834 [147] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:36:57,104 [189] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:36:59,431 [160] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:37:02,085 [189] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:37:14,226 [174] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:37:21,231 [146] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:37:22,250 [152] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:37:36,583 [147] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:37:48,596 [117] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:38:00,594 [200] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:38:01,704 [169] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:38:07,704 [159] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:38:34,842 [159] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:38:35,904 [152] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:38:46,985 [163] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:38:54,014 [115] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:39:12,951 [142] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:39:21,234 [125] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:39:33,393 [125] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:39:38,150 [131] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:39:40,554 [145] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:40:07,818 [168] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:40:12,606 [142] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:40:19,970 [127] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:40:26,896 [129] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:40:49,565 [143] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:40:54,283 [131] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:41:04,312 [138] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:41:11,306 [141] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:41:12,882 [145] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:41:38,596 [156] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:41:47,156 [141] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:41:50,866 [143] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:41:57,879 [114] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:42:24,314 [159] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:42:24,840 [120] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:42:25,080 [145] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:42:37,203 [156] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:42:44,152 [142] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:42:49,350 [200] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:43:01,937 [56] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:43:11,315 [56] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:43:23,337 [120] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:43:23,663 [118] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:43:27,027 [143] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:43:30,398 [143] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:43:57,549 [64] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:44:00,708 [200] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:44:09,782 [100] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:44:14,477 [200] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:44:14,477 [133] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:44:16,597 [100] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:48:21,516 [1] ERROR Utils.ApplicationPoolRecycleListener - APP POOL StartListening
+2023-02-08 09:48:23,680 [9] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:48:23,680 [10] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:48:25,929 [21] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:48:54,187 [10] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:48:58,397 [23] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:49:06,042 [34] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:49:12,176 [9] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:49:35,491 [14] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:49:39,613 [31] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:49:52,299 [45] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:49:58,496 [10] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:50:00,614 [8] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:50:25,626 [9] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:50:35,277 [11] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:50:38,536 [11] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:50:45,571 [48] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:51:12,032 [13] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:51:12,079 [66] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:51:47,303 [37] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:51:47,321 [78] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:51:49,331 [62] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:52:16,679 [78] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:52:21,695 [28] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:52:28,684 [28] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:52:35,770 [46] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:52:58,936 [16] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:53:02,843 [50] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:53:15,005 [24] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:53:22,099 [96] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:53:23,863 [96] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:53:28,049 [18] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:53:49,385 [50] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:53:58,247 [88] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:54:01,595 [57] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:54:05,238 [100] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:54:08,595 [86] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:54:30,509 [98] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:54:35,396 [81] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:54:36,447 [106] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:54:48,002 [19] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:54:55,014 [83] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:55:00,499 [105] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:55:22,359 [122] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:55:34,501 [57] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:55:35,026 [104] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:55:41,935 [124] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:56:08,917 [112] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:56:12,033 [113] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:56:20,924 [115] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:56:27,939 [125] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:56:37,057 [117] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:56:55,387 [105] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:57:07,393 [83] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:57:11,225 [135] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:57:14,359 [144] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:57:41,572 [115] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:57:48,463 [137] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:57:54,289 [138] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:58:01,584 [129] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:58:13,765 [83] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:58:27,906 [129] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:58:39,940 [131] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:58:47,402 [147] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:58:47,963 [154] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:59:14,449 [157] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:59:24,924 [147] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:59:26,213 [131] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:59:33,438 [150] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:59:34,604 [146] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 09:59:50,104 [163] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 10:00:00,524 [162] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 10:00:11,763 [156] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 10:00:12,646 [166] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 10:00:19,676 [171] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 10:00:24,306 [149] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 10:00:36,867 [148] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 10:00:47,764 [166] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 10:00:59,047 [146] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 10:01:01,444 [168] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 10:01:06,121 [158] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 10:01:26,469 [179] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 10:01:33,870 [176] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 10:01:45,768 [167] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 10:01:52,595 [171] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 10:02:00,687 [146] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 10:02:20,160 [47] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 10:02:31,973 [165] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 10:02:37,799 [187] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 10:02:39,842 [180] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 10:03:02,829 [186] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 10:03:06,885 [190] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 10:03:18,438 [165] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 10:03:25,687 [192] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 10:03:37,312 [192] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 10:03:52,669 [188] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 10:04:04,596 [192] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 10:04:11,806 [196] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 10:04:14,315 [176] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 10:04:38,802 [192] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 10:04:39,393 [194] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 10:04:51,090 [197] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 10:04:58,162 [176] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 10:05:13,704 [180] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 10:05:25,706 [199] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 10:05:37,532 [191] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 10:05:41,222 [187] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 10:05:44,587 [198] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 10:05:50,931 [206] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 10:06:11,731 [184] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 10:06:28,159 [204] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 10:06:28,213 [166] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 10:06:31,190 [207] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 10:06:37,276 [173] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 10:06:53,283 [213] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 10:07:02,422 [190] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 10:07:04,476 [191] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 10:07:16,530 [194] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 10:07:23,689 [190] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 10:07:39,692 [201] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 10:07:51,331 [196] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 10:08:03,821 [209] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 10:08:04,951 [206] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 10:08:10,477 [191] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 10:08:37,648 [184] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 10:08:46,280 [202] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 10:08:49,826 [166] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 10:08:56,615 [166] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 10:09:16,333 [177] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 10:09:23,650 [173] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 10:09:35,662 [211] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 10:09:41,522 [178] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 10:09:43,024 [172] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 10:10:10,046 [201] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 10:26:14,997 [180] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 10:26:17,045 [161] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 10:26:19,201 [180] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 10:26:24,173 [167] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 10:26:35,066 [168] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 10:26:35,066 [177] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://ocpstreamapp.Papi:80/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-08 10:26:37,342 [200] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://192.168.88.31:92/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159

@@ -1,0 +1,1 @@
+2023-02-21 10:37:19,520 [94] ERROR ControlLib.TerminalControl.GameControl - GameControl: Player does not have enought credits, player 16625077-f99b-44a4-89d7-af3e981d3610, gameId 1,  curent credits: 1500, bet: 2000 

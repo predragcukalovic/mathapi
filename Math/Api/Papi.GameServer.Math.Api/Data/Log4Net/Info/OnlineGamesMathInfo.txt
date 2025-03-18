@@ -1,0 +1,70 @@
+2023-03-09 12:31:58,180 [40] INFO  OnlineGamesMath.SlotMathMain - Start: a0341d67-5503-4aac-a826-f422ecf6b3ea 1 500000 200 20 0 0 0 0
+2023-03-09 12:31:58,194 [40] INFO  OnlineGamesMath.SlotMathMain - Win in gratis game before next comb 1: True
+2023-03-09 12:31:58,751 [40] INFO  OnlineGamesMath.SlotMathMain - Total win = 100
+2023-03-09 12:31:59,361 [40] INFO  OnlineGamesMath.SlotMathMain - 3 
+2023-03-09 12:31:59,366 [40] INFO  OnlineGamesMath.SlotMathMain - 5 
+2023-03-09 12:31:59,367 [40] INFO  OnlineGamesMath.SlotMathMain - 8 
+2023-03-09 12:31:59,369 [40] INFO  OnlineGamesMath.SlotMathMain - 
+
+
+2023-03-09 12:31:59,375 [40] INFO  OnlineGamesMath.SlotMathMain - 4 
+2023-03-09 12:31:59,377 [40] INFO  OnlineGamesMath.SlotMathMain - 5 
+2023-03-09 12:31:59,379 [40] INFO  OnlineGamesMath.SlotMathMain - 4 
+2023-03-09 12:31:59,381 [40] INFO  OnlineGamesMath.SlotMathMain - 
+
+
+2023-03-09 12:31:59,995 [40] INFO  OnlineGamesMath.SlotMathMain - 3 
+2023-03-09 12:31:59,997 [40] INFO  OnlineGamesMath.SlotMathMain - 0 
+2023-03-09 12:31:59,998 [40] INFO  OnlineGamesMath.SlotMathMain - 7 
+2023-03-09 12:32:00,000 [40] INFO  OnlineGamesMath.SlotMathMain - 
+
+
+2023-03-09 12:32:00,001 [40] INFO  OnlineGamesMath.SlotMathMain - 7 
+2023-03-09 12:32:00,003 [40] INFO  OnlineGamesMath.SlotMathMain - 6 
+2023-03-09 12:32:00,004 [40] INFO  OnlineGamesMath.SlotMathMain - 4 
+2023-03-09 12:32:00,007 [40] INFO  OnlineGamesMath.SlotMathMain - 
+
+
+2023-03-09 12:32:00,009 [40] INFO  OnlineGamesMath.SlotMathMain - 4 
+2023-03-09 12:32:00,011 [40] INFO  OnlineGamesMath.SlotMathMain - 8 
+2023-03-09 12:32:00,013 [40] INFO  OnlineGamesMath.SlotMathMain - 8 
+2023-03-09 12:32:00,015 [40] INFO  OnlineGamesMath.SlotMathMain - 
+
+
+2023-03-09 12:32:00,016 [40] INFO  OnlineGamesMath.SlotMathMain - Scatter win: 0
+2023-03-09 12:32:00,019 [40] INFO  OnlineGamesMath.SlotMathMain - GameControl: Line: 0, win: 100, pos: 5,6,7,255,255
+2023-03-09 12:32:09,670 [31] INFO  OnlineGamesMath.SlotMathMain - Start: a0341d67-5503-4aac-a826-f422ecf6b3ea 1 499900 200 20 0 0 0 0
+2023-03-09 12:32:09,671 [31] INFO  OnlineGamesMath.SlotMathMain - Win in gratis game before next comb 1: True
+2023-03-09 12:32:09,673 [31] INFO  OnlineGamesMath.SlotMathMain - Total win = 100
+2023-03-09 12:32:09,675 [31] INFO  OnlineGamesMath.SlotMathMain - 6 
+2023-03-09 12:32:09,677 [31] INFO  OnlineGamesMath.SlotMathMain - 3 
+2023-03-09 12:32:09,678 [31] INFO  OnlineGamesMath.SlotMathMain - 4 
+2023-03-09 12:32:09,680 [31] INFO  OnlineGamesMath.SlotMathMain - 
+
+
+2023-03-09 12:32:09,681 [31] INFO  OnlineGamesMath.SlotMathMain - 4 
+2023-03-09 12:32:09,683 [31] INFO  OnlineGamesMath.SlotMathMain - 5 
+2023-03-09 12:32:09,684 [31] INFO  OnlineGamesMath.SlotMathMain - 4 
+2023-03-09 12:32:09,686 [31] INFO  OnlineGamesMath.SlotMathMain - 
+
+
+2023-03-09 12:32:09,687 [31] INFO  OnlineGamesMath.SlotMathMain - 8 
+2023-03-09 12:32:09,688 [31] INFO  OnlineGamesMath.SlotMathMain - 4 
+2023-03-09 12:32:09,690 [31] INFO  OnlineGamesMath.SlotMathMain - 7 
+2023-03-09 12:32:09,692 [31] INFO  OnlineGamesMath.SlotMathMain - 
+
+
+2023-03-09 12:32:09,694 [31] INFO  OnlineGamesMath.SlotMathMain - 3 
+2023-03-09 12:32:09,696 [31] INFO  OnlineGamesMath.SlotMathMain - 5 
+2023-03-09 12:32:09,698 [31] INFO  OnlineGamesMath.SlotMathMain - 4 
+2023-03-09 12:32:09,699 [31] INFO  OnlineGamesMath.SlotMathMain - 
+
+
+2023-03-09 12:32:09,701 [31] INFO  OnlineGamesMath.SlotMathMain - 7 
+2023-03-09 12:32:09,702 [31] INFO  OnlineGamesMath.SlotMathMain - 5 
+2023-03-09 12:32:09,704 [31] INFO  OnlineGamesMath.SlotMathMain - 1 
+2023-03-09 12:32:09,705 [31] INFO  OnlineGamesMath.SlotMathMain - 
+
+
+2023-03-09 12:32:09,707 [31] INFO  OnlineGamesMath.SlotMathMain - Scatter win: 0
+2023-03-09 12:32:09,711 [31] INFO  OnlineGamesMath.SlotMathMain - GameControl: Line: 6, win: 100, pos: 10,11,7,255,255

@@ -1,0 +1,14 @@
+2023-02-09 11:38:47,174 [1] ERROR OCP.Business.Integration.MBasIntegration.MBasApiTokenMethodsAndLogic - Integration: MBasClient.InitAuthApiLogic Error: Missing Parameters
+2023-02-09 11:50:14,690 [1] ERROR OCP.Business.Integration.MBasIntegration.MBasApiTokenMethodsAndLogic - Integration: MBasClient.InitAuthApiLogic Error: Missing Parameters
+2023-02-09 11:55:01,705 [1] ERROR OCP.Business.Integration.MBasIntegration.MBasApiTokenMethodsAndLogic - Integration: MBasClient.InitAuthApiLogic Error: Missing Parameters
+2023-02-09 11:58:13,728 [103] ERROR OCP.Business.Integration.MBasIntegration.MBasApiTokenMethodsAndLogic - Integration: MBasClient.InitAuthApiLogic Error: Missing Parameters
+2023-02-09 12:57:23,581 [8] ERROR OCP.Business.Integration.MBasIntegration.MBasApiTokenMethodsAndLogic - Integration: MBasClient.InitAuthApiLogic Error: Missing Parameters
+2023-02-09 13:00:58,193 [11] ERROR OCP.Business.Integration.MBasIntegration.MBasApiTokenMethodsAndLogic - Integration: MBasClient.InitAuthApiLogic Error: Missing Parameters
+2023-02-09 13:15:01,062 [188] ERROR OCP.Business.Integration.MBasIntegration.MBasApiTokenMethodsAndLogic - Integration: MBasClient.InitAuthApiLogic Error: Missing Parameters
+2023-02-09 13:17:30,950 [12] ERROR OCP.Business.Integration.MBasIntegration.MBasApiTokenMethodsAndLogic - Integration: MBasClient.InitAuthApiLogic Error: Missing Parameters
+2023-02-09 13:20:17,920 [193] ERROR OCP.Business.Integration.MBasIntegration.MBasApiTokenMethodsAndLogic - Integration: MBasClient.InitAuthApiLogic Error: Missing Parameters
+2023-02-09 14:55:28,906 [193] ERROR OCP.Business.Integration.MBasIntegration.MBasApiTokenMethodsAndLogic - Integration: MBasClient.InitAuthApiLogic Error: Missing Parameters
+2023-02-09 14:57:18,346 [12] ERROR OCP.Business.Integration.MBasIntegration.MBasApiTokenMethodsAndLogic - Integration: MBasClient.InitAuthApiLogic Error: Missing Parameters
+2023-02-09 15:22:16,900 [8] ERROR OCP.Business.Integration.MBasIntegration.MBasApiTokenMethodsAndLogic - Integration: MBasClient.InitAuthApiLogic Error: Missing Parameters
+2023-02-09 15:25:02,825 [115] ERROR OCP.Business.Integration.MBasIntegration.MBasApiTokenMethodsAndLogic - Integration: MBasClient.InitAuthApiLogic Error: Missing Parameters
+2023-02-09 15:35:44,908 [103] ERROR OCP.Business.Integration.MBasIntegration.MBasApiTokenMethodsAndLogic - Integration: MBasClient.InitAuthApiLogic Error: Missing Parameters

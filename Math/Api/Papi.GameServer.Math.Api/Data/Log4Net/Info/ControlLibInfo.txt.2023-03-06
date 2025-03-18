@@ -1,0 +1,45 @@
+2023-03-06 15:23:43,433 [35] INFO  ControlLib.TerminalControl.GameControl - GameControl: GetBalance 2023-03-06 15:23:43.431
+2023-03-06 15:23:43,798 [35] INFO  ControlLib.ErrorControl.ErrorControl - TCPServer: Connected user: 16625077-f99b-44a4-89d7-af3e981d3610
+2023-03-06 15:23:43,812 [14] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - ChannelAControlCore: ChannelAControlCore: FF-20-00-00-00-00-1F
+2023-03-06 15:23:43,816 [14] INFO  ControlLib.ClientMain - Console: Client returned: FF-20-00-00-00-00-1F
+2023-03-06 15:23:57,636 [14] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - MessagesFormater: Data received on port: RAW data: FF-20-00-00-00-00-1F
+2023-03-06 15:24:02,164 [14] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - Console: On channel A: REGISTER received.
+2023-03-06 15:24:19,326 [14] INFO  ControlLib.WebChannelControl.WebMessageAControlCore - Console: On channel A SERVICE Mode game command sent.
+2023-03-06 15:24:19,660 [14] INFO  ControlLib.WebChannelControl.WebMessageAControlCore - MessagesFormater: Data ready to be sent on port: RAW data:FF-E5-00-77-50-62-16-9B-F9-A4-44-89-D7-AF-3E-98-1D-36-10-00-02-02-00-EB
+2023-03-06 15:24:35,342 [14] INFO  ControlLib.ErrorControl.ErrorControl - TCPServer: Disconnected user: 16625077-f99b-44a4-89d7-af3e981d3610
+2023-03-06 15:27:11,711 [95] INFO  ControlLib.TerminalControl.GameControl - GameControl: GetBalance 2023-03-06 15:27:11.710
+2023-03-06 15:27:11,737 [95] INFO  ControlLib.ErrorControl.ErrorControl - TCPServer: Connected user: 16625077-f99b-44a4-89d7-af3e981d3610
+2023-03-06 15:27:11,749 [14] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - ChannelAControlCore: ChannelAControlCore: FF-20-00-00-00-00-1F
+2023-03-06 15:27:11,753 [14] INFO  ControlLib.ClientMain - Console: Client returned: FF-20-00-00-00-00-1F
+2023-03-06 15:27:15,482 [14] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - MessagesFormater: Data received on port: RAW data: FF-20-00-00-00-00-1F
+2023-03-06 15:27:24,710 [14] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - Console: On channel A: REGISTER received.
+2023-03-06 15:27:43,280 [14] INFO  ControlLib.WebChannelControl.WebMessageAControlCore - Console: On channel A SERVICE Mode game command sent.
+2023-03-06 15:27:43,588 [14] INFO  ControlLib.WebChannelControl.WebMessageAControlCore - MessagesFormater: Data ready to be sent on port: RAW data:FF-E5-00-77-50-62-16-9B-F9-A4-44-89-D7-AF-3E-98-1D-36-10-00-02-02-00-EB
+2023-03-06 15:28:10,718 [14] INFO  ControlLib.ErrorControl.ErrorControl - TCPServer: Disconnected user: 16625077-f99b-44a4-89d7-af3e981d3610
+2023-03-06 15:28:43,627 [99] INFO  ControlLib.TerminalControl.GameControl - GameControl: GetBalance 2023-03-06 15:28:43.626
+2023-03-06 15:28:43,644 [99] INFO  ControlLib.ErrorControl.ErrorControl - TCPServer: Connected user: 16625077-f99b-44a4-89d7-af3e981d3610
+2023-03-06 15:28:43,649 [17] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - ChannelAControlCore: ChannelAControlCore: FF-20-00-00-00-00-1F
+2023-03-06 15:28:43,652 [17] INFO  ControlLib.ClientMain - Console: Client returned: FF-20-00-00-00-00-1F
+2023-03-06 15:28:54,383 [17] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - MessagesFormater: Data received on port: RAW data: FF-20-00-00-00-00-1F
+2023-03-06 15:30:12,969 [17] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - Console: On channel A: REGISTER received.
+2023-03-06 15:30:16,021 [17] INFO  ControlLib.WebChannelControl.WebMessageAControlCore - Console: On channel A SERVICE Mode game command sent.
+2023-03-06 15:30:16,101 [17] INFO  ControlLib.WebChannelControl.WebMessageAControlCore - MessagesFormater: Data ready to be sent on port: RAW data:FF-E5-00-77-50-62-16-9B-F9-A4-44-89-D7-AF-3E-98-1D-36-10-00-02-02-00-EB
+2023-03-06 15:30:19,569 [17] INFO  ControlLib.ErrorControl.ErrorControl - TCPServer: Disconnected user: 16625077-f99b-44a4-89d7-af3e981d3610
+2023-03-06 15:32:48,108 [96] INFO  ControlLib.TerminalControl.GameControl - GameControl: GetBalance 2023-03-06 15:32:48.108
+2023-03-06 15:32:48,133 [96] INFO  ControlLib.ErrorControl.ErrorControl - TCPServer: Connected user: 16625077-f99b-44a4-89d7-af3e981d3610
+2023-03-06 15:32:48,145 [89] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - ChannelAControlCore: ChannelAControlCore: FF-20-00-00-00-00-1F
+2023-03-06 15:32:48,147 [89] INFO  ControlLib.ClientMain - Console: Client returned: FF-20-00-00-00-00-1F
+2023-03-06 15:33:10,296 [89] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - MessagesFormater: Data received on port: RAW data: FF-20-00-00-00-00-1F
+2023-03-06 15:34:53,556 [89] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - Console: On channel A: REGISTER received.
+2023-03-06 15:34:57,658 [89] INFO  ControlLib.WebChannelControl.WebMessageAControlCore - Console: On channel A SERVICE Mode game command sent.
+2023-03-06 15:34:57,853 [89] INFO  ControlLib.WebChannelControl.WebMessageAControlCore - MessagesFormater: Data ready to be sent on port: RAW data:FF-E5-00-77-50-62-16-9B-F9-A4-44-89-D7-AF-3E-98-1D-36-10-00-02-02-00-EB
+2023-03-06 15:35:03,177 [89] INFO  ControlLib.ErrorControl.ErrorControl - TCPServer: Disconnected user: 16625077-f99b-44a4-89d7-af3e981d3610
+2023-03-06 15:35:19,419 [89] INFO  ControlLib.TerminalControl.GameControl - GameControl: GetBalance 2023-03-06 15:35:19.419
+2023-03-06 15:35:19,441 [89] INFO  ControlLib.ErrorControl.ErrorControl - TCPServer: Connected user: 16625077-f99b-44a4-89d7-af3e981d3610
+2023-03-06 15:35:19,445 [113] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - ChannelAControlCore: ChannelAControlCore: FF-20-00-00-00-00-1F
+2023-03-06 15:35:19,447 [113] INFO  ControlLib.ClientMain - Console: Client returned: FF-20-00-00-00-00-1F
+2023-03-06 15:36:51,626 [113] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - MessagesFormater: Data received on port: RAW data: FF-20-00-00-00-00-1F
+2023-03-06 15:36:51,650 [113] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - Console: On channel A: REGISTER received.
+2023-03-06 15:36:51,995 [113] INFO  ControlLib.WebChannelControl.WebMessageAControlCore - Console: On channel A SERVICE Mode game command sent.
+2023-03-06 15:36:57,197 [113] INFO  ControlLib.WebChannelControl.WebMessageAControlCore - MessagesFormater: Data ready to be sent on port: RAW data:FF-E5-00-77-50-62-16-9B-F9-A4-44-89-D7-AF-3E-98-1D-36-10-00-02-02-00-EB
+2023-03-06 15:36:57,539 [89] INFO  ControlLib.ErrorControl.ErrorControl - TCPServer: Disconnected user: 16625077-f99b-44a4-89d7-af3e981d3610

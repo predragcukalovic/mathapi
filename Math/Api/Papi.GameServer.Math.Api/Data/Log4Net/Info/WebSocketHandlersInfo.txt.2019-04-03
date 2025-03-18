@@ -1,0 +1,43 @@
+2019-04-03 12:31:35,621 [32] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2019-04-03 12:31:38,931 [32] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: bd1c7742-6b91-40a7-88e8-8ccf0773a9a0
+2019-04-03 12:32:20,428 [25] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: bd1c7742-6b91-40a7-88e8-8ccf0773a9a0
+2019-04-03 12:32:24,141 [19] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2019-04-03 12:32:25,106 [19] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: bd1c7742-6b91-40a7-88e8-8ccf0773a9a0
+2019-04-03 12:32:47,829 [25] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: bd1c7742-6b91-40a7-88e8-8ccf0773a9a0
+2019-04-03 12:32:49,005 [24] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2019-04-03 12:32:49,912 [24] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: bd1c7742-6b91-40a7-88e8-8ccf0773a9a0
+2019-04-03 12:33:28,271 [32] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: bd1c7742-6b91-40a7-88e8-8ccf0773a9a0
+2019-04-03 12:33:32,273 [24] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2019-04-03 12:33:33,251 [24] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: bd1c7742-6b91-40a7-88e8-8ccf0773a9a0
+2019-04-03 12:38:52,965 [7] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2019-04-03 12:38:53,861 [7] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: bd1c7742-6b91-40a7-88e8-8ccf0773a9a0
+2019-04-03 12:39:39,736 [38] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: bd1c7742-6b91-40a7-88e8-8ccf0773a9a0
+2019-04-03 12:39:42,322 [38] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2019-04-03 12:39:43,454 [38] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: bd1c7742-6b91-40a7-88e8-8ccf0773a9a0
+2019-04-03 12:40:26,614 [7] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: bd1c7742-6b91-40a7-88e8-8ccf0773a9a0
+2019-04-03 12:41:06,249 [45] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2019-04-03 12:41:07,217 [45] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: bd1c7742-6b91-40a7-88e8-8ccf0773a9a0
+2019-04-03 12:41:55,412 [45] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2019-04-03 12:41:57,253 [45] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: bd1c7742-6b91-40a7-88e8-8ccf0773a9a0
+2019-04-03 12:45:31,106 [27] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: bd1c7742-6b91-40a7-88e8-8ccf0773a9a0
+2019-04-03 12:45:32,945 [27] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2019-04-03 12:45:33,773 [27] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: bd1c7742-6b91-40a7-88e8-8ccf0773a9a0
+2019-04-03 12:48:06,562 [46] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: bd1c7742-6b91-40a7-88e8-8ccf0773a9a0
+2019-04-03 12:48:08,283 [46] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2019-04-03 12:48:09,240 [46] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: bd1c7742-6b91-40a7-88e8-8ccf0773a9a0
+2019-04-03 12:48:55,518 [20] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2019-04-03 12:48:56,443 [20] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: bd1c7742-6b91-40a7-88e8-8ccf0773a9a0
+2019-04-03 13:53:33,338 [93] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: bd1c7742-6b91-40a7-88e8-8ccf0773a9a0
+2019-04-03 13:54:48,544 [97] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2019-04-03 13:54:49,624 [97] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: bd1c7742-6b91-40a7-88e8-8ccf0773a9a0
+2019-04-03 13:55:17,041 [27] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: bd1c7742-6b91-40a7-88e8-8ccf0773a9a0
+2019-04-03 13:55:20,405 [97] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2019-04-03 13:55:21,375 [97] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: bd1c7742-6b91-40a7-88e8-8ccf0773a9a0
+2019-04-03 13:57:58,922 [25] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: bd1c7742-6b91-40a7-88e8-8ccf0773a9a0
+2019-04-03 13:58:01,739 [27] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2019-04-03 13:58:02,666 [27] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: bd1c7742-6b91-40a7-88e8-8ccf0773a9a0
+2019-04-03 13:58:55,347 [66] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2019-04-03 13:58:56,296 [66] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: bd1c7742-6b91-40a7-88e8-8ccf0773a9a0
+2019-04-03 14:00:17,747 [27] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2019-04-03 14:00:18,632 [27] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: bd1c7742-6b91-40a7-88e8-8ccf0773a9a0
+2019-04-03 14:03:22,266 [6] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: bd1c7742-6b91-40a7-88e8-8ccf0773a9a0

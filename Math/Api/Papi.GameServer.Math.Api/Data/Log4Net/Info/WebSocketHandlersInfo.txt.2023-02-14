@@ -1,0 +1,78 @@
+2023-02-14 10:53:13,656 [60] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2023-02-14 10:53:20,458 [60] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: d035c3ec-c9e4-4f3a-87f2-83c62a868c97
+2023-02-14 11:35:11,255 [60] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2023-02-14 11:35:13,770 [60] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: d035c3ec-c9e4-4f3a-87f2-83c62a868c97
+2023-02-14 15:19:21,606 [115] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2023-02-14 15:19:23,965 [115] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: d035c3ec-c9e4-4f3a-87f2-83c62a868c97
+2023-02-14 15:20:31,485 [91] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: d035c3ec-c9e4-4f3a-87f2-83c62a868c97
+2023-02-14 15:46:32,993 [64] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2023-02-14 15:46:34,945 [64] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: d035c3ec-c9e4-4f3a-87f2-83c62a868c97
+2023-02-14 15:47:13,474 [64] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: d035c3ec-c9e4-4f3a-87f2-83c62a868c97
+2023-02-14 15:49:36,807 [79] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2023-02-14 15:49:38,805 [79] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: d035c3ec-c9e4-4f3a-87f2-83c62a868c97
+2023-02-14 15:53:56,822 [178] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2023-02-14 15:53:58,642 [178] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: d035c3ec-c9e4-4f3a-87f2-83c62a868c97
+2023-02-14 15:55:14,564 [62] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: d035c3ec-c9e4-4f3a-87f2-83c62a868c97
+2023-02-14 15:57:31,444 [49] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2023-02-14 15:57:33,130 [49] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: d035c3ec-c9e4-4f3a-87f2-83c62a868c97
+2023-02-14 15:58:54,732 [16] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: d035c3ec-c9e4-4f3a-87f2-83c62a868c97
+2023-02-14 16:00:35,652 [78] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2023-02-14 16:00:37,357 [78] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: d035c3ec-c9e4-4f3a-87f2-83c62a868c97
+2023-02-14 16:02:38,758 [60] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: d035c3ec-c9e4-4f3a-87f2-83c62a868c97
+2023-02-14 16:05:40,746 [155] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2023-02-14 16:05:42,634 [155] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: d035c3ec-c9e4-4f3a-87f2-83c62a868c97
+2023-02-14 16:14:08,446 [158] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnError entered: 
+2023-02-14 16:14:08,451 [158] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnError current exception: System.Net.WebSockets.WebSocketException (0x800703E3): The I/O operation has been aborted because of either a thread exit or an application request
+   at System.Web.WebSockets.WebSocketPipe.<>c__DisplayClass9_0.<ReadFragmentAsync>b__0(Int32 hrError, Int32 cbIO, Boolean fUtf8Encoded, Boolean fFinalFragment, Boolean fClose)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Web.WebSockets.AspNetWebSocket.<DoWork>d__45`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Web.WebSockets.AspNetWebSocket.<>c__DisplayClass36_0.<<ReceiveAsyncImpl>b__0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.Web.WebSockets.WebSocketMessageReader.<ReadMessageAsync>d__0.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.Web.WebSockets.WebSocketHandler.<ProcessWebSocketRequestAsync>d__9.MoveNext()
+2023-02-14 16:16:12,623 [96] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2023-02-14 16:16:16,660 [96] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnFatalCodeError, close connection: 00000000-0000-0000-0000-000000000000
+2023-02-14 16:16:19,367 [96] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnOpen Error: 00000000-0000-0000-0000-000000000000, message: System.Exception: AccountingLog for user 00000000-0000-0000-0000-000000000000 does not exist.
+   at PortalJpUtils.NVRAMLogic.LoadDataFromNVRAM(String userId, Int32 portalId, Int32 groupId, Boolean forMoney, Int64 initialBalance, Int32 liveRouletteId) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\PortalJpUtils\NVRAMLogic.cs:line 77
+   at ControlLib.ClientMain.InitializeNVRAM() in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\ControlLib\ClientMain.cs:line 240
+   at ControlLib.ClientMain.Initialize() in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\ControlLib\ClientMain.cs:line 297
+   at OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler.OnOpen() in C:\projekti\1.3_Cheat_And_Reset\OCP\Project\OCP\UI\Web\WebSocketHandlers\ChannelAWebSocketHandler.cs:line 321
+2023-02-14 16:16:26,525 [113] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnMessage, user blocked or doesn't exist, close connection: 00000000-0000-0000-0000-000000000000
+2023-02-14 16:16:39,036 [198] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2023-02-14 16:16:41,085 [198] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: d035c3ec-c9e4-4f3a-87f2-83c62a868c97
+2023-02-14 16:25:37,469 [196] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: d035c3ec-c9e4-4f3a-87f2-83c62a868c97
+2023-02-14 16:27:07,304 [16] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2023-02-14 16:27:09,060 [16] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: d035c3ec-c9e4-4f3a-87f2-83c62a868c97
+2023-02-14 16:29:57,678 [98] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2023-02-14 16:29:59,411 [98] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: d035c3ec-c9e4-4f3a-87f2-83c62a868c97
+2023-02-14 16:31:20,297 [206] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnError entered: 
+2023-02-14 16:31:20,300 [206] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnError current exception: System.Net.WebSockets.WebSocketException (0x800703E3): The I/O operation has been aborted because of either a thread exit or an application request
+   at System.Web.WebSockets.WebSocketPipe.<>c__DisplayClass9_0.<ReadFragmentAsync>b__0(Int32 hrError, Int32 cbIO, Boolean fUtf8Encoded, Boolean fFinalFragment, Boolean fClose)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Web.WebSockets.AspNetWebSocket.<DoWork>d__45`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Web.WebSockets.AspNetWebSocket.<>c__DisplayClass36_0.<<ReceiveAsyncImpl>b__0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.Web.WebSockets.WebSocketMessageReader.<ReadMessageAsync>d__0.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.Web.WebSockets.WebSocketHandler.<ProcessWebSocketRequestAsync>d__9.MoveNext()
+2023-02-14 16:33:26,312 [47] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2023-02-14 16:33:28,663 [47] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: d035c3ec-c9e4-4f3a-87f2-83c62a868c97

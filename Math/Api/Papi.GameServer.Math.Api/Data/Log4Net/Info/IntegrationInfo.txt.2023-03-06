@@ -1,0 +1,4 @@
+2023-03-06 15:23:33,538 [14] INFO  OCP.Business.Integration.Hub88Integration.Hub88Client - Integration: Hub88Client.Authenticate Response- UserUID: cg_18978, GameRoundid: 0, StatusCode: OK, 
+ requestJson: {"supplier_user":"cg_18978","token":"CD0E904644489A0EE0AE30C3594656436E367F95","request_uuid":"d418ed3f-7348-4c34-ad0c-9417860e2204","game_id":1,"game_code":"DeepJungle"} 
+ responseJson: {"balance":2000000,"currency":"USD","message":null,"request_uuid":"d418ed3f-7348-4c34-ad0c-9417860e2204","status":"RS_OK","user":"cg_18978"} 
+ signature: X2tXftvHYXrwl6ucMmwZ0h/a17bsc0T6ph3aAbL/LjiufIeujH72zZZx9PorbBoA0oPpMhScSVPTtNuzTKbXCIsbAsCqJEMTwJhMuFLOdgFfehulj7kRNRGowJ+ozFbqCsPe2IhCIreZTbffCzES8+46yM4hzUn8/LhTVV8vFNA=

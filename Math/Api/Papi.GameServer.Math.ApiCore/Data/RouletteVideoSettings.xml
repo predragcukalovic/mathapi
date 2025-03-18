@@ -1,0 +1,269 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <!-- Number 0 -->
+  <ItemNode>
+		<BasePath>Data\Video\number_0</BasePath>
+		<NumberOfFiles>1</NumberOfFiles>
+		<Extension>mp4</Extension>
+  </ItemNode>
+	
+  <!-- Number 1 -->
+  <ItemNode>
+	 	<BasePath>Data\Video\number_1</BasePath>
+		<NumberOfFiles>3</NumberOfFiles>
+		<Extension>mp4</Extension>
+  </ItemNode>
+	
+<!-- Number 2 -->
+  <ItemNode>
+		<BasePath>Data\Video\number_2</BasePath>
+		<NumberOfFiles>1</NumberOfFiles>
+		<Extension>mp4</Extension>
+  </ItemNode>
+	
+<!-- Number 3 -->
+  <ItemNode>
+		<BasePath>Data\Video\number_3</BasePath>
+		<NumberOfFiles>3</NumberOfFiles>
+		<Extension>mp4</Extension>
+  </ItemNode>
+	
+<!-- Number 4 -->
+  <ItemNode>
+		<BasePath>Data\Video\number_4</BasePath>
+		<NumberOfFiles>3</NumberOfFiles>
+		<Extension>mp4</Extension>
+  </ItemNode>
+
+<!-- Number 5 -->
+  <ItemNode>
+		<BasePath>Data\Video\number_5</BasePath>
+		<NumberOfFiles>3</NumberOfFiles>
+		<Extension>mp4</Extension>
+  </ItemNode>
+
+<!-- Number 6 -->
+  <ItemNode>
+		<BasePath>Data\Video\number_6</BasePath>
+		<NumberOfFiles>3</NumberOfFiles>
+		<Extension>mp4</Extension>
+  </ItemNode>
+
+<!-- Number 7 -->
+  <ItemNode>
+		<BasePath>Data\Video\number_7</BasePath>
+		<NumberOfFiles>3</NumberOfFiles>
+		<Extension>mp4</Extension>
+  </ItemNode>
+
+<!-- Number 8 -->
+  <ItemNode>
+		<BasePath>Data\Video\number_8</BasePath>
+		<NumberOfFiles>3</NumberOfFiles>
+		<Extension>mp4</Extension>
+  </ItemNode>
+
+<!-- Number 9 -->
+  <ItemNode>
+		<BasePath>Data\Video\number_9</BasePath>
+		<NumberOfFiles>3</NumberOfFiles>
+		<Extension>mp4</Extension>
+  </ItemNode>
+
+<!-- Number 10 -->
+  <ItemNode>
+		<BasePath>Data\Video\number_10</BasePath>
+		<NumberOfFiles>3</NumberOfFiles>
+		<Extension>mp4</Extension>
+  </ItemNode>
+
+<!-- Number 11 -->
+  <ItemNode>
+		<BasePath>Data\Video\number_11</BasePath>
+		<NumberOfFiles>3</NumberOfFiles>
+		<Extension>mp4</Extension>
+  </ItemNode>
+
+<!-- Number 12 -->
+  <ItemNode>
+		<BasePath>Data\Video\number_12</BasePath>
+		<NumberOfFiles>3</NumberOfFiles>
+		<Extension>mp4</Extension>
+  </ItemNode>
+
+<!-- Number 13 -->
+  <ItemNode>
+		<BasePath>Data\Video\number_13</BasePath>
+		<NumberOfFiles>3</NumberOfFiles>
+		<Extension>mp4</Extension>
+  </ItemNode>
+
+<!-- Number 14 -->
+  <ItemNode>
+		<BasePath>Data\Video\number_14</BasePath>
+		<NumberOfFiles>3</NumberOfFiles>
+		<Extension>mp4</Extension>
+  </ItemNode>
+
+<!-- Number 15 -->
+  <ItemNode>
+		<BasePath>Data\Video\number_15</BasePath>
+		<NumberOfFiles>3</NumberOfFiles>
+		<Extension>mp4</Extension>
+  </ItemNode>
+
+<!-- Number 16 -->
+  <ItemNode>
+		<BasePath>Data\Video\number_16</BasePath>
+		<NumberOfFiles>3</NumberOfFiles>
+		<Extension>mp4</Extension>
+  </ItemNode>
+
+<!-- Number 17 -->
+  <ItemNode>
+		<BasePath>Data\Video\number_17</BasePath>
+		<NumberOfFiles>3</NumberOfFiles>
+		<Extension>mp4</Extension>
+  </ItemNode>
+
+<!-- Number 18 -->
+  <ItemNode>
+		<BasePath>Data\Video\number_18</BasePath>
+		<NumberOfFiles>3</NumberOfFiles>
+		<Extension>mp4</Extension>
+  </ItemNode>
+
+<!-- Number 19 -->
+  <ItemNode>
+		<BasePath>Data\Video\number_19</BasePath>
+		<NumberOfFiles>3</NumberOfFiles>
+		<Extension>mp4</Extension>
+  </ItemNode>
+
+<!-- Number 20 -->
+  <ItemNode>
+		<BasePath>Data\Video\number_20</BasePath>
+		<NumberOfFiles>3</NumberOfFiles>
+		<Extension>mp4</Extension>
+  </ItemNode>
+
+	<!-- Number 21 -->
+  <ItemNode>
+		<BasePath>Data\Video\number_21</BasePath>
+		<NumberOfFiles>3</NumberOfFiles>
+		<Extension>mp4</Extension>
+  </ItemNode>
+
+<!-- Number 22 -->
+  <ItemNode>
+		<BasePath>Data\Video\number_22</BasePath>
+		<NumberOfFiles>3</NumberOfFiles>
+		<Extension>mp4</Extension>
+  </ItemNode>
+
+<!-- Number 23 -->
+  <ItemNode>
+		<BasePath>Data\Video\number_23</BasePath>
+		<NumberOfFiles>3</NumberOfFiles>
+		<Extension>mp4</Extension>
+  </ItemNode>
+
+<!-- Number 24 -->
+  <ItemNode>
+		<BasePath>Data\Video\number_24</BasePath>
+		<NumberOfFiles>3</NumberOfFiles>
+		<Extension>mp4</Extension>
+  </ItemNode>
+
+<!-- Number 25 -->
+  <ItemNode>
+		<BasePath>Data\Video\number_25</BasePath>
+		<NumberOfFiles>3</NumberOfFiles>
+		<Extension>mp4</Extension>
+  </ItemNode>
+	
+<!-- Number 26 -->
+  <ItemNode>
+		<BasePath>Data\Video\number_26</BasePath>
+		<NumberOfFiles>3</NumberOfFiles>
+		<Extension>mp4</Extension>
+  </ItemNode>
+
+<!-- Number 27 -->
+  <ItemNode>
+		<BasePath>Data\Video\number_27</BasePath>
+		<NumberOfFiles>3</NumberOfFiles>
+		<Extension>mp4</Extension>
+  </ItemNode>
+
+<!-- Number 28 -->
+  <ItemNode>
+		<BasePath>Data\Video\number_28</BasePath>
+		<NumberOfFiles>3</NumberOfFiles>
+		<Extension>mp4</Extension>
+  </ItemNode>
+
+<!-- Number 29 -->
+  <ItemNode>
+		<BasePath>Data\Video\number_29</BasePath>
+		<NumberOfFiles>3</NumberOfFiles>
+		<Extension>mp4</Extension>
+  </ItemNode>
+
+<!-- Number 30 -->
+  <ItemNode>
+		<BasePath>Data\Video\number_30</BasePath>
+		<NumberOfFiles>3</NumberOfFiles>
+		<Extension>mp4</Extension>
+  </ItemNode>
+
+<!-- Number 31 -->
+  <ItemNode>
+		<BasePath>Data\Video\number_31</BasePath>
+		<NumberOfFiles>3</NumberOfFiles>
+		<Extension>mp4</Extension>
+  </ItemNode>
+
+<!-- Number 32 -->
+  <ItemNode>
+		<BasePath>Data\Video\number_32</BasePath>
+		<NumberOfFiles>3</NumberOfFiles>
+		<Extension>mp4</Extension>
+  </ItemNode>
+
+<!-- Number 33 -->
+  <ItemNode>
+		<BasePath>Data\Video\number_33</BasePath>
+		<NumberOfFiles>3</NumberOfFiles>
+		<Extension>mp4</Extension>
+  </ItemNode>
+
+<!-- Number 34 -->
+  <ItemNode>
+		<BasePath>Data\Video\number_34</BasePath>
+		<NumberOfFiles>3</NumberOfFiles>
+		<Extension>mp4</Extension>
+  </ItemNode>
+
+<!-- Number 35 -->
+  <ItemNode>
+		<BasePath>Data\Video\number_35</BasePath>
+		<NumberOfFiles>3</NumberOfFiles>
+		<Extension>mp4</Extension>
+  </ItemNode>
+
+<!-- Number 36 -->
+  <ItemNode>
+		<BasePath>Data\Video\number_36</BasePath>
+		<NumberOfFiles>3</NumberOfFiles>
+		<Extension>mp4</Extension>
+  </ItemNode>
+
+  <!-- Intro video -->
+  <ItemNode>
+    <BasePath>Data\Video\intro</BasePath>
+    <NumberOfFiles>1</NumberOfFiles>
+    <Extension>mp4</Extension>
+  </ItemNode>
+  
+</root>

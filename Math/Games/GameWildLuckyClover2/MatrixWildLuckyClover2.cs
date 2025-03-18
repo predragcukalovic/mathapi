@@ -1,0 +1,86 @@
+﻿using GameWildLuckyClover;
+using MathForGames.BasicGameData;
+
+namespace GameWildLuckyClover2
+{
+    public class MatrixWildLuckyClover2 : MatrixWildLuckyClover
+    {
+        public int CalculateWinLine(int lineNumber, int gratis)
+        {
+            var l = GetLine(lineNumber, GlobalData.GameLineTurbo);
+            if (gratis == 0)
+            {
+                return l.CalculateLineWin(WinForLinesWildLuckyClover, WinForWildWildLuckyClover, 0, 1);
+            }
+            var mult = 1;
+            var elem = -1;
+            for (var i = 0; i < 5; i++)
+            {
+                var ee = l.GetElement(i);
+                if (ee != 0 && ee != gratis)
+                {
+                    if (elem == -1)
+                    {
+                        elem = ee;
+                    }
+                    else if (ee != elem)
+                    {
+                        break;
+                    }
+                }
+                if (ee == 0)
+                {
+                    mult = 2;
+                }
+            }
+            for (var i = 0; i < 5; i++)
+            {
+                if (l.GetElement(i) == gratis)
+                {
+                    l.SetElement(i, 0);
+                }
+            }
+            return l.CalculateLineWin(WinForLinesWildLuckyClover, WinForWildWildLuckyClover, 0, 1) * mult;
+        }
+
+        public int GetWinningElementForLine(int line, int gratis)
+        {
+            var l = GetLine(line, GlobalData.GameLineTurbo);
+            bool allZeros = false;
+            for (var i = 0; i < 5; i++)
+            {
+                var ee = l.GetElement(i);
+                if (ee != 0 && ee != gratis)
+                {
+                    if (i > 0 && WinForWildWildLuckyClover[i - 1] * (allZeros ? 1 : 2) > WinForLinesWildLuckyClover[ee, i])
+                    {
+                        return allZeros ? 0 : gratis;
+                    }
+                    return ee;
+                }
+                if (ee == gratis)
+                {
+                    allZeros = false;
+                }
+            }
+            return allZeros ? 0 : gratis;
+        }
+
+        public byte[] GetLinesPositions(int lineNumber, int gratis, int winElem)
+        {
+            var positionsArray = new byte[5];
+            var i = 0;
+            var l = GetLine(lineNumber, GlobalData.GameLineTurbo);
+            while (i < 5 && (l.GetElement(i) == 0 || l.GetElement(i) == gratis || l.GetElement(i) == winElem))
+            {
+                positionsArray[i] = (byte)(GlobalData.GameLineTurbo[lineNumber - 1, i] * 5 + i);
+                i++;
+            }
+            for (; i < 5; i++)
+            {
+                positionsArray[i] = 255;
+            }
+            return positionsArray;
+        }
+    }
+}

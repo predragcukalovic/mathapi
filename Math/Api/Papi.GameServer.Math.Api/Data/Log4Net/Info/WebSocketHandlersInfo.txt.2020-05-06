@@ -1,0 +1,8 @@
+2020-05-06 15:20:53,719 [12] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2020-05-06 15:20:59,998 [12] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: e527a6b6-3d7e-4326-a43a-2ed5790f475c
+2020-05-06 15:21:27,658 [13] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2020-05-06 15:21:55,542 [13] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: e527a6b6-3d7e-4326-a43a-2ed5790f475c
+2020-05-06 15:37:42,199 [43] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2020-05-06 15:37:46,486 [43] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: e527a6b6-3d7e-4326-a43a-2ed5790f475c
+2020-05-06 15:40:23,410 [22] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2020-05-06 15:40:27,362 [22] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: e527a6b6-3d7e-4326-a43a-2ed5790f475c

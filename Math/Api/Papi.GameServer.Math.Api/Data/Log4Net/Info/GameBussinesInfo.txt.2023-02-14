@@ -1,0 +1,14 @@
+2023-02-14 10:54:17,230 [74] INFO  GameBussines.NVRAMData.AccountLogData - DatabaseAccess: UserId: d035c3ec-c9e4-4f3a-87f2-83c62a868c97, added win: 1000
+2023-02-14 10:54:33,746 [64] INFO  GameBussines.NVRAMData.AccountLogData - DatabaseAccess: UserId: d035c3ec-c9e4-4f3a-87f2-83c62a868c97, added win: 1500
+2023-02-14 10:54:55,160 [100] INFO  GameBussines.NVRAMData.AccountLogData - DatabaseAccess: UserId: d035c3ec-c9e4-4f3a-87f2-83c62a868c97, added win: 500
+2023-02-14 11:03:19,297 [145] INFO  GameBussines.NVRAMData.AccountLogData - DatabaseAccess: UserId: d035c3ec-c9e4-4f3a-87f2-83c62a868c97, added win: 500
+2023-02-14 15:19:38,574 [115] INFO  GameBussines.NVRAMData.AccountLogData - DatabaseAccess: UserId: d035c3ec-c9e4-4f3a-87f2-83c62a868c97, added win: 500
+2023-02-14 15:46:43,504 [163] INFO  GameBussines.NVRAMData.AccountLogData - DatabaseAccess: UserId: d035c3ec-c9e4-4f3a-87f2-83c62a868c97, added win: 500
+2023-02-14 16:01:03,442 [5] INFO  GameBussines.NVRAMData.AccountLogData - DatabaseAccess: UserId: d035c3ec-c9e4-4f3a-87f2-83c62a868c97, added win: 5000
+2023-02-14 16:18:55,503 [201] INFO  GameBussines.NVRAMData.AccountLogData - DatabaseAccess: UserId: d035c3ec-c9e4-4f3a-87f2-83c62a868c97, added win: 1000
+2023-02-14 16:21:32,913 [162] INFO  GameBussines.NVRAMData.AccountLogData - DatabaseAccess: UserId: d035c3ec-c9e4-4f3a-87f2-83c62a868c97, added win: 500
+2023-02-14 16:23:04,659 [209] INFO  GameBussines.NVRAMData.AccountLogData - DatabaseAccess: UserId: d035c3ec-c9e4-4f3a-87f2-83c62a868c97, added win: 5000
+2023-02-14 16:27:54,901 [11] INFO  GameBussines.NVRAMData.AccountLogData - DatabaseAccess: UserId: d035c3ec-c9e4-4f3a-87f2-83c62a868c97, added win: 1000
+2023-02-14 16:36:10,630 [99] INFO  GameBussines.NVRAMData.AccountLogData - DatabaseAccess: UserId: d035c3ec-c9e4-4f3a-87f2-83c62a868c97, added win: 1000
+2023-02-14 16:38:00,842 [55] INFO  GameBussines.NVRAMData.AccountLogData - DatabaseAccess: UserId: d035c3ec-c9e4-4f3a-87f2-83c62a868c97, added win: 1000
+2023-02-14 16:40:06,728 [220] INFO  GameBussines.NVRAMData.AccountLogData - DatabaseAccess: UserId: d035c3ec-c9e4-4f3a-87f2-83c62a868c97, added win: 1000

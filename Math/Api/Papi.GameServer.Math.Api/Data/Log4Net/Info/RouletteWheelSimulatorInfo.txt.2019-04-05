@@ -1,0 +1,612 @@
+2019-04-05 10:49:25,820 [1] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: One Wheel For All Roulettes. Settings taken from portal: 1
+2019-04-05 10:49:31,053 [10] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: RiseOnBetsOpenEvent: 30000
+2019-04-05 10:50:01,070 [7] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: RiseOnBetsClosedEvent: -47
+2019-04-05 10:50:42,227 [22] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Next Winning Number: 25
+2019-04-05 10:51:07,445 [19] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Roulette till bets closed time 1: 30000
+2019-04-05 10:51:37,586 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: RiseOnBetsClosedEvent: -140
+2019-04-05 10:52:18,679 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Next Winning Number: 31
+2019-04-05 10:52:43,806 [21] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Roulette till bets closed time 1: 30000
+2019-04-05 10:53:13,852 [28] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: RiseOnBetsClosedEvent: -47
+2019-04-05 10:53:55,147 [18] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Next Winning Number: 5
+2019-04-05 10:54:20,226 [18] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Roulette till bets closed time 1: 30000
+2019-04-05 10:54:50,303 [27] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: RiseOnBetsClosedEvent: -78
+2019-04-05 10:55:31,429 [27] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Next Winning Number: 18
+2019-04-05 10:55:56,428 [27] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Roulette till bets closed time 1: 30000
+2019-04-05 10:56:26,603 [21] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: RiseOnBetsClosedEvent: -172
+2019-04-05 10:57:07,712 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Next Winning Number: 7
+2019-04-05 10:57:32,742 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Roulette till bets closed time 1: 30000
+2019-04-05 10:58:02,980 [21] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: RiseOnBetsClosedEvent: -234
+2019-04-05 10:58:44,320 [18] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Next Winning Number: 36
+2019-04-05 10:59:09,335 [18] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Roulette till bets closed time 1: 30000
+2019-04-05 10:59:39,572 [27] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: RiseOnBetsClosedEvent: -235
+2019-04-05 11:00:20,697 [21] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Next Winning Number: 15
+2019-04-05 11:00:45,725 [21] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Roulette till bets closed time 1: 30000
+2019-04-05 11:01:15,865 [18] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: RiseOnBetsClosedEvent: -141
+2019-04-05 11:01:57,115 [18] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Next Winning Number: 30
+2019-04-05 11:02:22,257 [21] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Roulette till bets closed time 1: 30000
+2019-04-05 11:02:52,434 [6] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: RiseOnBetsClosedEvent: -172
+2019-04-05 11:03:33,601 [18] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Next Winning Number: 25
+2019-04-05 11:03:58,631 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Roulette till bets closed time 1: 30000
+2019-04-05 11:04:28,803 [28] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: RiseOnBetsClosedEvent: -172
+2019-04-05 11:05:09,989 [21] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Next Winning Number: 1
+2019-04-05 11:05:35,210 [6] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Roulette till bets closed time 1: 30000
+2019-04-05 11:06:05,306 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: RiseOnBetsClosedEvent: -94
+2019-04-05 11:06:46,521 [17] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Next Winning Number: 7
+2019-04-05 11:07:11,555 [6] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Roulette till bets closed time 1: 30000
+2019-04-05 11:07:41,568 [17] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: RiseOnBetsClosedEvent: -16
+2019-04-05 11:08:22,725 [17] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Next Winning Number: 33
+2019-04-05 11:08:47,794 [6] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Roulette till bets closed time 1: 30000
+2019-04-05 11:09:17,976 [21] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: RiseOnBetsClosedEvent: -188
+2019-04-05 11:09:59,164 [17] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Next Winning Number: 29
+2019-04-05 11:10:24,256 [6] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Roulette till bets closed time 1: 30000
+2019-04-05 11:10:34,942 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED -: 
+2019-04-05 11:10:34,943 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 11:10:34,944 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 11:10:34,945 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 11:10:34,946 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 11:10:34,947 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 11:10:34,948 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 11:10:34,949 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 11:10:34,950 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 11:10:34,950 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 11:10:34,951 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 11:10:34,952 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 11:10:34,953 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 11:10:34,955 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 11:10:34,956 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 11:10:34,957 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 11:10:34,958 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 11:10:34,959 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 11:10:34,959 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 11:10:34,960 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 11:10:34,961 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 11:10:34,962 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 11:10:34,962 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 11:10:34,963 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 11:10:34,964 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 11:10:34,964 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 11:10:34,965 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 11:10:34,966 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 11:10:34,967 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 11:10:34,967 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 11:10:34,968 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 11:10:34,969 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 11:10:34,970 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 11:10:34,970 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 11:10:34,971 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 11:10:34,972 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 11:10:34,973 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 11:10:34,973 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 11:10:34,974 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 11:10:34,974 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 11:10:34,975 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 11:10:34,978 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 11:10:34,979 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 11:10:34,980 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 11:10:34,982 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 11:10:34,983 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 11:10:34,984 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 11:10:34,985 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 11:10:34,987 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 11:10:34,988 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 11:10:34,989 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 11:10:34,990 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 11:10:34,991 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 11:10:34,993 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 11:10:34,994 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 11:10:34,996 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 11:10:34,997 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 11:10:34,998 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 11:10:34,999 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 11:10:35,001 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 11:10:35,002 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 11:10:35,003 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 11:10:35,006 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 11:10:35,008 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 11:10:35,010 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 11:10:35,011 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 11:10:35,014 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 11:10:35,015 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 11:10:35,016 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 11:10:35,017 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 11:10:35,018 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 11:10:35,024 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 11:10:35,026 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 11:10:35,027 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 11:10:35,028 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 11:10:35,029 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 11:10:35,030 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 11:10:35,031 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 11:10:35,032 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 11:10:35,032 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 11:10:35,034 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 11:10:35,039 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 11:10:35,041 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 11:10:35,042 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 11:10:35,043 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 12:16:48,368 [1] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: One Wheel For All Roulettes. Settings taken from portal: 1
+2019-04-05 12:16:53,507 [8] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: RiseOnBetsOpenEvent: 30000
+2019-04-05 12:17:24,429 [6] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: RiseOnBetsClosedEvent: -860
+2019-04-05 12:18:05,413 [9] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Next Winning Number: 31
+2019-04-05 12:18:30,431 [19] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Roulette till bets closed time 1: 30000
+2019-04-05 12:19:00,601 [21] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: RiseOnBetsClosedEvent: -172
+2019-04-05 12:19:41,866 [17] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Next Winning Number: 19
+2019-04-05 12:20:06,895 [23] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Roulette till bets closed time 1: 30000
+2019-04-05 12:20:37,074 [9] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: RiseOnBetsClosedEvent: -188
+2019-04-05 12:21:18,243 [23] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Next Winning Number: 13
+2019-04-05 12:21:43,368 [12] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Roulette till bets closed time 1: 30000
+2019-04-05 12:22:26,239 [12] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: RiseOnBetsClosedEvent: -12875
+2019-04-05 12:23:07,614 [24] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Next Winning Number: 20
+2019-04-05 12:23:32,716 [19] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Roulette till bets closed time 1: 30000
+2019-04-05 12:24:02,754 [26] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: RiseOnBetsClosedEvent: -47
+2019-04-05 12:24:43,881 [33] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Next Winning Number: 3
+2019-04-05 12:25:08,899 [30] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Roulette till bets closed time 1: 30000
+2019-04-05 12:25:39,086 [30] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: RiseOnBetsClosedEvent: -187
+2019-04-05 12:26:20,435 [30] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Next Winning Number: 2
+2019-04-05 12:26:50,253 [26] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Roulette till bets closed time 1: 30000
+2019-04-05 12:27:20,256 [47] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: RiseOnBetsClosedEvent: -15
+2019-04-05 12:28:01,428 [47] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Next Winning Number: 17
+2019-04-05 12:28:26,598 [6] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Roulette till bets closed time 1: 30000
+2019-04-05 12:28:56,730 [44] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: RiseOnBetsClosedEvent: -125
+2019-04-05 12:29:37,932 [7] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Next Winning Number: 16
+2019-04-05 12:30:03,131 [47] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Roulette till bets closed time 1: 30000
+2019-04-05 12:30:33,274 [7] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: RiseOnBetsClosedEvent: -141
+2019-04-05 12:31:14,399 [40] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Next Winning Number: 4
+2019-04-05 12:31:39,444 [47] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Roulette till bets closed time 1: 30000
+2019-04-05 12:32:09,570 [36] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: RiseOnBetsClosedEvent: -125
+2019-04-05 12:32:50,896 [40] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Next Winning Number: 22
+2019-04-05 12:33:15,898 [47] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Roulette till bets closed time 1: 30000
+2019-04-05 12:33:46,037 [47] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: RiseOnBetsClosedEvent: -140
+2019-04-05 12:34:27,162 [52] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Next Winning Number: 27
+2019-04-05 12:34:52,244 [33] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Roulette till bets closed time 1: 30000
+2019-04-05 12:35:22,406 [29] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: RiseOnBetsClosedEvent: -156
+2019-04-05 12:36:03,521 [41] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Next Winning Number: 23
+2019-04-05 12:36:28,619 [33] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Roulette till bets closed time 1: 30000
+2019-04-05 12:36:58,757 [33] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: RiseOnBetsClosedEvent: -140
+2019-04-05 12:37:40,023 [48] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Next Winning Number: 20
+2019-04-05 12:38:05,130 [49] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Roulette till bets closed time 1: 30000
+2019-04-05 12:38:35,301 [53] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: RiseOnBetsClosedEvent: -172
+2019-04-05 12:39:16,508 [58] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Next Winning Number: 3
+2019-04-05 12:39:41,523 [49] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Roulette till bets closed time 1: 30000
+2019-04-05 12:40:11,730 [53] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: RiseOnBetsClosedEvent: -203
+2019-04-05 12:40:52,882 [55] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Next Winning Number: 26
+2019-04-05 12:41:17,928 [64] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Roulette till bets closed time 1: 30000
+2019-04-05 12:41:47,928 [64] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: RiseOnBetsClosedEvent: 0
+2019-04-05 12:42:29,272 [58] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Next Winning Number: 6
+2019-04-05 12:42:54,411 [55] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Roulette till bets closed time 1: 30000
+2019-04-05 12:43:24,540 [55] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: RiseOnBetsClosedEvent: -125
+2019-04-05 12:44:05,755 [49] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Next Winning Number: 18
+2019-04-05 12:44:30,834 [66] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Roulette till bets closed time 1: 30000
+2019-04-05 12:45:01,007 [64] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: RiseOnBetsClosedEvent: -172
+2019-04-05 12:45:42,193 [67] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Next Winning Number: 30
+2019-04-05 12:46:07,273 [64] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Roulette till bets closed time 1: 30000
+2019-04-05 12:46:37,520 [73] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: RiseOnBetsClosedEvent: -250
+2019-04-05 12:47:18,662 [73] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Next Winning Number: 13
+2019-04-05 12:47:43,676 [73] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Roulette till bets closed time 1: 30000
+2019-04-05 12:48:13,693 [73] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: RiseOnBetsClosedEvent: -16
+2019-04-05 12:48:55,060 [81] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Next Winning Number: 6
+2019-04-05 12:49:20,115 [81] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Roulette till bets closed time 1: 30000
+2019-04-05 12:49:50,258 [55] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: RiseOnBetsClosedEvent: -140
+2019-04-05 12:50:31,552 [73] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Next Winning Number: 9
+2019-04-05 13:32:35,082 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED -: 
+2019-04-05 13:32:35,083 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 13:32:35,087 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 13:32:35,093 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 13:32:35,097 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 13:32:35,098 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 13:32:35,102 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 13:32:35,103 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 13:32:35,104 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 13:32:35,105 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 13:32:35,105 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 13:32:35,106 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 13:32:35,107 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 13:32:35,107 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 13:32:35,108 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 13:32:35,109 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 13:32:35,110 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 13:32:35,111 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 13:32:35,112 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 13:32:35,113 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 13:32:35,114 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 13:32:35,115 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 13:32:35,116 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 13:32:35,116 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 13:32:35,117 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 13:32:35,118 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 13:32:35,118 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 13:32:35,119 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 13:32:35,124 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 13:32:35,124 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 13:32:35,125 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 13:32:35,125 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 13:32:35,127 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 13:32:35,128 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 13:32:35,129 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 13:32:35,132 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 13:32:35,133 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 13:32:35,134 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 13:32:35,136 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 13:32:35,138 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 13:32:35,139 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 13:32:35,145 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 13:32:35,161 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 13:32:35,169 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 13:32:35,170 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 13:32:35,171 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 13:32:35,175 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 13:32:35,179 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 13:32:35,182 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 13:32:35,185 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 13:32:35,185 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 13:32:35,186 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 13:32:35,212 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 13:32:35,213 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 13:32:35,214 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 13:32:35,217 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 13:32:35,218 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 13:32:35,219 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 13:32:35,219 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 13:32:35,220 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 13:32:35,221 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 13:32:35,222 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 13:32:35,227 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 13:32:35,247 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 13:32:35,250 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 13:32:35,251 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 13:32:35,251 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 13:32:35,252 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 13:32:35,253 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 13:32:35,254 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 13:32:35,254 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 13:32:35,255 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 13:32:35,258 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 13:32:35,259 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 13:32:35,260 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 13:32:35,261 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 13:32:35,262 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 13:32:35,263 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 13:32:35,264 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 13:32:35,264 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 13:32:35,265 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 13:32:35,266 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 13:32:35,267 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 13:32:35,267 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 13:32:35,268 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 14:52:28,148 [27] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: One Wheel For All Roulettes. Settings taken from portal: 1
+2019-04-05 14:52:33,243 [71] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: RiseOnBetsOpenEvent: 30000
+2019-04-05 14:53:03,239 [71] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: RiseOnBetsClosedEvent: 0
+2019-04-05 14:53:44,483 [10] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Next Winning Number: 18
+2019-04-05 14:54:09,575 [87] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Roulette till bets closed time 1: 30000
+2019-04-05 14:54:26,567 [43] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: One Wheel For All Roulettes. Settings taken from portal: 1
+2019-04-05 14:54:31,840 [71] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: RiseOnBetsOpenEvent: 30000
+2019-04-05 14:54:35,953 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED -: 
+2019-04-05 14:54:35,956 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 14:54:35,964 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 14:54:35,967 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 14:54:35,969 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 14:54:35,982 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 14:54:35,986 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 14:54:35,988 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 14:54:35,989 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 14:54:35,990 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 14:54:35,991 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 14:54:36,001 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 14:54:36,003 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 14:54:36,004 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 14:54:36,005 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 14:54:36,007 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 14:54:36,007 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 14:54:36,009 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 14:54:36,014 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 14:54:36,017 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 14:54:36,018 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 14:54:36,019 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 14:54:36,020 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 14:54:36,021 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 14:54:36,021 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 14:54:36,022 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 14:54:36,023 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 14:54:36,025 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 14:54:36,037 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 14:54:36,047 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 14:54:36,050 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 14:54:36,051 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 14:54:36,052 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 14:54:36,057 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 14:54:36,063 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 14:54:36,067 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 14:54:36,094 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 14:54:36,096 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 14:54:36,097 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 14:54:36,100 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 14:54:36,118 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 14:54:36,125 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 14:54:36,148 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 14:54:36,152 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 14:54:36,154 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 14:54:36,158 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 14:54:36,162 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 14:54:36,181 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 14:54:36,182 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 14:54:36,186 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 14:54:36,189 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 14:54:36,203 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 14:54:36,206 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 14:54:36,211 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 14:54:36,216 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 14:54:36,218 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 14:54:36,221 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 14:54:36,222 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 14:54:36,223 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 14:54:36,224 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 14:54:36,234 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 14:54:36,241 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 14:54:36,250 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 14:54:36,254 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 14:54:36,256 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 14:54:36,270 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 14:54:36,284 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 14:54:36,292 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 14:54:36,300 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 14:54:36,314 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 14:54:36,321 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 14:54:36,329 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 14:54:36,337 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 14:54:36,340 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 14:54:36,342 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 14:54:36,349 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 14:54:36,352 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 14:54:36,356 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 14:54:36,384 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 14:54:36,399 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 14:54:36,400 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 14:54:36,404 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 14:54:36,416 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 14:54:36,417 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 14:54:36,421 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 14:55:01,989 [61] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: RiseOnBetsClosedEvent: -157
+2019-04-05 14:55:43,287 [93] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Next Winning Number: 22
+2019-04-05 14:56:18,943 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Roulette till bets closed time 1: 30000
+2019-04-05 14:56:48,991 [78] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: RiseOnBetsClosedEvent: -47
+2019-04-05 14:57:30,304 [93] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Next Winning Number: 23
+2019-04-05 14:57:55,411 [87] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Roulette till bets closed time 1: 30000
+2019-04-05 14:58:25,477 [55] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: RiseOnBetsClosedEvent: -63
+2019-04-05 14:59:06,827 [13] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Next Winning Number: 33
+2019-04-05 14:59:32,073 [65] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Roulette till bets closed time 1: 30000
+2019-04-05 15:00:02,234 [58] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: RiseOnBetsClosedEvent: -156
+2019-04-05 15:00:13,909 [1] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: One Wheel For All Roulettes. Settings taken from portal: 1
+2019-04-05 15:00:19,072 [82] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: RiseOnBetsOpenEvent: 30000
+2019-04-05 15:00:43,542 [91] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Next Winning Number: 23
+2019-04-05 15:00:49,305 [50] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: RiseOnBetsClosedEvent: -234
+2019-04-05 15:00:56,864 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED -: 
+2019-04-05 15:00:56,866 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 15:00:56,869 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 15:00:56,870 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 15:00:56,871 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 15:00:56,872 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 15:00:56,873 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 15:00:56,876 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 15:00:56,877 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 15:00:56,878 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 15:00:56,880 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 15:00:56,882 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 15:00:56,883 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 15:00:56,884 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 15:00:56,885 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 15:00:56,886 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 15:00:56,887 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 15:00:56,888 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 15:00:56,890 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 15:00:56,892 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 15:00:56,894 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 15:00:56,895 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 15:00:56,896 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 15:00:56,896 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 15:00:56,902 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 15:00:56,904 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 15:00:57,057 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 15:00:57,169 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 15:00:57,170 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 15:00:57,171 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 15:00:57,172 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 15:00:57,173 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 15:00:57,174 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 15:00:57,175 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 15:00:57,176 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 15:00:57,176 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 15:00:57,177 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 15:00:57,178 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 15:00:57,179 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 15:00:57,179 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 15:00:57,180 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 15:00:57,181 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 15:00:57,181 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 15:00:57,182 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 15:00:57,182 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 15:00:57,183 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 15:00:57,184 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 15:00:57,185 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 15:00:57,185 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 15:00:57,186 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 15:00:57,187 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 15:00:57,187 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 15:00:57,188 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 15:00:57,189 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 15:00:57,189 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 15:00:57,190 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 15:00:57,191 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 15:00:57,191 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 15:00:57,192 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 15:00:57,192 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 15:00:57,193 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 15:00:57,194 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 15:00:57,194 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 15:00:57,195 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 15:00:57,195 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 15:00:57,196 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 15:00:57,197 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 15:00:57,197 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 15:00:57,198 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 15:00:57,198 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 15:00:57,199 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 15:00:57,200 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 15:00:57,200 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 15:00:57,207 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 15:00:57,213 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 15:00:57,215 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 15:00:57,218 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 15:00:57,220 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 15:00:57,222 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 15:00:57,223 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 15:00:57,227 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 15:00:57,230 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 15:00:57,232 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 15:00:57,233 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 15:00:57,234 [77] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 15:01:30,585 [13] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Next Winning Number: 27
+2019-04-05 15:01:55,602 [13] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Roulette till bets closed time 1: 30000
+2019-04-05 15:02:25,726 [93] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: RiseOnBetsClosedEvent: -125
+2019-04-05 15:03:06,880 [82] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Next Winning Number: 19
+2019-04-05 15:03:32,005 [70] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Roulette till bets closed time 1: 30000
+2019-04-05 15:04:02,176 [18] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: RiseOnBetsClosedEvent: -156
+2019-04-05 15:04:43,396 [50] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Next Winning Number: 23
+2019-04-05 15:05:08,437 [65] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Roulette till bets closed time 1: 30000
+2019-04-05 15:05:38,601 [50] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: RiseOnBetsClosedEvent: -172
+2019-04-05 15:06:19,836 [94] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Next Winning Number: 30
+2019-04-05 15:06:44,934 [10] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Roulette till bets closed time 1: 30000
+2019-04-05 15:07:15,149 [70] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: RiseOnBetsClosedEvent: -219
+2019-04-05 15:07:56,443 [66] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Next Winning Number: 22
+2019-04-05 15:08:21,524 [68] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Roulette till bets closed time 1: 30000
+2019-04-05 15:08:51,667 [94] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: RiseOnBetsClosedEvent: -140
+2019-04-05 15:09:32,803 [63] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Next Winning Number: 5
+2019-04-05 15:09:57,916 [78] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Roulette till bets closed time 1: 30000
+2019-04-05 15:10:28,165 [68] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: RiseOnBetsClosedEvent: -250
+2019-04-05 15:11:09,321 [82] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Next Winning Number: 18
+2019-04-05 15:11:34,351 [82] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Roulette till bets closed time 1: 30000
+2019-04-05 15:12:04,489 [55] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: RiseOnBetsClosedEvent: -141
+2019-04-05 15:12:45,609 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Next Winning Number: 2
+2019-04-05 15:13:10,620 [66] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Roulette till bets closed time 1: 30000
+2019-04-05 15:13:40,631 [62] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: RiseOnBetsClosedEvent: -15
+2019-04-05 15:14:21,711 [62] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Next Winning Number: 6
+2019-04-05 15:14:46,796 [10] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Roulette till bets closed time 1: 30000
+2019-04-05 15:15:16,821 [91] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: RiseOnBetsClosedEvent: -32
+2019-04-05 15:15:58,046 [10] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Next Winning Number: 28
+2019-04-05 15:16:23,169 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Roulette till bets closed time 1: 30000
+2019-04-05 15:16:53,368 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: RiseOnBetsClosedEvent: -204
+2019-04-05 15:17:34,662 [91] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Next Winning Number: 4
+2019-04-05 15:17:59,866 [91] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Roulette till bets closed time 1: 30000
+2019-04-05 15:18:30,023 [100] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: RiseOnBetsClosedEvent: -156
+2019-04-05 15:19:11,306 [10] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Next Winning Number: 6
+2019-04-05 15:19:36,381 [103] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Roulette till bets closed time 1: 30000
+2019-04-05 15:20:06,754 [91] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: RiseOnBetsClosedEvent: -313
+2019-04-05 15:20:48,085 [101] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Next Winning Number: 22
+2019-04-05 15:21:13,396 [10] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Roulette till bets closed time 1: 30000
+2019-04-05 15:21:43,661 [101] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: RiseOnBetsClosedEvent: -265
+2019-04-05 15:22:24,965 [26] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Next Winning Number: 6
+2019-04-05 15:22:50,129 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Roulette till bets closed time 1: 30000
+2019-04-05 15:23:20,320 [101] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: RiseOnBetsClosedEvent: -188
+2019-04-05 15:24:01,552 [59] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Next Winning Number: 25
+2019-04-05 15:24:26,657 [26] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Roulette till bets closed time 1: 30000
+2019-04-05 15:24:56,850 [101] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: RiseOnBetsClosedEvent: -203
+2019-04-05 15:25:37,960 [38] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Next Winning Number: 12
+2019-04-05 15:26:03,083 [26] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Roulette till bets closed time 1: 30000
+2019-04-05 15:26:33,303 [101] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: RiseOnBetsClosedEvent: -219
+2019-04-05 15:27:14,569 [104] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Next Winning Number: 16
+2019-04-05 15:27:39,741 [89] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Roulette till bets closed time 1: 30000
+2019-04-05 15:28:09,742 [30] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: RiseOnBetsClosedEvent: 0
+2019-04-05 15:28:50,984 [26] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Next Winning Number: 16
+2019-04-05 15:29:16,020 [56] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Roulette till bets closed time 1: 30000
+2019-04-05 15:29:46,036 [26] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: RiseOnBetsClosedEvent: 0
+2019-04-05 15:30:27,286 [92] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Next Winning Number: 28
+2019-04-05 15:30:52,406 [92] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Roulette till bets closed time 1: 30000
+2019-04-05 15:31:22,426 [73] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: RiseOnBetsClosedEvent: -31
+2019-04-05 15:32:03,725 [26] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Next Winning Number: 10
+2019-04-05 15:32:28,802 [56] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Roulette till bets closed time 1: 30000
+2019-04-05 15:32:58,819 [73] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: RiseOnBetsClosedEvent: -16
+2019-04-05 15:33:40,130 [104] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Next Winning Number: 7
+2019-04-05 16:14:59,231 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED -: 
+2019-04-05 16:14:59,232 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 16:14:59,236 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 16:14:59,238 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 16:14:59,240 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 16:14:59,242 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 16:14:59,244 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 16:14:59,246 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 16:14:59,247 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 16:14:59,249 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 16:14:59,250 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 16:14:59,251 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 16:14:59,252 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 16:14:59,253 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 16:14:59,255 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 16:14:59,256 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 16:14:59,258 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 16:14:59,260 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 16:14:59,261 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 16:14:59,262 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 16:14:59,264 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 16:14:59,265 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 16:14:59,266 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 16:14:59,268 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 16:14:59,270 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 16:14:59,271 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 16:14:59,274 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 16:14:59,276 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 16:14:59,277 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 16:14:59,278 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 16:14:59,279 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 16:14:59,281 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 16:14:59,282 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 16:14:59,283 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 16:14:59,284 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 16:14:59,285 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 16:14:59,286 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 16:14:59,287 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 16:14:59,288 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 16:14:59,290 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 16:14:59,291 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 16:14:59,292 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 16:14:59,293 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 16:14:59,294 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 16:14:59,295 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 16:14:59,296 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 16:14:59,297 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 16:14:59,298 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 16:14:59,299 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 16:14:59,300 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 16:14:59,302 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 16:14:59,304 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 16:14:59,305 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 16:14:59,306 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 16:14:59,307 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 16:14:59,308 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 16:14:59,309 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 16:14:59,311 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 16:14:59,312 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 16:14:59,313 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 16:14:59,314 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 16:14:59,315 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 16:14:59,316 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 16:14:59,317 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 16:14:59,319 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 16:14:59,320 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 16:14:59,322 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 16:14:59,323 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 16:14:59,324 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 16:14:59,325 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 16:14:59,326 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 16:14:59,327 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 16:14:59,328 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 16:14:59,329 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 16:14:59,331 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 16:14:59,332 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 16:14:59,333 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 16:14:59,335 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 16:14:59,336 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 16:14:59,337 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 16:14:59,338 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 16:14:59,339 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 
+2019-04-05 16:14:59,340 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED 0 
+2019-04-05 16:14:59,341 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED1: 
+2019-04-05 16:14:59,342 [20] INFO  OnlineRouletteWheels.Utils.RouletteWheelLogger - RoulleteWheel: DISPOSED2: 

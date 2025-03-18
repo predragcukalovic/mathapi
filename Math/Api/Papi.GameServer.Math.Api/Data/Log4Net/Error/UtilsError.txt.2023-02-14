@@ -1,0 +1,20 @@
+2023-02-14 10:51:35,912 [1] ERROR Utils.ApplicationPoolRecycleListener - APP POOL StartListening
+2023-02-14 11:31:17,676 [1] ERROR Utils.ApplicationPoolRecycleListener - APP POOL StartListening
+2023-02-14 11:32:52,942 [1] ERROR Utils.ApplicationPoolRecycleListener - APP POOL StartListening
+2023-02-14 12:03:26,139 [118] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://onlinestreampromo.Papi.rs:91/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-14 15:10:35,903 [1] ERROR Utils.ApplicationPoolRecycleListener - APP POOL StartListening
+2023-02-14 15:16:00,121 [102] ERROR Utils.ApplicationPoolRecycleListener - APP POOL StartListening
+2023-02-14 15:24:29,830 [54] ERROR Utils.ApplicationPoolRecycleListener - APP POOL StartListening
+2023-02-14 15:37:51,693 [57] ERROR Utils.ApplicationPoolRecycleListener - APP POOL StartListening
+2023-02-14 15:53:19,659 [188] ERROR Utils.ApplicationPoolRecycleListener - APP POOL StartListening
+2023-02-14 16:14:56,357 [57] ERROR Utils.ApplicationPoolRecycleListener - APP POOL StartListening
+2023-02-14 16:23:18,545 [200] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://onlinestreampromo.Papi.rs:91/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2023-02-14 16:32:07,521 [57] ERROR Utils.ApplicationPoolRecycleListener - APP POOL StartListening

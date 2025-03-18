@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <OutputType>Library</OutputType>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <Configurations>bbb;BetProduction;Debbbb;Debug;MainStreamProduction;Only FolderContentCheck;Production;Release;Work</Configurations>
+    <AssemblyTitle>GameVeryHot40Extreme</AssemblyTitle>
+    <Product>GameVeryHot40Extreme</Product>
+    <Copyright>Copyright ©  2024</Copyright>
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <FileVersion>1.0.0.0</FileVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Core\MathForGames\SlotSimulatorU\MathForGames.csproj" />
+    <ProjectReference Include="..\Data\MathBaseProject\GamesDTO.csproj" />
+    <ProjectReference Include="..\Games\GameVeryHot5Extreme\GameVeryHot5Extreme.csproj" />
+    <ProjectReference Include="..\Utils\CombinationUtils\CombinationUtils.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Papi.GameServer.Utils" Version="3.0.124" />
+    <PackageReference Include="Microsoft.CSharp" Version="4.7.0" />
+    <PackageReference Include="System.Data.DataSetExtensions" Version="4.5.0" />
+  </ItemGroup>
+</Project>

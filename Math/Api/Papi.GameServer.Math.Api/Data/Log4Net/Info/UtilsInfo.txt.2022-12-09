@@ -1,0 +1,30 @@
+2022-12-09 09:29:57,780 [1] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Init Virtual roulettes. UseVirtualRouletteApp: False
+2022-12-09 09:29:58,658 [159] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 192.168.88.31:91/api/streamconnection/getconnecttostream/?port=12024&streamType=premuxedStream;null: Next Winning Number: 35
+2022-12-09 09:29:58,659 [111] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: StartVideoStream: False
+2022-12-09 09:30:05,905 [123] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 192.168.88.31:91/api/streamconnection/getconnecttostream/?port=12024&streamType=premuxedStream;null: Roulette till bets closed time 1: 24000
+2022-12-09 09:30:05,905 [97] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: StartVideoStream: True
+2022-12-09 09:30:29,962 [144] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 192.168.88.31:91/api/streamconnection/getconnecttostream/?port=12024&streamType=premuxedStream;null: RiseOnBetsClosedEvent: -47
+2022-12-09 09:30:33,107 [148] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: StartVideoStream: False
+2022-12-09 09:30:34,665 [159] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Next Winning Number: 6
+2022-12-09 09:30:34,666 [58] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: StartVideoStream: False
+2022-12-09 09:30:45,214 [113] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 192.168.88.31:91/api/streamconnection/getconnecttostream/?port=12024&streamType=premuxedStream;null: Next Winning Number: 18
+2022-12-09 09:30:45,216 [94] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: StartVideoStream: False
+2022-12-09 09:30:52,477 [161] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 192.168.88.31:91/api/streamconnection/getconnecttostream/?port=12024&streamType=premuxedStream;null: Roulette till bets closed time 1: 24000
+2022-12-09 09:30:52,477 [42] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: StartVideoStream: True
+2022-12-09 09:30:59,651 [151] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: StartVideoStream: True
+2022-12-09 09:30:59,651 [157] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Roulette till bets closed time 1: 30000
+2022-12-09 09:31:16,587 [141] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 192.168.88.31:91/api/streamconnection/getconnecttostream/?port=12024&streamType=premuxedStream;null: RiseOnBetsClosedEvent: -109
+2022-12-09 09:31:19,651 [78] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: StartVideoStream: False
+2022-12-09 09:31:29,881 [58] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: RiseOnBetsClosedEvent: -219
+2022-12-09 09:31:31,710 [148] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 192.168.88.31:91/api/streamconnection/getconnecttostream/?port=12024&streamType=premuxedStream;null: Next Winning Number: 4
+2022-12-09 09:31:31,711 [116] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: StartVideoStream: False
+2022-12-09 09:31:34,047 [109] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: StartVideoStream: False
+2022-12-09 09:31:38,753 [151] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: StartVideoStream: True
+2022-12-09 09:31:38,753 [141] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 192.168.88.31:91/api/streamconnection/getconnecttostream/?port=12024&streamType=premuxedStream;null: Roulette till bets closed time 1: 24000
+2022-12-09 09:32:02,985 [155] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 192.168.88.31:91/api/streamconnection/getconnecttostream/?port=12024&streamType=premuxedStream;null: RiseOnBetsClosedEvent: -234
+2022-12-09 09:32:06,105 [123] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: StartVideoStream: False
+2022-12-09 09:32:11,051 [96] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: ocp.stream/api/streamconnection/getconnecttostream/?port=12015: Next Winning Number: 23
+2022-12-09 09:32:11,053 [145] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: StartVideoStream: False
+2022-12-09 09:32:17,313 [159] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: StartVideoStream: False
+2022-12-09 09:32:17,314 [95] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: StartVideoStream: False
+2022-12-09 09:32:17,314 [97] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: StartVideoStream: False

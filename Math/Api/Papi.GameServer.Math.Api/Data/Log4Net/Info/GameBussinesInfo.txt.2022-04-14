@@ -1,0 +1,7 @@
+2022-04-14 09:42:52,800 [144] INFO  GameBussines.NVRAMData.AccountLogData - DatabaseAccess: UserId: e527a6b6-3d7e-4326-a43a-2ed5790f475c, added win: 200
+2022-04-14 09:43:14,471 [125] INFO  GameBussines.NVRAMData.AccountLogData - DatabaseAccess: UserId: e527a6b6-3d7e-4326-a43a-2ed5790f475c, added win: 800
+2022-04-14 13:14:56,192 [8] INFO  GameBussines.NVRAMData.AccountLogData - DatabaseAccess: UserId: d5a2f577-b7ad-4ef0-9a42-a06f80e453dc, added win: 600
+2022-04-14 13:15:31,858 [12] INFO  GameBussines.NVRAMData.AccountLogData - DatabaseAccess: UserId: d5a2f577-b7ad-4ef0-9a42-a06f80e453dc, added win: 50
+2022-04-14 14:27:21,477 [123] INFO  GameBussines.NVRAMData.AccountLogData - DatabaseAccess: UserId: d5a2f577-b7ad-4ef0-9a42-a06f80e453dc, added win: 550
+2022-04-14 15:22:27,728 [161] INFO  GameBussines.NVRAMData.AccountLogData - DatabaseAccess: UserId: d5a2f577-b7ad-4ef0-9a42-a06f80e453dc, added win: 50
+2022-04-14 15:39:06,998 [242] INFO  GameBussines.NVRAMData.AccountLogData - DatabaseAccess: UserId: d5a2f577-b7ad-4ef0-9a42-a06f80e453dc, added win: 400

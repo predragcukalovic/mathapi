@@ -1,0 +1,2 @@
+2023-03-09 12:32:02,973 [34] INFO  GameBussines.NVRAMData.AccountLogData - DatabaseAccess: UserId: a0341d67-5503-4aac-a826-f422ecf6b3ea, added win: 100
+2023-03-09 12:32:12,477 [60] INFO  GameBussines.NVRAMData.AccountLogData - DatabaseAccess: UserId: a0341d67-5503-4aac-a826-f422ecf6b3ea, added win: 100

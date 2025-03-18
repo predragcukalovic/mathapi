@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <OutputType>Library</OutputType>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <Configurations>bbb;BetProduction;Debbbb;Debug;MainStreamProduction;Only FolderContentCheck;Production;Release;Work</Configurations>
+    <AssemblyTitle>GameTopHot5</AssemblyTitle>
+    <Product>GameTopHot5</Product>
+    <Copyright>Copyright ©  2024</Copyright>
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <FileVersion>1.0.0.0</FileVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Contracts\Papi.GameServer.Math.Contracts\Papi.GameServer.Math.Contracts.csproj" />
+    <ProjectReference Include="..\..\..\Core\MathForGames\SlotSimulatorU\MathForGames.csproj" />
+    <ProjectReference Include="..\..\..\Data\MathBaseProject\GamesDTO.csproj" />
+    <ProjectReference Include="..\..\..\Games\GameWild27\GameWild27.csproj" />
+    <ProjectReference Include="..\..\..\Utils\CombinationUtils\CombinationUtils.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.CSharp" Version="4.7.0" />
+    <PackageReference Include="System.Data.DataSetExtensions" Version="4.5.0" />
+  </ItemGroup>
+</Project>

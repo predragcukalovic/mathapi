@@ -1,0 +1,57 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <OutputType>Library</OutputType>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <Configurations>bbb;BetProduction;Debbbb;Debug;MainStreamProduction;Only FolderContentCheck;Production;Release;Work</Configurations>
+    <AssemblyTitle>BuyBonusCombination</AssemblyTitle>
+    <Product>BuyBonusCombination</Product>
+    <Copyright>Copyright ©  2023</Copyright>
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <FileVersion>1.0.0.0</FileVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Core\MathForGames\SlotSimulatorU\MathForGames.csproj" />
+    <ProjectReference Include="..\..\Data\MathBaseProject\GamesDTO.csproj" />
+    <ProjectReference Include="..\..\GamesBuyBonus\BuyBonusAgeOfRome\BuyBonusAgeOfRome.csproj" />
+    <ProjectReference Include="..\..\GamesBuyBonus\BuyBonusBonusBells\BuyBonusBonusBells.csproj" />
+    <ProjectReference Include="..\..\GamesBuyBonus\BuyBonusBonusEpicCrown\BuyBonusBonusEpicCrown.csproj" />
+    <ProjectReference Include="..\..\GamesBuyBonus\BuyBonusBookOfLuxorDouble\BuyBonusBookOfLuxorDouble.csproj" />
+    <ProjectReference Include="..\..\GamesBuyBonus\BuyBonusBookOfSpells\BuyBonusBookOfSpells.csproj" />
+    <ProjectReference Include="..\..\GamesBuyBonus\BuyBonusCrownOfSecret\BuyBonusCrownOfSecret.csproj" />
+    <ProjectReference Include="..\..\GamesBuyBonus\BuyBonusCrystalHot40FreeSpins\BuyBonusCrystalHot40Free.csproj" />
+    <ProjectReference Include="..\..\GamesBuyBonus\BuyBonusElGrandeToro\BuyBonusElGrandeToro.csproj" />
+    <ProjectReference Include="..\..\GamesBuyBonus\BuyBonusFruityForce40\BuyBonusFruityForce40.csproj" />
+    <ProjectReference Include="..\..\GamesBuyBonus\BuyBonusKingOfThunder\BuyBonusKingOfThunder.csproj" />
+    <ProjectReference Include="..\..\GamesBuyBonus\BuyBonusWildHot40FreeSpins\BuyBonusWildHot40FreeSpins.csproj" />
+    <ProjectReference Include="..\..\GamesBuyBonus\BuyBonusWildLuckyClover\BuyBonusWildLuckyClover.csproj" />
+    <ProjectReference Include="..\..\GamesBuyBonus\BuyWildEpicClover40\BuyWildEpicClover40.csproj" />
+    <ProjectReference Include="..\..\GamesBuyBonus\BuyWildGoldenCrownMax\BuyWildGoldenCrownMax.csproj" />
+    <ProjectReference Include="..\..\GamesBuyBonus\BuyWildGoldenCrown\BuyWildGoldenCrown.csproj" />
+    <ProjectReference Include="..\..\GamesBuyBonus\BuyWildVeryHot5\BuyWildVeryHot5.csproj" />
+    <ProjectReference Include="..\..\Games\GameBookOfDouble\GameBookOfDouble.csproj" />
+    <ProjectReference Include="..\..\Games\GameElGrandeToro\GameElGrandeToro.csproj" />
+    <ProjectReference Include="..\..\Games\GameKingOfThunder\GameKingOfThunder.csproj" />
+    <ProjectReference Include="..\CombinationExtras\CombinationExtras.csproj" />
+    <ProjectReference Include="..\CombinationUtils\CombinationUtils.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Papi.GameServer.RNGUtils" Version="1.1.2" />
+    <PackageReference Include="Papi.GameServer.Utils" Version="3.0.124" />
+    <PackageReference Include="Microsoft.CSharp" Version="4.7.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="Newtonsoft.Json.Bson" Version="1.0.1" />
+    <PackageReference Include="RestSharp" Version="106.6.2" />
+    <PackageReference Include="Serilog" Version="2.11.0" />
+    <PackageReference Include="Serilog.Enrichers.Environment" Version="2.2.0" />
+    <PackageReference Include="Serilog.Formatting.Elasticsearch" Version="8.4.1" />
+    <PackageReference Include="Serilog.Sinks.File" Version="5.0.0" />
+    <PackageReference Include="System.ComponentModel.Composition" Version="9.0.2" />
+    <PackageReference Include="System.Data.DataSetExtensions" Version="4.5.0" />
+    <PackageReference Include="System.Diagnostics.EventLog" Version="9.0.2" />
+    <PackageReference Include="System.Security.Principal.Windows" Version="5.0.0" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,2 @@
+2023-02-21 10:35:21,837 [95] INFO  GameBussines.NVRAMData.AccountLogData - DatabaseAccess: UserId: d035c3ec-c9e4-4f3a-87f2-83c62a868c97, added win: 25000
+2023-02-21 10:37:12,804 [80] INFO  GameBussines.NVRAMData.AccountLogData - DatabaseAccess: UserId: 16625077-f99b-44a4-89d7-af3e981d3610, added win: 1500

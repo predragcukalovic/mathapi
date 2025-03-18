@@ -1,0 +1,3 @@
+2020-05-29 12:21:35,562 [17] INFO  GameBussines.NVRAMData.AccountLogData - DatabaseAccess: UserId: 0ec238e5-5907-47f5-84e9-63e7bd44156e, added win: 200
+2020-05-29 12:22:33,713 [15] INFO  GameBussines.NVRAMData.AccountLogData - DatabaseAccess: UserId: 0ec238e5-5907-47f5-84e9-63e7bd44156e, added win: 50
+2020-05-29 12:23:21,122 [5] INFO  GameBussines.NVRAMData.AccountLogData - DatabaseAccess: UserId: 0ec238e5-5907-47f5-84e9-63e7bd44156e, added win: 6000

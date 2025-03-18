@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C970808B-59BE-4DD3-9711-6A4F56866A7C}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BuyWildVeryHot5</RootNamespace>
+    <AssemblyName>BuyWildVeryHot5</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BuyVeryHot5.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Core\MathForGames\SlotSimulatorU\MathForGames.csproj">
+      <Project>{3A6B28C5-F9B9-4CE6-A645-A09DF3A4C99C}</Project>
+      <Name>MathForGames</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Data\MathBaseProject\GamesDTO.csproj">
+      <Project>{31296044-A52C-4715-B084-F540A02857D0}</Project>
+      <Name>GamesDTO</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\GamesBuyBonus\LibraryBuyBonus\LibraryBuyBonus.csproj">
+      <Project>{E800D99A-5D31-4DD4-A039-21100144E333}</Project>
+      <Name>LibraryBuyBonus</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Games\GameLollasWorld\GameLollasWorld.csproj">
+      <Project>{9ddfc095-26d1-4042-acf3-210af8c5b02c}</Project>
+      <Name>GameLollasWorld</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Utils\CombinationExtras\CombinationExtras.csproj">
+      <Project>{638F9076-7747-4774-AB59-B1598DF599D6}</Project>
+      <Name>CombinationExtras</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Utils\CombinationUtils\CombinationUtils.csproj">
+      <Project>{5B3734F5-DDFA-4F5E-8E61-AB058425E86C}</Project>
+      <Name>CombinationUtils</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

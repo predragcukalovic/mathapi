@@ -1,0 +1,9 @@
+2019-03-08 14:59:39,038 [21] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2019-03-08 14:59:48,388 [21] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: eefff48d-0a83-4dca-a03c-7d83fb07c707
+2019-03-08 15:01:19,765 [62] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: eefff48d-0a83-4dca-a03c-7d83fb07c707
+2019-03-08 15:02:04,507 [63] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2019-03-08 15:02:07,464 [63] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: eefff48d-0a83-4dca-a03c-7d83fb07c707
+2019-03-08 15:05:12,826 [21] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2019-03-08 15:05:13,831 [21] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: eefff48d-0a83-4dca-a03c-7d83fb07c707
+2019-03-08 15:05:52,459 [8] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2019-03-08 15:05:53,366 [8] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: eefff48d-0a83-4dca-a03c-7d83fb07c707

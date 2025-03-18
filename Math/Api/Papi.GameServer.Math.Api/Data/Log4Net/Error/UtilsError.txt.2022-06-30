@@ -1,0 +1,94 @@
+2022-06-30 09:23:54,573 [1] ERROR Utils.ApplicationPoolRecycleListener - APP POOL StartListening
+2022-06-30 09:28:57,097 [115] ERROR Utils.ApplicationPoolRecycleListener - APP POOL StartListening
+2022-06-30 09:34:31,695 [92] ERROR Utils.ApplicationPoolRecycleListener - APP POOL StartListening
+2022-06-30 09:45:07,139 [1] ERROR Utils.ApplicationPoolRecycleListener - APP POOL StartListening
+2022-06-30 09:47:37,422 [1] ERROR Utils.ApplicationPoolRecycleListener - APP POOL StartListening
+2022-06-30 09:53:39,813 [1] ERROR Utils.ApplicationPoolRecycleListener - APP POOL StartListening
+2022-06-30 09:59:25,224 [126] ERROR Utils.ApplicationPoolRecycleListener - APP POOL StartListening
+2022-06-30 10:05:07,755 [126] ERROR Utils.ApplicationPoolRecycleListener - APP POOL StartListening
+2022-06-30 10:13:08,987 [5] ERROR Utils.ApplicationPoolRecycleListener - APP POOL StartListening
+2022-06-30 10:18:09,297 [88] ERROR Utils.ApplicationPoolRecycleListener - APP POOL StartListening
+2022-06-30 10:24:38,480 [1] ERROR Utils.ApplicationPoolRecycleListener - APP POOL StartListening
+2022-06-30 10:27:21,889 [79] ERROR Utils.ApplicationPoolRecycleListener - APP POOL StartListening
+2022-06-30 10:30:08,498 [41] ERROR Utils.ApplicationPoolRecycleListener - APP Pool 1.3_Cheat_And_Reset Recycle: The worker processes serving application pool '1.3_Cheat_And_Reset' are being recycled due to 1 or more configuration changes in the application pool properties which necessitate a restart of the processes.
+2022-06-30 10:35:08,371 [1] ERROR Utils.ApplicationPoolRecycleListener - APP POOL StartListening
+2022-06-30 10:42:56,952 [1] ERROR Utils.ApplicationPoolRecycleListener - APP POOL StartListening
+2022-06-30 10:45:45,937 [91] ERROR Utils.ApplicationPoolRecycleListener - APP POOL StartListening
+2022-06-30 10:53:01,651 [155] ERROR Utils.ApplicationPoolRecycleListener - Void StartListening(), System.InvalidOperationException: Cannot open log System on machine .. Windows has not provided an error code. ---> System.ComponentModel.Win32Exception: The RPC server is unavailable
+   --- End of inner exception stack trace ---
+   at System.Diagnostics.EventLogInternal.OpenForRead(String currentMachineName)
+   at System.Diagnostics.EventLogInternal.get_EntryCount()
+   at System.Diagnostics.EventLogInternal.StartListening(String currentMachineName, String currentLogName)
+   at System.Diagnostics.EventLogInternal.StartRaisingEvents(String currentMachineName, String currentLogName)
+   at System.Diagnostics.EventLogInternal.set_EnableRaisingEvents(Boolean value)
+   at Utils.ApplicationPoolRecycleListener.StartListening() in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\ApplicationPoolRecycleListener.cs:line 115
+2022-06-30 10:58:27,143 [1] ERROR Utils.ApplicationPoolRecycleListener - APP POOL StartListening
+2022-06-30 11:59:57,326 [1] ERROR Utils.ApplicationPoolRecycleListener - APP POOL StartListening
+2022-06-30 12:03:22,123 [90] ERROR Utils.ApplicationPoolRecycleListener - APP POOL StartListening
+2022-06-30 12:08:49,296 [65] ERROR Utils.ApplicationPoolRecycleListener - APP POOL StartListening
+2022-06-30 12:15:42,512 [83] ERROR Utils.ApplicationPoolRecycleListener - APP POOL StartListening
+2022-06-30 12:19:55,301 [1] ERROR Utils.ApplicationPoolRecycleListener - APP POOL StartListening
+2022-06-30 12:22:36,901 [69] ERROR Utils.ApplicationPoolRecycleListener - APP POOL StartListening
+2022-06-30 12:40:02,282 [83] ERROR Utils.ApplicationPoolRecycleListener - APP POOL StartListening
+2022-06-30 12:46:03,218 [63] ERROR Utils.ApplicationPoolRecycleListener - APP POOL StartListening
+2022-06-30 13:35:45,303 [1] ERROR Utils.ApplicationPoolRecycleListener - APP POOL StartListening
+2022-06-30 13:43:52,192 [118] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://onlinestreampromo.Papi.rs:91/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2022-06-30 13:43:52,200 [111] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://onlinestreampromo.Papi.rs:91/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2022-06-30 13:43:53,144 [100] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://onlinestreampromo.Papi.rs:91/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2022-06-30 13:44:03,605 [100] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://onlinestreampromo.Papi.rs:91/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2022-06-30 13:52:33,397 [41] ERROR Utils.ApplicationPoolRecycleListener - APP POOL StartListening
+2022-06-30 13:59:27,546 [40] ERROR Utils.ApplicationPoolRecycleListener - APP POOL StartListening
+2022-06-30 14:05:28,718 [40] ERROR Utils.ApplicationPoolRecycleListener - APP POOL StartListening
+2022-06-30 14:25:18,263 [103] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://onlinestreampromo.Papi.rs:91/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2022-06-30 15:20:44,823 [16] ERROR Utils.ApplicationPoolRecycleListener - APP POOL StartListening
+2022-06-30 15:37:02,766 [148] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://onlinestreampromo.Papi.rs:91/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2022-06-30 15:37:02,784 [51] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://onlinestreampromo.Papi.rs:91/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2022-06-30 15:37:02,802 [294] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://onlinestreampromo.Papi.rs:91/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2022-06-30 15:48:25,476 [116] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://onlinestreampromo.Papi.rs:91/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2022-06-30 15:51:42,713 [16] ERROR Utils.ApplicationPoolRecycleListener - APP POOL StartListening
+2022-06-30 16:01:38,779 [87] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://onlinestreampromo.Papi.rs:91/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159
+2022-06-30 16:01:41,789 [90] ERROR Utils.Logging.RouletteWheelLogger - RoulleteWheel: Error StartStreamVideo: http://onlinestreampromo.Papi.rs:91/api/stream/PostVirtualRouletteStreamEvent, System.Runtime.Serialization.SerializationException: Invalid JSON string
+   at RestSharp.SimpleJson.DeserializeObject(String json)
+   at RestSharp.Deserializers.JsonDeserializer.FindRoot(String content)
+   at RestSharp.Deserializers.JsonDeserializer.Deserialize[T](IRestResponse response)
+   at Utils.StreamVideo.RemoteRouletteVideoStream.StartStreamVideo(Boolean enableStream, Boolean intro) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\Utils\StreamVideo\RemoteRouletteVideoStream.cs:line 159

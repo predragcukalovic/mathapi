@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <OutputType>Library</OutputType>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <Configurations>bbb;BetProduction;Debbbb;Debug;MainStreamProduction;Only FolderContentCheck;Production;Release;Work</Configurations>
+    <AssemblyTitle>BuyBonusWildHot40FreeSpins</AssemblyTitle>
+    <Product>BuyBonusWildHot40FreeSpins</Product>
+    <Copyright>Copyright ©  2024</Copyright>
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <FileVersion>1.0.0.0</FileVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Core\MathForGames\SlotSimulatorU\MathForGames.csproj" />
+    <ProjectReference Include="..\..\Games\GameBonusBells\GameBonusBells.csproj" />
+    <ProjectReference Include="..\..\Games\GameSevenClassicHot\GameSevenClassicHot.csproj" />
+    <ProjectReference Include="..\..\Games\GameWildClover506\GameWildClover506.csproj" />
+    <ProjectReference Include="..\..\Utils\CombinationExtras\CombinationExtras.csproj" />
+    <ProjectReference Include="..\..\Utils\CombinationUtils\CombinationUtils.csproj" />
+    <ProjectReference Include="..\LibraryBuyBonus\LibraryBuyBonus.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.CSharp" Version="4.7.0" />
+    <PackageReference Include="System.Data.DataSetExtensions" Version="4.5.0" />
+  </ItemGroup>
+</Project>

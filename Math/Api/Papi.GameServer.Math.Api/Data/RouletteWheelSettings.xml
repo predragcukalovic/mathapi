@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <!--  -->
+  <LoggingEnabled>true</LoggingEnabled>
+  <!--  -->
+  <WaitOnStartTimeS>5</WaitOnStartTimeS>
+  <!-- -->
+  <BetsOpenedToBetsClosedEventTimeS>30</BetsOpenedToBetsClosedEventTimeS>
+  <!-- -->
+  <BetsClosedToPreWinningEventTimeS>4</BetsClosedToPreWinningEventTimeS>
+  <!-- -->
+  <PreWinningToWinningEventTimeS>37</PreWinningToWinningEventTimeS>
+  <!-- -->
+  <WinningToBetsOpenedEventTimeS>25</WinningToBetsOpenedEventTimeS>
+  <!-- -->
+  <!-- -->
+  <WinningNumberHistoryLength>20</WinningNumberHistoryLength>
+  <!-- -->
+  <!-- Configure 1000, 500, 250 or 200 for WorkingTimerIntervalMs -->
+  <WorkingTimerIntervalMs>250</WorkingTimerIntervalMs>
+  <!-- -->
+
+  <BroadcastFrameWidth>387</BroadcastFrameWidth>
+  <BroadcastFrameHeight>250</BroadcastFrameHeight>
+  <BroadcastChunkSize>65000</BroadcastChunkSize>
+  <!-- jpegsStream, videoStream -->
+  <StreamType>jpegsStream</StreamType>
+  <!-- true if one virtual wheel is used for all portals -->
+  <OneWheelForAll>true</OneWheelForAll>
+</root>

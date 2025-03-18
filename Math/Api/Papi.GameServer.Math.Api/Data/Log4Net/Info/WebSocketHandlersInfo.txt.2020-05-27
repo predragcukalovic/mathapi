@@ -1,0 +1,73 @@
+2020-05-27 14:24:11,774 [10] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2020-05-27 14:24:17,602 [10] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: 53edbe18-4d56-4cb7-a35d-1bdf50a1eddf
+2020-05-27 14:25:33,454 [30] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2020-05-27 14:25:34,656 [30] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: a6eb8e3d-6d3f-4c78-8b49-4ea0d2c71d7d
+2020-05-27 14:27:54,447 [12] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnError entered: 
+2020-05-27 14:27:54,448 [10] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnError entered: 
+2020-05-27 14:27:54,499 [12] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnError current exception: System.Net.WebSockets.WebSocketException (0x800703E3): The I/O operation has been aborted because of either a thread exit or an application request
+   at System.Web.WebSockets.WebSocketPipe.<>c__DisplayClass9_0.<ReadFragmentAsync>b__0(Int32 hrError, Int32 cbIO, Boolean fUtf8Encoded, Boolean fFinalFragment, Boolean fClose)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Web.WebSockets.AspNetWebSocket.<DoWork>d__45`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Web.WebSockets.AspNetWebSocket.<>c__DisplayClass36_0.<<ReceiveAsyncImpl>b__0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.Web.WebSockets.WebSocketMessageReader.<ReadMessageAsync>d__0.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at Microsoft.Web.WebSockets.WebSocketHandler.<ProcessWebSocketRequestAsync>d__9.MoveNext()
+2020-05-27 14:27:54,513 [10] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnError current exception: System.Net.WebSockets.WebSocketException (0x800703E3): The I/O operation has been aborted because of either a thread exit or an application request
+   at System.Web.WebSockets.WebSocketPipe.<>c__DisplayClass9_0.<ReadFragmentAsync>b__0(Int32 hrError, Int32 cbIO, Boolean fUtf8Encoded, Boolean fFinalFragment, Boolean fClose)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Web.WebSockets.AspNetWebSocket.<DoWork>d__45`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Web.WebSockets.AspNetWebSocket.<>c__DisplayClass36_0.<<ReceiveAsyncImpl>b__0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.Web.WebSockets.WebSocketMessageReader.<ReadMessageAsync>d__0.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at Microsoft.Web.WebSockets.WebSocketHandler.<ProcessWebSocketRequestAsync>d__9.MoveNext()
+2020-05-27 14:27:58,265 [10] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnClose Error: 53edbe18-4d56-4cb7-a35d-1bdf50a1eddf, message: System.InvalidOperationException: Sequence contains more than one matching element
+   at System.Linq.Enumerable.SingleOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at OnlineRouletteWheels.RouletteWheelSimulation.RouletteWheelCore.GetRouletteWheel(Int32 gameId) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\RouletteWheelSimulator\OnlineGames.RouletteWheelSimulator\RouletteWheelSimulation\RouletteWheelCore.cs:line 332
+   at OnlineGamesMath.RouletteMathMain.RemoveHandlers(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\OnlineGamesMath\RouletteMathMain.cs:line 355
+   at OnlineGamesMath.MathMain.RemoveRouletteHandlers(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\OnlineGamesMath\MathMain.cs:line 189
+   at ControlLib.WebChannelControl.WebMessageAControlCore.RemoveRouletteHandlers(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\ControlLib\WebChannelControl\WebMessageAControlCore.cs:line 1170
+   at ControlLib.WebChannelControl.WebChannelAMessageLogic.RemoveRouletteHandlers(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\ControlLib\WebChannelControl\WebChannelAMessageLogic.cs:line 434
+   at ControlLib.ClientMain.RemoveRouletteHandlers(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\ControlLib\ClientMain.cs:line 432
+   at OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler.RemoveHandlersAndClient(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\OCP\Project\OCP\UI\Web\WebSocketHandlers\ChannelAWebSocketHandler.cs:line 586
+   at OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler.OnClose() in d:\Work\OCP\branches\Dev\1.2_Communication_V3\OCP\Project\OCP\UI\Web\WebSocketHandlers\ChannelAWebSocketHandler.cs:line 338
+2020-05-27 14:28:00,318 [12] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnClose Error: a6eb8e3d-6d3f-4c78-8b49-4ea0d2c71d7d, message: System.InvalidOperationException: Sequence contains more than one matching element
+   at System.Linq.Enumerable.SingleOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at OnlineRouletteWheels.RouletteWheelSimulation.RouletteWheelCore.GetRouletteWheel(Int32 gameId) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\RouletteWheelSimulator\OnlineGames.RouletteWheelSimulator\RouletteWheelSimulation\RouletteWheelCore.cs:line 332
+   at OnlineGamesMath.RouletteMathMain.RemoveHandlers(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\OnlineGamesMath\RouletteMathMain.cs:line 355
+   at OnlineGamesMath.MathMain.RemoveRouletteHandlers(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\OnlineGamesMath\MathMain.cs:line 189
+   at ControlLib.WebChannelControl.WebMessageAControlCore.RemoveRouletteHandlers(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\ControlLib\WebChannelControl\WebMessageAControlCore.cs:line 1170
+   at ControlLib.WebChannelControl.WebChannelAMessageLogic.RemoveRouletteHandlers(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\ControlLib\WebChannelControl\WebChannelAMessageLogic.cs:line 434
+   at ControlLib.ClientMain.RemoveRouletteHandlers(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\ControlLib\ClientMain.cs:line 432
+   at OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler.RemoveHandlersAndClient(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\OCP\Project\OCP\UI\Web\WebSocketHandlers\ChannelAWebSocketHandler.cs:line 586
+   at OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler.OnClose() in d:\Work\OCP\branches\Dev\1.2_Communication_V3\OCP\Project\OCP\UI\Web\WebSocketHandlers\ChannelAWebSocketHandler.cs:line 338
+2020-05-27 14:29:30,980 [16] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2020-05-27 14:29:34,993 [16] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: 3f7efb0e-c701-4eec-9b8e-96a4272ed906
+2020-05-27 14:31:24,547 [16] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnClose Error: 3f7efb0e-c701-4eec-9b8e-96a4272ed906, message: System.InvalidOperationException: Sequence contains more than one matching element
+   at System.Linq.Enumerable.SingleOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at OnlineRouletteWheels.RouletteWheelSimulation.RouletteWheelCore.GetRouletteWheel(Int32 gameId) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\RouletteWheelSimulator\OnlineGames.RouletteWheelSimulator\RouletteWheelSimulation\RouletteWheelCore.cs:line 332
+   at OnlineGamesMath.RouletteMathMain.RemoveHandlers(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\OnlineGamesMath\RouletteMathMain.cs:line 355
+   at OnlineGamesMath.MathMain.RemoveRouletteHandlers(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\OnlineGamesMath\MathMain.cs:line 189
+   at ControlLib.WebChannelControl.WebMessageAControlCore.RemoveRouletteHandlers(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\ControlLib\WebChannelControl\WebMessageAControlCore.cs:line 1170
+   at ControlLib.WebChannelControl.WebChannelAMessageLogic.RemoveRouletteHandlers(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\ControlLib\WebChannelControl\WebChannelAMessageLogic.cs:line 434
+   at ControlLib.ClientMain.RemoveRouletteHandlers(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\ControlLib\ClientMain.cs:line 432
+   at OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler.RemoveHandlersAndClient(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\OCP\Project\OCP\UI\Web\WebSocketHandlers\ChannelAWebSocketHandler.cs:line 586
+   at OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler.OnClose() in d:\Work\OCP\branches\Dev\1.2_Communication_V3\OCP\Project\OCP\UI\Web\WebSocketHandlers\ChannelAWebSocketHandler.cs:line 338
+2020-05-27 14:31:26,103 [24] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: 3f7efb0e-c701-4eec-9b8e-96a4272ed906

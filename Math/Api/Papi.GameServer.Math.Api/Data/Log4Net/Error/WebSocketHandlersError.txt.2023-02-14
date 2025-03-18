@@ -1,0 +1,13 @@
+2023-02-14 15:20:25,088 [91] ERROR OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: d035c3ec-c9e4-4f3a-87f2-83c62a868c97
+2023-02-14 15:47:11,367 [64] ERROR OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: d035c3ec-c9e4-4f3a-87f2-83c62a868c97
+2023-02-14 15:54:59,711 [62] ERROR OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: d035c3ec-c9e4-4f3a-87f2-83c62a868c97
+2023-02-14 15:58:48,081 [16] ERROR OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: d035c3ec-c9e4-4f3a-87f2-83c62a868c97
+2023-02-14 16:01:46,211 [60] ERROR OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: d035c3ec-c9e4-4f3a-87f2-83c62a868c97
+2023-02-14 16:16:13,306 [96] ERROR OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnFatalCodeError, close connection: 00000000-0000-0000-0000-000000000000
+2023-02-14 16:16:16,679 [96] ERROR OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnOpen Error: 00000000-0000-0000-0000-000000000000, message: System.Exception: AccountingLog for user 00000000-0000-0000-0000-000000000000 does not exist.
+   at PortalJpUtils.NVRAMLogic.LoadDataFromNVRAM(String userId, Int32 portalId, Int32 groupId, Boolean forMoney, Int64 initialBalance, Int32 liveRouletteId) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\PortalJpUtils\NVRAMLogic.cs:line 77
+   at ControlLib.ClientMain.InitializeNVRAM() in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\ControlLib\ClientMain.cs:line 240
+   at ControlLib.ClientMain.Initialize() in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\ControlLib\ClientMain.cs:line 297
+   at OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler.OnOpen() in C:\projekti\1.3_Cheat_And_Reset\OCP\Project\OCP\UI\Web\WebSocketHandlers\ChannelAWebSocketHandler.cs:line 321
+2023-02-14 16:16:19,589 [113] ERROR OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnMessage, user blocked or doesn't exist, close connection: 00000000-0000-0000-0000-000000000000
+2023-02-14 16:25:33,879 [196] ERROR OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: d035c3ec-c9e4-4f3a-87f2-83c62a868c97

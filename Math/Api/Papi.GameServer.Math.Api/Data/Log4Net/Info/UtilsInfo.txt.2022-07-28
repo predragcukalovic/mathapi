@@ -1,0 +1,21 @@
+2022-07-28 13:31:21,770 [1] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Init Virtual roulettes. UseVirtualRouletteApp: False
+2022-07-28 13:35:50,218 [29] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Init Virtual roulettes. UseVirtualRouletteApp: False
+2022-07-28 13:35:55,421 [71] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: onlinestreamprod.Papi.rs/api/streamconnection/getconnecttostream/?port=12044&streamType=premuxedStream;null: RiseOnBetsOpenEvent: 24000
+2022-07-28 13:35:55,422 [56] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: StartVideoStream: True
+2022-07-28 13:35:55,545 [56] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: StartVideoStream end: 
+2022-07-28 13:48:03,071 [1] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Init Virtual roulettes. UseVirtualRouletteApp: False
+2022-07-28 13:48:08,318 [43] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: onlinestreamprod.Papi.rs/api/streamconnection/getconnecttostream/?port=12044&streamType=premuxedStream;null: RiseOnBetsOpenEvent: 24000
+2022-07-28 13:48:08,319 [137] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: StartVideoStream: True
+2022-07-28 13:48:08,427 [137] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: StartVideoStream end: 
+2022-07-28 14:04:07,355 [158] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Init Virtual roulettes. UseVirtualRouletteApp: False
+2022-07-28 14:04:12,487 [87] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: onlinestreamprod.Papi.rs/api/streamconnection/getconnecttostream/?port=12044&streamType=premuxedStream;null: RiseOnBetsOpenEvent: 24000
+2022-07-28 14:04:12,487 [131] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: StartVideoStream: True
+2022-07-28 14:04:12,630 [131] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: StartVideoStream end: 
+2022-07-28 14:23:23,240 [1] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Init Virtual roulettes. UseVirtualRouletteApp: False
+2022-07-28 14:23:28,436 [225] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: onlinestreamprod.Papi.rs/api/streamconnection/getconnecttostream/?port=12044&streamType=premuxedStream;null: RiseOnBetsOpenEvent: 24000
+2022-07-28 14:23:28,438 [232] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: StartVideoStream: True
+2022-07-28 14:23:28,569 [232] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: StartVideoStream end: 
+2022-07-28 14:27:06,572 [165] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Init Virtual roulettes. UseVirtualRouletteApp: False
+2022-07-28 14:27:11,701 [186] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: onlinestreamprod.Papi.rs/api/streamconnection/getconnecttostream/?port=12044&streamType=premuxedStream;null: RiseOnBetsOpenEvent: 24000
+2022-07-28 14:27:11,702 [207] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: StartVideoStream: True
+2022-07-28 14:27:11,766 [207] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: StartVideoStream end: 

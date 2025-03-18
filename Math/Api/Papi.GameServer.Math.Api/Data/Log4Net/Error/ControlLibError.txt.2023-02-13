@@ -1,0 +1,7 @@
+2023-02-13 14:14:22,632 [110] ERROR ControlLib.TerminalControl.GameControl - GameControl: Player does not have enought credits, player d035c3ec-c9e4-4f3a-87f2-83c62a868c97, gameId 1,  curent credits: 200, bet: 200 
+2023-02-13 14:14:24,014 [82] ERROR ControlLib.TerminalControl.GameControl - GameControl: Player does not have enought credits, player d035c3ec-c9e4-4f3a-87f2-83c62a868c97, gameId 1,  curent credits: 200, bet: 200 
+2023-02-13 15:06:47,625 [67] ERROR ControlLib.TerminalControl.GameControl - GameControl: Illegal bet 3 - Bet too high: 200 0, credits: 1000
+2023-02-13 15:45:05,152 [116] ERROR ControlLib.TerminalControl.GameControl - GameControl: Illegal bet 3 - Bet too high: 200 0, credits: 1000
+2023-02-13 15:51:28,077 [71] ERROR ControlLib.TerminalControl.GameControl - GameControl: Illegal bet 3 - Bet too high: 200 0, credits: 400
+2023-02-13 15:55:29,468 [185] ERROR ControlLib.TerminalControl.GameControl - GameControl: Player does not have enought credits, player d035c3ec-c9e4-4f3a-87f2-83c62a868c97, gameId 23,  curent credits: 200, bet: 200 
+2023-02-13 15:55:50,394 [167] ERROR ControlLib.TerminalControl.GameControl - GameControl: Player does not have enought credits, player d035c3ec-c9e4-4f3a-87f2-83c62a868c97, gameId 23,  curent credits: 200, bet: 200 

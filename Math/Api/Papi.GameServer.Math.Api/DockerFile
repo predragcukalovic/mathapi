@@ -1,0 +1,16 @@
+FROM mcr.microsoft.com/dotnet/framework/sdk:4.8.1 as math-build
+WORKDIR /Math
+COPY . .
+RUN nuget restore Math.sln && msbuild -t:restore Math.sln -p:RestoreConfigFile=nuget.config
+RUN msbuild Api/Papi.GameServer.Math.Api/Papi.GameServer.Math.Api.csproj /p:DeployOnBuild=true /p:PublishProfile=.\Properties\PublishProfiles\ReleaseProfile.pubxml
+
+
+FROM mcr.microsoft.com/dotnet/framework/aspnet:4.8.1
+EXPOSE 80
+WORKDIR /math-api
+COPY --from=math-build /Math/Api/Papi.GameServer.Math.Api/release/ .
+# Create ApplicationPool and Website
+RUN powershell -Command \
+    New-WebAppPool -Name "MathAPIPool"; \
+    Set-ItemProperty "IIS:\AppPools\MathAPIPool" -Name enable32BitAppOnWin64 -Value $($true); \
+    New-Website -Name "MathAPI" -Port 80 -PhysicalPath "C:\math-api" -ApplicationPool "MathAPIPool"

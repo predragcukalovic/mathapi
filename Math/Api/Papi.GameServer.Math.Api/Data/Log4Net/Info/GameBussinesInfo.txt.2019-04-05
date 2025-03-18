@@ -1,0 +1,2 @@
+2019-04-05 14:57:11,934 [78] INFO  GameBussines.NVRAMData.AccountLogData - DatabaseAccess: UserId: bd1c7742-6b91-40a7-88e8-8ccf0773a9a0, added win: 200
+2019-04-05 14:57:32,621 [18] INFO  GameBussines.NVRAMData.AccountLogData - DatabaseAccess: UserId: bd1c7742-6b91-40a7-88e8-8ccf0773a9a0, added win: 250

@@ -1,0 +1,60 @@
+2019-01-16 16:39:04,043 [11] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2019-01-16 16:40:57,316 [11] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: 0b5dbc04-58e6-41bf-af55-ab18a5584c8c
+2019-01-16 16:44:00,221 [11] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: 0b5dbc04-58e6-41bf-af55-ab18a5584c8c
+2019-01-16 16:46:38,280 [36] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2019-01-16 16:46:40,161 [36] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: 0b5dbc04-58e6-41bf-af55-ab18a5584c8c
+2019-01-16 16:46:50,262 [42] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnError entered: 
+2019-01-16 16:46:50,300 [42] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnError current exception: System.Net.WebSockets.WebSocketException (0x800703E3): The I/O operation has been aborted because of either a thread exit or an application request
+   at System.Web.WebSockets.WebSocketPipe.<>c__DisplayClass9_0.<ReadFragmentAsync>b__0(Int32 hrError, Int32 cbIO, Boolean fUtf8Encoded, Boolean fFinalFragment, Boolean fClose)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Web.WebSockets.AspNetWebSocket.<DoWork>d__45`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Web.WebSockets.AspNetWebSocket.<>c__DisplayClass36_0.<<ReceiveAsyncImpl>b__0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.Web.WebSockets.WebSocketMessageReader.<ReadMessageAsync>d__0.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.Web.WebSockets.WebSocketHandler.<ProcessWebSocketRequestAsync>d__9.MoveNext()
+2019-01-16 16:47:51,305 [54] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2019-01-16 16:47:53,903 [54] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: 0b5dbc04-58e6-41bf-af55-ab18a5584c8c
+2019-01-16 16:49:54,436 [24] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: 0b5dbc04-58e6-41bf-af55-ab18a5584c8c
+2019-01-16 16:49:55,857 [75] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2019-01-16 16:49:56,943 [75] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: 0b5dbc04-58e6-41bf-af55-ab18a5584c8c
+2019-01-16 16:51:47,449 [73] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: 0b5dbc04-58e6-41bf-af55-ab18a5584c8c
+2019-01-16 16:51:48,138 [19] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2019-01-16 16:51:49,053 [19] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: 0b5dbc04-58e6-41bf-af55-ab18a5584c8c
+2019-01-16 16:53:02,719 [21] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: 0b5dbc04-58e6-41bf-af55-ab18a5584c8c
+2019-01-16 16:53:41,143 [83] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2019-01-16 16:53:41,945 [83] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: 0b5dbc04-58e6-41bf-af55-ab18a5584c8c
+2019-01-16 16:55:26,523 [13] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: 0b5dbc04-58e6-41bf-af55-ab18a5584c8c
+2019-01-16 17:14:28,699 [23] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2019-01-16 17:14:30,297 [23] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: 0b5dbc04-58e6-41bf-af55-ab18a5584c8c
+2019-01-16 17:17:46,467 [76] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: 0b5dbc04-58e6-41bf-af55-ab18a5584c8c
+2019-01-16 17:20:09,026 [22] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2019-01-16 17:20:11,798 [22] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: 0b5dbc04-58e6-41bf-af55-ab18a5584c8c
+2019-01-16 17:22:56,967 [11] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2019-01-16 17:22:57,825 [11] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: 0b5dbc04-58e6-41bf-af55-ab18a5584c8c
+2019-01-16 17:23:30,933 [55] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2019-01-16 17:23:31,703 [55] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: 0b5dbc04-58e6-41bf-af55-ab18a5584c8c
+2019-01-16 17:24:53,905 [17] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2019-01-16 17:24:54,798 [17] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: 0b5dbc04-58e6-41bf-af55-ab18a5584c8c
+2019-01-16 17:25:31,862 [20] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: 0b5dbc04-58e6-41bf-af55-ab18a5584c8c
+2019-01-16 17:28:26,122 [83] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2019-01-16 17:28:27,836 [83] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: 0b5dbc04-58e6-41bf-af55-ab18a5584c8c
+2019-01-16 17:28:56,489 [32] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2019-01-16 17:28:57,328 [32] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: 0b5dbc04-58e6-41bf-af55-ab18a5584c8c
+2019-01-16 17:31:57,630 [32] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: 0b5dbc04-58e6-41bf-af55-ab18a5584c8c
+2019-01-16 17:32:26,056 [64] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2019-01-16 17:32:27,116 [64] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: 0b5dbc04-58e6-41bf-af55-ab18a5584c8c
+2019-01-16 17:33:42,112 [57] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2019-01-16 17:33:42,915 [57] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: 0b5dbc04-58e6-41bf-af55-ab18a5584c8c
+2019-01-16 17:34:25,290 [69] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: 0b5dbc04-58e6-41bf-af55-ab18a5584c8c
+2019-01-16 17:34:28,333 [69] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2019-01-16 17:34:29,137 [69] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: 0b5dbc04-58e6-41bf-af55-ab18a5584c8c

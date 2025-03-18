@@ -1,0 +1,237 @@
+2020-06-08 12:10:11,624 [33] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: 4
+2020-06-08 12:10:16,696 [33] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: e527a6b6-3d7e-4326-a43a-2ed5790f475c
+2020-06-08 12:10:45,166 [32] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: e527a6b6-3d7e-4326-a43a-2ed5790f475c
+2020-06-08 12:10:47,543 [34] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnClose Error: e527a6b6-3d7e-4326-a43a-2ed5790f475c, message: System.InvalidOperationException: Sequence contains more than one matching element
+   at System.Linq.Enumerable.SingleOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at OnlineRouletteWheels.LiveRouletteWheel.LiveRouletteWheelCore.GetRouletteWheel(Int32 liveRouletteId) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\RouletteWheelSimulator\OnlineGames.RouletteWheelSimulator\LiveRouletteWheel\LiveRouletteWheelCore.cs:line 88
+   at OnlineGamesMath.RouletteMathMain.RemoveHandlers(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\OnlineGamesMath\RouletteMathMain.cs:line 344
+   at OnlineGamesMath.MathMain.RemoveRouletteHandlers(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\OnlineGamesMath\MathMain.cs:line 189
+   at ControlLib.WebChannelControl.WebMessageAControlCore.RemoveRouletteHandlers(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\ControlLib\WebChannelControl\WebMessageAControlCore.cs:line 1170
+   at ControlLib.WebChannelControl.WebChannelAMessageLogic.RemoveRouletteHandlers(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\ControlLib\WebChannelControl\WebChannelAMessageLogic.cs:line 434
+   at ControlLib.ClientMain.RemoveRouletteHandlers(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\ControlLib\ClientMain.cs:line 432
+   at OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler.RemoveHandlersAndClient(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\OCP\Project\OCP\UI\Web\WebSocketHandlers\ChannelAWebSocketHandler.cs:line 586
+   at OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler.OnClose() in d:\Work\OCP\branches\Dev\1.2_Communication_V3\OCP\Project\OCP\UI\Web\WebSocketHandlers\ChannelAWebSocketHandler.cs:line 338
+2020-06-08 12:14:39,944 [33] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: 4
+2020-06-08 12:14:45,252 [33] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: e527a6b6-3d7e-4326-a43a-2ed5790f475c
+2020-06-08 12:15:23,296 [14] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: e527a6b6-3d7e-4326-a43a-2ed5790f475c
+2020-06-08 12:15:25,409 [9] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnClose Error: e527a6b6-3d7e-4326-a43a-2ed5790f475c, message: System.InvalidOperationException: Sequence contains more than one matching element
+   at System.Linq.Enumerable.SingleOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at OnlineRouletteWheels.LiveRouletteWheel.LiveRouletteWheelCore.GetRouletteWheel(Int32 liveRouletteId) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\RouletteWheelSimulator\OnlineGames.RouletteWheelSimulator\LiveRouletteWheel\LiveRouletteWheelCore.cs:line 88
+   at OnlineGamesMath.RouletteMathMain.RemoveHandlers(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\OnlineGamesMath\RouletteMathMain.cs:line 344
+   at OnlineGamesMath.MathMain.RemoveRouletteHandlers(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\OnlineGamesMath\MathMain.cs:line 189
+   at ControlLib.WebChannelControl.WebMessageAControlCore.RemoveRouletteHandlers(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\ControlLib\WebChannelControl\WebMessageAControlCore.cs:line 1170
+   at ControlLib.WebChannelControl.WebChannelAMessageLogic.RemoveRouletteHandlers(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\ControlLib\WebChannelControl\WebChannelAMessageLogic.cs:line 434
+   at ControlLib.ClientMain.RemoveRouletteHandlers(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\ControlLib\ClientMain.cs:line 432
+   at OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler.RemoveHandlersAndClient(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\OCP\Project\OCP\UI\Web\WebSocketHandlers\ChannelAWebSocketHandler.cs:line 586
+   at OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler.OnClose() in d:\Work\OCP\branches\Dev\1.2_Communication_V3\OCP\Project\OCP\UI\Web\WebSocketHandlers\ChannelAWebSocketHandler.cs:line 338
+2020-06-08 12:20:08,334 [7] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: 4
+2020-06-08 12:20:11,606 [7] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: e527a6b6-3d7e-4326-a43a-2ed5790f475c
+2020-06-08 12:20:53,515 [23] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: e527a6b6-3d7e-4326-a43a-2ed5790f475c
+2020-06-08 12:20:55,695 [7] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnClose Error: e527a6b6-3d7e-4326-a43a-2ed5790f475c, message: System.InvalidOperationException: Sequence contains more than one matching element
+   at System.Linq.Enumerable.SingleOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at OnlineRouletteWheels.LiveRouletteWheel.LiveRouletteWheelCore.GetRouletteWheel(Int32 liveRouletteId) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\RouletteWheelSimulator\OnlineGames.RouletteWheelSimulator\LiveRouletteWheel\LiveRouletteWheelCore.cs:line 88
+   at OnlineGamesMath.RouletteMathMain.RemoveHandlers(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\OnlineGamesMath\RouletteMathMain.cs:line 344
+   at OnlineGamesMath.MathMain.RemoveRouletteHandlers(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\OnlineGamesMath\MathMain.cs:line 189
+   at ControlLib.WebChannelControl.WebMessageAControlCore.RemoveRouletteHandlers(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\ControlLib\WebChannelControl\WebMessageAControlCore.cs:line 1170
+   at ControlLib.WebChannelControl.WebChannelAMessageLogic.RemoveRouletteHandlers(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\ControlLib\WebChannelControl\WebChannelAMessageLogic.cs:line 434
+   at ControlLib.ClientMain.RemoveRouletteHandlers(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\ControlLib\ClientMain.cs:line 432
+   at OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler.RemoveHandlersAndClient(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\OCP\Project\OCP\UI\Web\WebSocketHandlers\ChannelAWebSocketHandler.cs:line 586
+   at OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler.OnClose() in d:\Work\OCP\branches\Dev\1.2_Communication_V3\OCP\Project\OCP\UI\Web\WebSocketHandlers\ChannelAWebSocketHandler.cs:line 338
+2020-06-08 12:33:17,644 [12] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: 4
+2020-06-08 12:33:22,763 [12] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: e527a6b6-3d7e-4326-a43a-2ed5790f475c
+2020-06-08 12:34:07,240 [6] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: e527a6b6-3d7e-4326-a43a-2ed5790f475c
+2020-06-08 12:34:13,285 [12] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnClose Error: e527a6b6-3d7e-4326-a43a-2ed5790f475c, message: System.InvalidOperationException: Sequence contains more than one matching element
+   at System.Linq.Enumerable.SingleOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at OnlineRouletteWheels.LiveRouletteWheel.LiveRouletteWheelCore.GetRouletteWheel(Int32 liveRouletteId) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\RouletteWheelSimulator\OnlineGames.RouletteWheelSimulator\LiveRouletteWheel\LiveRouletteWheelCore.cs:line 88
+   at OnlineGamesMath.RouletteMathMain.RemoveHandlers(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\OnlineGamesMath\RouletteMathMain.cs:line 344
+   at OnlineGamesMath.MathMain.RemoveRouletteHandlers(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\OnlineGamesMath\MathMain.cs:line 189
+   at ControlLib.WebChannelControl.WebMessageAControlCore.RemoveRouletteHandlers(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\ControlLib\WebChannelControl\WebMessageAControlCore.cs:line 1170
+   at ControlLib.WebChannelControl.WebChannelAMessageLogic.RemoveRouletteHandlers(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\ControlLib\WebChannelControl\WebChannelAMessageLogic.cs:line 434
+   at ControlLib.ClientMain.RemoveRouletteHandlers(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\ControlLib\ClientMain.cs:line 432
+   at OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler.RemoveHandlersAndClient(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\OCP\Project\OCP\UI\Web\WebSocketHandlers\ChannelAWebSocketHandler.cs:line 586
+   at OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler.OnClose() in d:\Work\OCP\branches\Dev\1.2_Communication_V3\OCP\Project\OCP\UI\Web\WebSocketHandlers\ChannelAWebSocketHandler.cs:line 338
+2020-06-08 12:36:16,589 [36] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: 4
+2020-06-08 12:36:20,382 [36] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: e527a6b6-3d7e-4326-a43a-2ed5790f475c
+2020-06-08 12:36:50,585 [37] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: e527a6b6-3d7e-4326-a43a-2ed5790f475c
+2020-06-08 12:37:02,313 [22] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnClose Error: e527a6b6-3d7e-4326-a43a-2ed5790f475c, message: System.InvalidOperationException: Sequence contains more than one matching element
+   at System.Linq.Enumerable.SingleOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at OnlineRouletteWheels.LiveRouletteWheel.LiveRouletteWheelCore.GetRouletteWheel(Int32 liveRouletteId) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\RouletteWheelSimulator\OnlineGames.RouletteWheelSimulator\LiveRouletteWheel\LiveRouletteWheelCore.cs:line 88
+   at OnlineGamesMath.RouletteMathMain.RemoveHandlers(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\OnlineGamesMath\RouletteMathMain.cs:line 344
+   at OnlineGamesMath.MathMain.RemoveRouletteHandlers(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\OnlineGamesMath\MathMain.cs:line 189
+   at ControlLib.WebChannelControl.WebMessageAControlCore.RemoveRouletteHandlers(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\ControlLib\WebChannelControl\WebMessageAControlCore.cs:line 1170
+   at ControlLib.WebChannelControl.WebChannelAMessageLogic.RemoveRouletteHandlers(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\ControlLib\WebChannelControl\WebChannelAMessageLogic.cs:line 434
+   at ControlLib.ClientMain.RemoveRouletteHandlers(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\ControlLib\ClientMain.cs:line 432
+   at OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler.RemoveHandlersAndClient(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\OCP\Project\OCP\UI\Web\WebSocketHandlers\ChannelAWebSocketHandler.cs:line 586
+   at OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler.OnClose() in d:\Work\OCP\branches\Dev\1.2_Communication_V3\OCP\Project\OCP\UI\Web\WebSocketHandlers\ChannelAWebSocketHandler.cs:line 338
+2020-06-08 12:48:43,011 [13] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: 4
+2020-06-08 12:48:50,503 [13] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: e527a6b6-3d7e-4326-a43a-2ed5790f475c
+2020-06-08 12:49:26,217 [12] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: e527a6b6-3d7e-4326-a43a-2ed5790f475c
+2020-06-08 12:49:32,473 [20] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnClose Error: e527a6b6-3d7e-4326-a43a-2ed5790f475c, message: System.InvalidOperationException: Sequence contains more than one matching element
+   at System.Linq.Enumerable.SingleOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at OnlineRouletteWheels.LiveRouletteWheel.LiveRouletteWheelCore.GetRouletteWheel(Int32 liveRouletteId) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\RouletteWheelSimulator\OnlineGames.RouletteWheelSimulator\LiveRouletteWheel\LiveRouletteWheelCore.cs:line 88
+   at OnlineGamesMath.RouletteMathMain.RemoveHandlers(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\OnlineGamesMath\RouletteMathMain.cs:line 344
+   at OnlineGamesMath.MathMain.RemoveRouletteHandlers(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\OnlineGamesMath\MathMain.cs:line 189
+   at ControlLib.WebChannelControl.WebMessageAControlCore.RemoveRouletteHandlers(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\ControlLib\WebChannelControl\WebMessageAControlCore.cs:line 1170
+   at ControlLib.WebChannelControl.WebChannelAMessageLogic.RemoveRouletteHandlers(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\ControlLib\WebChannelControl\WebChannelAMessageLogic.cs:line 434
+   at ControlLib.ClientMain.RemoveRouletteHandlers(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\ControlLib\ClientMain.cs:line 432
+   at OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler.RemoveHandlersAndClient(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\OCP\Project\OCP\UI\Web\WebSocketHandlers\ChannelAWebSocketHandler.cs:line 586
+   at OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler.OnClose() in d:\Work\OCP\branches\Dev\1.2_Communication_V3\OCP\Project\OCP\UI\Web\WebSocketHandlers\ChannelAWebSocketHandler.cs:line 338
+2020-06-08 12:59:13,547 [18] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: 4
+2020-06-08 12:59:18,129 [18] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: e527a6b6-3d7e-4326-a43a-2ed5790f475c
+2020-06-08 13:00:23,976 [40] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: 4
+2020-06-08 13:00:28,657 [40] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: e527a6b6-3d7e-4326-a43a-2ed5790f475c
+2020-06-08 13:02:45,691 [6] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnFatalCodeError, close connection: e527a6b6-3d7e-4326-a43a-2ed5790f475c
+2020-06-08 13:04:39,094 [12] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: 4
+2020-06-08 13:04:42,352 [12] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: e527a6b6-3d7e-4326-a43a-2ed5790f475c
+2020-06-08 13:07:33,568 [65] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: 4
+2020-06-08 13:07:38,237 [65] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: e527a6b6-3d7e-4326-a43a-2ed5790f475c
+2020-06-08 13:09:58,223 [65] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: 4
+2020-06-08 13:10:02,099 [65] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: e527a6b6-3d7e-4326-a43a-2ed5790f475c
+2020-06-08 13:11:38,079 [40] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: 4
+2020-06-08 13:11:41,517 [40] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: e527a6b6-3d7e-4326-a43a-2ed5790f475c
+2020-06-08 13:12:13,258 [44] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnFatalCodeError, close connection: e527a6b6-3d7e-4326-a43a-2ed5790f475c
+2020-06-08 13:12:21,495 [27] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: 4
+2020-06-08 13:12:26,276 [27] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: e527a6b6-3d7e-4326-a43a-2ed5790f475c
+2020-06-08 13:14:24,415 [24] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: 4
+2020-06-08 13:14:28,044 [24] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: e527a6b6-3d7e-4326-a43a-2ed5790f475c
+2020-06-08 13:15:03,470 [33] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnFatalCodeError, close connection: e527a6b6-3d7e-4326-a43a-2ed5790f475c
+2020-06-08 13:15:04,437 [65] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: 4
+2020-06-08 13:15:07,488 [65] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: e527a6b6-3d7e-4326-a43a-2ed5790f475c
+2020-06-08 13:16:17,392 [33] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnFatalCodeError, close connection: e527a6b6-3d7e-4326-a43a-2ed5790f475c
+2020-06-08 13:16:18,327 [57] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: 4
+2020-06-08 13:16:21,801 [57] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: e527a6b6-3d7e-4326-a43a-2ed5790f475c
+2020-06-08 13:16:35,825 [24] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: 4
+2020-06-08 13:16:39,449 [24] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: e527a6b6-3d7e-4326-a43a-2ed5790f475c
+2020-06-08 13:17:38,327 [14] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnFatalCodeError, close connection: e527a6b6-3d7e-4326-a43a-2ed5790f475c
+2020-06-08 13:18:20,729 [59] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: 4
+2020-06-08 13:18:23,937 [59] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: e527a6b6-3d7e-4326-a43a-2ed5790f475c
+2020-06-08 13:21:04,976 [65] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: 4
+2020-06-08 13:21:38,479 [27] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnRemoveClientAndHandlers, close connection: e527a6b6-3d7e-4326-a43a-2ed5790f475c
+2020-06-08 13:27:42,295 [31] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: 4
+2020-06-08 13:27:47,456 [31] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: e527a6b6-3d7e-4326-a43a-2ed5790f475c
+2020-06-08 13:29:19,513 [59] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnRemoveClientAndHandlers, close connection: e527a6b6-3d7e-4326-a43a-2ed5790f475c
+2020-06-08 13:30:14,922 [79] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2020-06-08 13:30:24,710 [79] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnFatalCodeError, close connection: 
+2020-06-08 13:30:26,602 [27] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2020-06-08 13:30:57,369 [27] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnFatalCodeError, close connection: 
+2020-06-08 13:30:59,615 [79] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnOpen Error: , message: System.Data.SqlClient.SqlException (0x80131904): Cannot insert the value NULL into column 'User_Id', table 'OnlineSlotDevWeb.dbo.EventLog'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at System.Data.Linq.SqlClient.SqlProvider.Execute(Expression query, QueryInfo queryInfo, IObjectReaderFactory factory, Object[] parentArgs, Object[] userArgs, ICompiledSubQuery[] subQueries, Object lastResult)
+   at System.Data.Linq.SqlClient.SqlProvider.ExecuteAll(Expression query, QueryInfo[] queryInfos, IObjectReaderFactory factory, Object[] userArguments, ICompiledSubQuery[] subQueries)
+   at System.Data.Linq.SqlClient.SqlProvider.System.Data.Linq.Provider.IProvider.Execute(Expression query)
+   at System.Data.Linq.ChangeDirector.StandardChangeDirector.DynamicInsert(TrackedObject item)
+   at System.Data.Linq.ChangeProcessor.SubmitChanges(ConflictMode failureMode)
+   at System.Data.Linq.DataContext.SubmitChanges(ConflictMode failureMode)
+   at GameBussines.NVRAMData.EventLogData.AddNewEventLog(String userId, Int32 gameId, DateTime time, Int32 repeats, String message, Int32 portalId, Int32 groupId) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\GameBussines\NVRAMData\EventLogData.cs:line 65
+   at GameBussines.NVRAMData.EventLogData.SaveLog(String userId, EventLogStructure logData) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\GameBussines\NVRAMData\EventLogData.cs:line 178
+   at GameBussines.NVRAMLogic.SaveEventLog(String userId, EventLogStructure logData) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\GameBussines\NVRAMLogic.cs:line 162
+   at ControlLib.ClientMain.Initialize() in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\ControlLib\ClientMain.cs:line 301
+   at OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler.OnOpen() in d:\Work\OCP\branches\Dev\1.2_Communication_V3\OCP\Project\OCP\UI\Web\WebSocketHandlers\ChannelAWebSocketHandler.cs:line 314
+ClientConnectionId:6730704b-6d83-4ab5-a9f3-c1b472837046
+Error Number:515,State:2,Class:16
+2020-06-08 13:31:02,059 [31] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: 4
+2020-06-08 13:31:10,559 [79] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnMessage, user blocked or doesn't exist, close connection: 
+2020-06-08 13:31:12,672 [27] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnOpen Error: , message: System.Data.SqlClient.SqlException (0x80131904): Cannot insert the value NULL into column 'User_Id', table 'OnlineSlotDevWeb.dbo.EventLog'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at System.Data.Linq.SqlClient.SqlProvider.Execute(Expression query, QueryInfo queryInfo, IObjectReaderFactory factory, Object[] parentArgs, Object[] userArgs, ICompiledSubQuery[] subQueries, Object lastResult)
+   at System.Data.Linq.SqlClient.SqlProvider.ExecuteAll(Expression query, QueryInfo[] queryInfos, IObjectReaderFactory factory, Object[] userArguments, ICompiledSubQuery[] subQueries)
+   at System.Data.Linq.SqlClient.SqlProvider.System.Data.Linq.Provider.IProvider.Execute(Expression query)
+   at System.Data.Linq.ChangeDirector.StandardChangeDirector.DynamicInsert(TrackedObject item)
+   at System.Data.Linq.ChangeProcessor.SubmitChanges(ConflictMode failureMode)
+   at System.Data.Linq.DataContext.SubmitChanges(ConflictMode failureMode)
+   at GameBussines.NVRAMData.EventLogData.AddNewEventLog(String userId, Int32 gameId, DateTime time, Int32 repeats, String message, Int32 portalId, Int32 groupId) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\GameBussines\NVRAMData\EventLogData.cs:line 65
+   at GameBussines.NVRAMData.EventLogData.SaveLog(String userId, EventLogStructure logData) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\GameBussines\NVRAMData\EventLogData.cs:line 178
+   at GameBussines.NVRAMLogic.SaveEventLog(String userId, EventLogStructure logData) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\GameBussines\NVRAMLogic.cs:line 162
+   at ControlLib.ClientMain.Initialize() in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\ControlLib\ClientMain.cs:line 301
+   at OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler.OnOpen() in d:\Work\OCP\branches\Dev\1.2_Communication_V3\OCP\Project\OCP\UI\Web\WebSocketHandlers\ChannelAWebSocketHandler.cs:line 314
+ClientConnectionId:313d14f3-8561-4ca7-88d9-13021a2f06fe
+Error Number:515,State:2,Class:16
+2020-06-08 13:31:45,368 [27] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnMessage, user blocked or doesn't exist, close connection: 
+2020-06-08 13:31:51,434 [79] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnMessage Error: , message: System.InvalidOperationException: Sequence contains more than one matching element
+   at System.Linq.Enumerable.SingleOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at OnlineRouletteWheels.RouletteWheelSimulation.RouletteWheelCore.GetRouletteWheel(Int32 gameId) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\RouletteWheelSimulator\OnlineGames.RouletteWheelSimulator\RouletteWheelSimulation\RouletteWheelCore.cs:line 332
+   at OnlineGamesMath.RouletteMathMain.RemoveHandlers(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\OnlineGamesMath\RouletteMathMain.cs:line 355
+   at OnlineGamesMath.MathMain.RemoveRouletteHandlers(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\OnlineGamesMath\MathMain.cs:line 189
+   at ControlLib.WebChannelControl.WebMessageAControlCore.RemoveRouletteHandlers(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\ControlLib\WebChannelControl\WebMessageAControlCore.cs:line 1170
+   at ControlLib.WebChannelControl.WebChannelAMessageLogic.RemoveRouletteHandlers(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\ControlLib\WebChannelControl\WebChannelAMessageLogic.cs:line 434
+   at ControlLib.ClientMain.RemoveRouletteHandlers(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\ControlLib\ClientMain.cs:line 432
+   at OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler.RemoveHandlersAndClient(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\OCP\Project\OCP\UI\Web\WebSocketHandlers\ChannelAWebSocketHandler.cs:line 586
+   at OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler.OnMessage(Byte[] message) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\OCP\Project\OCP\UI\Web\WebSocketHandlers\ChannelAWebSocketHandler.cs:line 401
+2020-06-08 13:31:53,262 [31] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnError entered: 
+2020-06-08 13:31:57,293 [27] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnMessage Error: , message: System.InvalidOperationException: Sequence contains more than one matching element
+   at System.Linq.Enumerable.SingleOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at OnlineRouletteWheels.RouletteWheelSimulation.RouletteWheelCore.GetRouletteWheel(Int32 gameId) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\RouletteWheelSimulator\OnlineGames.RouletteWheelSimulator\RouletteWheelSimulation\RouletteWheelCore.cs:line 332
+   at OnlineGamesMath.RouletteMathMain.RemoveHandlers(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\OnlineGamesMath\RouletteMathMain.cs:line 355
+   at OnlineGamesMath.MathMain.RemoveRouletteHandlers(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\OnlineGamesMath\MathMain.cs:line 189
+   at ControlLib.WebChannelControl.WebMessageAControlCore.RemoveRouletteHandlers(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\ControlLib\WebChannelControl\WebMessageAControlCore.cs:line 1170
+   at ControlLib.WebChannelControl.WebChannelAMessageLogic.RemoveRouletteHandlers(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\ControlLib\WebChannelControl\WebChannelAMessageLogic.cs:line 434
+   at ControlLib.ClientMain.RemoveRouletteHandlers(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\ControlLib\ClientMain.cs:line 432
+   at OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler.RemoveHandlersAndClient(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\OCP\Project\OCP\UI\Web\WebSocketHandlers\ChannelAWebSocketHandler.cs:line 586
+   at OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler.OnMessage(Byte[] message) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\OCP\Project\OCP\UI\Web\WebSocketHandlers\ChannelAWebSocketHandler.cs:line 401
+2020-06-08 13:32:03,346 [79] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnMessage Error, close connection: , message: System.InvalidOperationException: Sequence contains more than one matching element
+   at System.Linq.Enumerable.SingleOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at OnlineRouletteWheels.RouletteWheelSimulation.RouletteWheelCore.GetRouletteWheel(Int32 gameId) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\RouletteWheelSimulator\OnlineGames.RouletteWheelSimulator\RouletteWheelSimulation\RouletteWheelCore.cs:line 332
+   at OnlineGamesMath.RouletteMathMain.RemoveHandlers(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\OnlineGamesMath\RouletteMathMain.cs:line 355
+   at OnlineGamesMath.MathMain.RemoveRouletteHandlers(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\OnlineGamesMath\MathMain.cs:line 189
+   at ControlLib.WebChannelControl.WebMessageAControlCore.RemoveRouletteHandlers(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\ControlLib\WebChannelControl\WebMessageAControlCore.cs:line 1170
+   at ControlLib.WebChannelControl.WebChannelAMessageLogic.RemoveRouletteHandlers(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\ControlLib\WebChannelControl\WebChannelAMessageLogic.cs:line 434
+   at ControlLib.ClientMain.RemoveRouletteHandlers(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\ControlLib\ClientMain.cs:line 432
+   at OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler.RemoveHandlersAndClient(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\OCP\Project\OCP\UI\Web\WebSocketHandlers\ChannelAWebSocketHandler.cs:line 586
+   at OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler.OnMessage(Byte[] message) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\OCP\Project\OCP\UI\Web\WebSocketHandlers\ChannelAWebSocketHandler.cs:line 414
+2020-06-08 13:32:11,435 [79] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnClose Error: , message: System.InvalidOperationException: Sequence contains more than one matching element
+   at System.Linq.Enumerable.SingleOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at OnlineRouletteWheels.RouletteWheelSimulation.RouletteWheelCore.GetRouletteWheel(Int32 gameId) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\RouletteWheelSimulator\OnlineGames.RouletteWheelSimulator\RouletteWheelSimulation\RouletteWheelCore.cs:line 332
+   at OnlineGamesMath.RouletteMathMain.RemoveHandlers(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\OnlineGamesMath\RouletteMathMain.cs:line 355
+   at OnlineGamesMath.MathMain.RemoveRouletteHandlers(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\OnlineGamesMath\MathMain.cs:line 189
+   at ControlLib.WebChannelControl.WebMessageAControlCore.RemoveRouletteHandlers(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\ControlLib\WebChannelControl\WebMessageAControlCore.cs:line 1170
+   at ControlLib.WebChannelControl.WebChannelAMessageLogic.RemoveRouletteHandlers(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\ControlLib\WebChannelControl\WebChannelAMessageLogic.cs:line 434
+   at ControlLib.ClientMain.RemoveRouletteHandlers(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\ControlLib\ClientMain.cs:line 432
+   at OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler.RemoveHandlersAndClient(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\OCP\Project\OCP\UI\Web\WebSocketHandlers\ChannelAWebSocketHandler.cs:line 586
+   at OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler.OnClose() in d:\Work\OCP\branches\Dev\1.2_Communication_V3\OCP\Project\OCP\UI\Web\WebSocketHandlers\ChannelAWebSocketHandler.cs:line 338
+2020-06-08 13:32:13,452 [27] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnMessage Error, close connection: , message: System.InvalidOperationException: Sequence contains more than one matching element
+   at System.Linq.Enumerable.SingleOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at OnlineRouletteWheels.RouletteWheelSimulation.RouletteWheelCore.GetRouletteWheel(Int32 gameId) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\RouletteWheelSimulator\OnlineGames.RouletteWheelSimulator\RouletteWheelSimulation\RouletteWheelCore.cs:line 332
+   at OnlineGamesMath.RouletteMathMain.RemoveHandlers(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\OnlineGamesMath\RouletteMathMain.cs:line 355
+   at OnlineGamesMath.MathMain.RemoveRouletteHandlers(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\OnlineGamesMath\MathMain.cs:line 189
+   at ControlLib.WebChannelControl.WebMessageAControlCore.RemoveRouletteHandlers(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\ControlLib\WebChannelControl\WebMessageAControlCore.cs:line 1170
+   at ControlLib.WebChannelControl.WebChannelAMessageLogic.RemoveRouletteHandlers(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\ControlLib\WebChannelControl\WebChannelAMessageLogic.cs:line 434
+   at ControlLib.ClientMain.RemoveRouletteHandlers(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\ControlLib\ClientMain.cs:line 432
+   at OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler.RemoveHandlersAndClient(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\OCP\Project\OCP\UI\Web\WebSocketHandlers\ChannelAWebSocketHandler.cs:line 586
+   at OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler.OnMessage(Byte[] message) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\OCP\Project\OCP\UI\Web\WebSocketHandlers\ChannelAWebSocketHandler.cs:line 414
+2020-06-08 13:32:17,461 [27] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnClose Error: , message: System.InvalidOperationException: Sequence contains more than one matching element
+   at System.Linq.Enumerable.SingleOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at OnlineRouletteWheels.RouletteWheelSimulation.RouletteWheelCore.GetRouletteWheel(Int32 gameId) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\RouletteWheelSimulator\OnlineGames.RouletteWheelSimulator\RouletteWheelSimulation\RouletteWheelCore.cs:line 332
+   at OnlineGamesMath.RouletteMathMain.RemoveHandlers(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\OnlineGamesMath\RouletteMathMain.cs:line 355
+   at OnlineGamesMath.MathMain.RemoveRouletteHandlers(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\OnlineGamesMath\MathMain.cs:line 189
+   at ControlLib.WebChannelControl.WebMessageAControlCore.RemoveRouletteHandlers(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\ControlLib\WebChannelControl\WebMessageAControlCore.cs:line 1170
+   at ControlLib.WebChannelControl.WebChannelAMessageLogic.RemoveRouletteHandlers(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\ControlLib\WebChannelControl\WebChannelAMessageLogic.cs:line 434
+   at ControlLib.ClientMain.RemoveRouletteHandlers(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\ControlLib\ClientMain.cs:line 432
+   at OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler.RemoveHandlersAndClient(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\OCP\Project\OCP\UI\Web\WebSocketHandlers\ChannelAWebSocketHandler.cs:line 586
+   at OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler.OnClose() in d:\Work\OCP\branches\Dev\1.2_Communication_V3\OCP\Project\OCP\UI\Web\WebSocketHandlers\ChannelAWebSocketHandler.cs:line 338
+2020-06-08 13:34:05,805 [33] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: 4
+2020-06-08 13:34:16,731 [33] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: e527a6b6-3d7e-4326-a43a-2ed5790f475c
+2020-06-08 13:36:08,830 [56] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnRemoveClientAndHandlers, close connection: e527a6b6-3d7e-4326-a43a-2ed5790f475c
+2020-06-08 13:43:07,100 [10] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: 4
+2020-06-08 13:43:11,943 [10] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: e527a6b6-3d7e-4326-a43a-2ed5790f475c
+2020-06-08 13:44:13,402 [57] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: 4
+2020-06-08 13:44:22,079 [78] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnRemoveClientAndHandlers, close connection: e527a6b6-3d7e-4326-a43a-2ed5790f475c
+2020-06-08 13:44:41,099 [56] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: 4
+2020-06-08 13:44:44,730 [56] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: e527a6b6-3d7e-4326-a43a-2ed5790f475c
+2020-06-08 13:44:59,627 [20] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: 4
+2020-06-08 13:45:04,426 [20] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: e527a6b6-3d7e-4326-a43a-2ed5790f475c

@@ -1,0 +1,4 @@
+2022-07-11 11:44:47,902 [1] ERROR OCP.Business.Integration.MBasIntegration.MBasApiTokenMethodsAndLogic - Integration: MBasClient.InitAuthApiLogic Error: Missing Parameters
+2022-07-11 11:48:11,216 [13] ERROR OCP.Business.Integration.EPlay24Integration.EPlay24Client - Integration: EPlay24Client.Authenticate - UserUID: , -5303
+2022-07-11 13:13:18,201 [1] ERROR OCP.Business.Integration.MBasIntegration.MBasApiTokenMethodsAndLogic - Integration: MBasClient.InitAuthApiLogic Error: Missing Parameters
+2022-07-11 13:14:50,999 [1] ERROR OCP.Business.Integration.MBasIntegration.MBasApiTokenMethodsAndLogic - Integration: MBasClient.InitAuthApiLogic Error: Missing Parameters

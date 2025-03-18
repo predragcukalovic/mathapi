@@ -1,0 +1,2 @@
+2023-03-09 12:31:41,661 [47] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2023-03-09 12:31:44,054 [47] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: a0341d67-5503-4aac-a826-f422ecf6b3ea

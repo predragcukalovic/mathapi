@@ -1,0 +1,176 @@
+2019-02-06 10:48:08,585 [21] INFO  ControlLib.ErrorControl.ErrorControl - TCPServer: Connected user: e527a6b6-3d7e-4326-a43a-2ed5790f475c
+2019-02-06 10:48:08,808 [21] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - ChannelAControlCore: ChannelAControlCore: FF-20-00-00-00-00-1F
+2019-02-06 10:48:08,858 [21] INFO  ControlLib.ClientMain - Console: Client returned: FF-20-00-00-00-00-1F
+2019-02-06 10:48:08,860 [21] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - MessagesFormater: Data received on port: RAW data: FF-20-00-00-00-00-1F
+2019-02-06 10:48:08,862 [21] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - Console: On channel A: REGISTER received.
+2019-02-06 10:48:10,445 [21] INFO  ControlLib.WebChannelControl.WebMessageAControlCore - Console: On channel A SERVICE Mode game command sent.
+2019-02-06 10:48:10,451 [21] INFO  ControlLib.WebChannelControl.WebMessageAControlCore - MessagesFormater: Data ready to be sent on port: RAW data:FF-E5-00-B6-A6-27-E5-7E-3D-26-43-A4-3A-2E-D5-79-0F-47-5C-00-02-02-00-80
+2019-02-06 10:48:10,623 [33] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - ChannelAControlCore: ChannelAControlCore: FF-29-01-00-00-29
+2019-02-06 10:48:10,625 [33] INFO  ControlLib.ClientMain - Console: Client returned: FF-29-01-00-00-29
+2019-02-06 10:48:10,626 [33] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - MessagesFormater: Data received on port: RAW data: FF-29-01-00-00-29
+2019-02-06 10:48:10,628 [33] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - Console: On channel A: REQ SELECTED GAMES received.
+2019-02-06 10:48:10,701 [33] INFO  ControlLib.WebChannelControl.WebMessageAControlCore - Console: On channel A GAME SELECT game command sent.
+2019-02-06 10:48:10,703 [33] INFO  ControlLib.WebChannelControl.WebMessageAControlCore - MessagesFormater: Data ready to be sent on port: RAW data:FF-E6-01-B6-A6-27-E5-7E-3D-26-43-A4-3A-2E-D5-79-0F-47-5C-00-24-00-01-02-03-04-05-06-07-08-09-0A-0B-0C-0D-0E-0F-10-11-12-13-14-15-17-18-1B-1C-1D-21-22-23-27-28-29-2A-2B-2C-6B
+2019-02-06 10:48:10,707 [35] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - ChannelAControlCore: ChannelAControlCore: 18-2A-02-00-00-44
+2019-02-06 10:48:10,710 [35] INFO  ControlLib.ClientMain - Console: Client returned: 18-2A-02-00-00-44
+2019-02-06 10:48:10,711 [35] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - MessagesFormater: Data received on port: RAW data: 18-2A-02-00-00-44
+2019-02-06 10:48:10,713 [35] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - Console: On channel A: REQ POTENTIAL BETS AND DENOMINATIONS FOR GAME received.
+2019-02-06 10:48:10,716 [35] INFO  ControlLib.WebChannelControl.WebMessageAControlCore - Console: On channel A Potential Bets And Denomination game command sent.
+2019-02-06 10:48:10,719 [35] INFO  ControlLib.WebChannelControl.WebMessageAControlCore - MessagesFormater: Data ready to be sent on port: RAW data:18-E7-02-B6-A6-27-E5-7E-3D-26-43-A4-3A-2E-D5-79-0F-47-5C-00-67-18-45-55-52-01-00-00-00-64-17-00-00-00-0A-00-00-00-14-00-00-00-1E-00-00-00-28-00-00-00-32-00-00-00-3C-00-00-00-46-00-00-00-50-00-00-00-5A-00-00-00-64-00-00-00-96-00-00-00-C8-00-00-00-FA-00-00-01-2C-00-00-01-5E-00-00-01-90-00-00-01-C2-00-00-01-F4-00-00-03-E8-00-00-07-D0-00-00-13-88-00-00-27-10-00-00-4E-20-17-EC
+2019-02-06 10:48:10,736 [30] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - ChannelAControlCore: ChannelAControlCore: 18-26-03-00-04-00-00-00-64-A9
+2019-02-06 10:48:10,739 [30] INFO  ControlLib.ClientMain - Console: Client returned: 18-26-03-00-04-00-00-00-64-A9
+2019-02-06 10:48:10,741 [30] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - MessagesFormater: Data received on port: RAW data: 18-26-03-00-04-00-00-00-64-A9
+2019-02-06 10:48:10,743 [30] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - Console: On channel A: Change Denomination received.
+2019-02-06 10:48:10,772 [30] INFO  ControlLib.WebChannelControl.WebMessageAControlCore - Console: On channel A: DOUBLE UP LIMIT response sent.
+2019-02-06 10:48:10,774 [30] INFO  ControlLib.WebChannelControl.WebMessageAControlCore - MessagesFormater: Data ready to be sent on port: RAW data:18-EE-03-B6-A6-27-E5-7E-3D-26-43-A4-3A-2E-D5-79-0F-47-5C-00-04-00-03-0D-40-F5
+2019-02-06 10:48:10,778 [30] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - ChannelAControlCore: ChannelAControlCore: 18-21-04-00-00-3D
+2019-02-06 10:48:10,780 [30] INFO  ControlLib.ClientMain - Console: Client returned: 18-21-04-00-00-3D
+2019-02-06 10:48:10,781 [30] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - MessagesFormater: Data received on port: RAW data: 18-21-04-00-00-3D
+2019-02-06 10:48:10,784 [30] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - Console: On channel A: GET GAME METRICS received and reply sent.
+2019-02-06 10:48:10,789 [30] INFO  ControlLib.WebChannelControl.WebMessageAControlCore - Console: On channel A: GAME METRICS response sent. 2446725, 2446725 --- 00-25-55-85-00-00-00-00-00-00-00-00-01-86-A0
+2019-02-06 10:48:10,790 [30] INFO  ControlLib.WebChannelControl.WebMessageAControlCore - MessagesFormater: Data ready to be sent on port: RAW data:18-E0-04-B6-A6-27-E5-7E-3D-26-43-A4-3A-2E-D5-79-0F-47-5C-00-0F-00-25-55-85-00-00-00-00-00-00-00-00-01-86-A0-C9
+2019-02-06 10:48:10,794 [33] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - ChannelAControlCore: ChannelAControlCore: 18-27-05-00-01-18-5D
+2019-02-06 10:48:10,795 [33] INFO  ControlLib.ClientMain - Console: Client returned: 18-27-05-00-01-18-5D
+2019-02-06 10:48:10,797 [33] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - MessagesFormater: Data received on port: RAW data: 18-27-05-00-01-18-5D
+2019-02-06 10:48:10,798 [33] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - Console: On channel A: CURRENT GAME ID received.
+2019-02-06 10:48:10,807 [33] INFO  ControlLib.WebChannelControl.WebMessageAControlCore - GameControl: Current Game id Received: 24
+2019-02-06 10:48:11,267 [33] INFO  ControlLib.WebChannelControl.WebMessageAControlCore - Console: On channel A SERVICE Recall game command sent.
+2019-02-06 10:48:11,269 [33] INFO  ControlLib.WebChannelControl.WebMessageAControlCore - GameControl: Recall data for game id: 24 and game type: 1
+2019-02-06 10:48:11,270 [33] INFO  ControlLib.WebChannelControl.WebMessageAControlCore - MessagesFormater: Data ready to be sent on port: RAW data:18-F5-05-B6-A6-27-E5-7E-3D-26-43-A4-3A-2E-D5-79-0F-47-5C-00-46-01-00-00-00-32-05-00-00-00-00-01-00-00-00-64-02-02-01-05-02-02-03-07-04-02-02-03-07-04-04-00-00-00-00-00-00-00-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-00-00-00-00-00-18-96-06-00-5B
+2019-02-06 10:48:11,274 [30] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - ChannelAControlCore: ChannelAControlCore: 18-21-06-00-00-3F
+2019-02-06 10:48:11,275 [30] INFO  ControlLib.ClientMain - Console: Client returned: 18-21-06-00-00-3F
+2019-02-06 10:48:11,277 [30] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - MessagesFormater: Data received on port: RAW data: 18-21-06-00-00-3F
+2019-02-06 10:48:11,329 [30] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - Console: On channel A: GET GAME METRICS received and reply sent.
+2019-02-06 10:48:11,331 [30] INFO  ControlLib.WebChannelControl.WebMessageAControlCore - Console: On channel A: GAME METRICS response sent. 2446725, 2446725 --- 00-25-55-85-00-00-00-00-00-00-00-00-01-86-A0
+2019-02-06 10:48:11,333 [30] INFO  ControlLib.WebChannelControl.WebMessageAControlCore - MessagesFormater: Data ready to be sent on port: RAW data:18-E0-06-B6-A6-27-E5-7E-3D-26-43-A4-3A-2E-D5-79-0F-47-5C-00-0F-00-25-55-85-00-00-00-00-00-00-00-00-01-86-A0-CB
+2019-02-06 10:48:11,424 [21] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - ChannelAControlCore: ChannelAControlCore: 18-32-07-00-00-01-52
+2019-02-06 10:48:11,426 [21] INFO  ControlLib.ClientMain - Console: Client returned: 18-32-07-00-00-01-52
+2019-02-06 10:48:11,430 [21] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - MessagesFormater: Data received on port: RAW data: 18-32-07-00-00-01-52
+2019-02-06 10:48:11,436 [21] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - Console: On channel A: GET JACKPOT VALUE received.
+2019-02-06 10:48:11,573 [21] INFO  ControlLib.WebChannelControl.WebMessageAControlCore - Console: On channel A: JACKPOT TYPE VALUE response sent.
+2019-02-06 10:48:11,574 [21] INFO  ControlLib.WebChannelControl.WebMessageAControlCore - MessagesFormater: Data ready to be sent on port: RAW data:18-ED-07-B6-A6-27-E5-7E-3D-26-43-A4-3A-2E-D5-79-0F-47-5C-00-60-01-00-00-00-00-00-00-4E-48-39-2F-32-30-2F-32-30-31-38-20-31-32-3A-33-38-3A-30-33-20-50-4D-20-34-30-30-30-30-3B-38-2F-39-2F-32-30-31-38-20-31-32-3A-30-38-3A-34-37-20-50-4D-20-33-30-30-30-30-3B-38-2F-39-2F-32-30-31-38-20-31-31-3A-34-38-3A-34-34-20-41-4D-20-33-30-30-30-30-3B-31-30-2E-30-30-EE
+2019-02-06 10:48:11,578 [30] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - ChannelAControlCore: ChannelAControlCore: 18-26-08-00-04-00-00-00-64-AE
+2019-02-06 10:48:11,580 [30] INFO  ControlLib.ClientMain - Console: Client returned: 18-26-08-00-04-00-00-00-64-AE
+2019-02-06 10:48:11,584 [30] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - MessagesFormater: Data received on port: RAW data: 18-26-08-00-04-00-00-00-64-AE
+2019-02-06 10:48:11,585 [30] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - Console: On channel A: Change Denomination received.
+2019-02-06 10:48:11,587 [30] INFO  ControlLib.WebChannelControl.WebMessageAControlCore - Console: On channel A: DOUBLE UP LIMIT response sent.
+2019-02-06 10:48:11,589 [30] INFO  ControlLib.WebChannelControl.WebMessageAControlCore - MessagesFormater: Data ready to be sent on port: RAW data:18-EE-08-B6-A6-27-E5-7E-3D-26-43-A4-3A-2E-D5-79-0F-47-5C-00-04-00-03-0D-40-FA
+2019-02-06 10:48:11,601 [35] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - ChannelAControlCore: ChannelAControlCore: 18-21-09-00-00-42
+2019-02-06 10:48:11,604 [35] INFO  ControlLib.ClientMain - Console: Client returned: 18-21-09-00-00-42
+2019-02-06 10:48:11,606 [35] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - MessagesFormater: Data received on port: RAW data: 18-21-09-00-00-42
+2019-02-06 10:48:11,608 [35] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - Console: On channel A: GET GAME METRICS received and reply sent.
+2019-02-06 10:48:11,610 [35] INFO  ControlLib.WebChannelControl.WebMessageAControlCore - Console: On channel A: GAME METRICS response sent. 2446725, 2446725 --- 00-25-55-85-00-00-00-00-00-00-00-00-01-86-A0
+2019-02-06 10:48:11,612 [35] INFO  ControlLib.WebChannelControl.WebMessageAControlCore - MessagesFormater: Data ready to be sent on port: RAW data:18-E0-09-B6-A6-27-E5-7E-3D-26-43-A4-3A-2E-D5-79-0F-47-5C-00-0F-00-25-55-85-00-00-00-00-00-00-00-00-01-86-A0-CE
+2019-02-06 10:48:18,795 [21] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - ChannelAControlCore: ChannelAControlCore: 18-32-0A-00-00-02-56
+2019-02-06 10:48:18,796 [21] INFO  ControlLib.ClientMain - Console: Client returned: 18-32-0A-00-00-02-56
+2019-02-06 10:48:18,797 [21] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - MessagesFormater: Data received on port: RAW data: 18-32-0A-00-00-02-56
+2019-02-06 10:48:18,798 [21] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - Console: On channel A: GET JACKPOT VALUE received.
+2019-02-06 10:48:18,802 [21] INFO  ControlLib.WebChannelControl.WebMessageAControlCore - Console: On channel A: JACKPOT TYPE VALUE response sent.
+2019-02-06 10:48:18,804 [21] INFO  ControlLib.WebChannelControl.WebMessageAControlCore - MessagesFormater: Data ready to be sent on port: RAW data:18-ED-0A-B6-A6-27-E5-7E-3D-26-43-A4-3A-2E-D5-79-0F-47-5C-00-5C-02-00-00-00-00-00-00-00-04-31-30-2F-31-36-2F-32-30-31-38-20-31-30-3A-32-39-3A-33-30-20-41-4D-20-32-30-30-30-3B-39-2F-37-2F-32-30-31-38-20-33-3A-35-36-3A-32-35-20-50-4D-20-33-30-30-30-3B-38-2F-39-2F-32-30-31-38-20-31-31-3A-34-38-3A-35-35-20-41-4D-20-32-30-30-30-3B-31-2E-30-30-85
+2019-02-06 10:48:26,796 [35] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - ChannelAControlCore: ChannelAControlCore: 18-32-0B-00-00-03-58
+2019-02-06 10:48:26,798 [35] INFO  ControlLib.ClientMain - Console: Client returned: 18-32-0B-00-00-03-58
+2019-02-06 10:48:26,800 [35] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - MessagesFormater: Data received on port: RAW data: 18-32-0B-00-00-03-58
+2019-02-06 10:48:26,802 [35] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - Console: On channel A: GET JACKPOT VALUE received.
+2019-02-06 10:48:26,803 [35] INFO  ControlLib.WebChannelControl.WebMessageAControlCore - Console: On channel A: JACKPOT TYPE VALUE response sent.
+2019-02-06 10:48:26,804 [35] INFO  ControlLib.WebChannelControl.WebMessageAControlCore - MessagesFormater: Data ready to be sent on port: RAW data:18-ED-0B-B6-A6-27-E5-7E-3D-26-43-A4-3A-2E-D5-79-0F-47-5C-00-0D-03-00-00-00-00-00-00-E7-90-32-2E-30-30-EF
+2019-02-06 10:48:34,798 [12] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - ChannelAControlCore: ChannelAControlCore: 18-32-0C-00-00-00-56
+2019-02-06 10:48:34,800 [12] INFO  ControlLib.ClientMain - Console: Client returned: 18-32-0C-00-00-00-56
+2019-02-06 10:48:34,802 [12] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - MessagesFormater: Data received on port: RAW data: 18-32-0C-00-00-00-56
+2019-02-06 10:48:34,803 [12] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - Console: On channel A: GET JACKPOT VALUE received.
+2019-02-06 10:48:34,807 [12] INFO  ControlLib.WebChannelControl.WebMessageAControlCore - Console: On channel A: JACKPOT TYPE VALUE response sent.
+2019-02-06 10:48:34,809 [12] INFO  ControlLib.WebChannelControl.WebMessageAControlCore - MessagesFormater: Data ready to be sent on port: RAW data:18-ED-0C-B6-A6-27-E5-7E-3D-26-43-A4-3A-2E-D5-79-0F-47-5C-00-0D-00-00-00-00-00-00-00-9D-C7-30-2E-32-30-DA
+2019-02-06 10:48:42,800 [14] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - ChannelAControlCore: ChannelAControlCore: 18-32-0D-00-00-01-58
+2019-02-06 10:48:42,801 [14] INFO  ControlLib.ClientMain - Console: Client returned: 18-32-0D-00-00-01-58
+2019-02-06 10:48:42,803 [14] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - MessagesFormater: Data received on port: RAW data: 18-32-0D-00-00-01-58
+2019-02-06 10:48:42,804 [14] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - Console: On channel A: GET JACKPOT VALUE received.
+2019-02-06 10:48:42,805 [14] INFO  ControlLib.WebChannelControl.WebMessageAControlCore - Console: On channel A: JACKPOT TYPE VALUE response sent.
+2019-02-06 10:48:42,806 [14] INFO  ControlLib.WebChannelControl.WebMessageAControlCore - MessagesFormater: Data ready to be sent on port: RAW data:18-ED-0D-B6-A6-27-E5-7E-3D-26-43-A4-3A-2E-D5-79-0F-47-5C-00-60-01-00-00-00-00-00-00-4E-48-39-2F-32-30-2F-32-30-31-38-20-31-32-3A-33-38-3A-30-33-20-50-4D-20-34-30-30-30-30-3B-38-2F-39-2F-32-30-31-38-20-31-32-3A-30-38-3A-34-37-20-50-4D-20-33-30-30-30-30-3B-38-2F-39-2F-32-30-31-38-20-31-31-3A-34-38-3A-34-34-20-41-4D-20-33-30-30-30-30-3B-31-30-2E-30-30-F4
+2019-02-06 10:48:50,800 [34] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - ChannelAControlCore: ChannelAControlCore: 18-32-0E-00-00-02-5A
+2019-02-06 10:48:50,802 [34] INFO  ControlLib.ClientMain - Console: Client returned: 18-32-0E-00-00-02-5A
+2019-02-06 10:48:50,804 [34] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - MessagesFormater: Data received on port: RAW data: 18-32-0E-00-00-02-5A
+2019-02-06 10:48:50,805 [34] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - Console: On channel A: GET JACKPOT VALUE received.
+2019-02-06 10:48:50,806 [34] INFO  ControlLib.WebChannelControl.WebMessageAControlCore - Console: On channel A: JACKPOT TYPE VALUE response sent.
+2019-02-06 10:48:50,807 [34] INFO  ControlLib.WebChannelControl.WebMessageAControlCore - MessagesFormater: Data ready to be sent on port: RAW data:18-ED-0E-B6-A6-27-E5-7E-3D-26-43-A4-3A-2E-D5-79-0F-47-5C-00-5C-02-00-00-00-00-00-00-00-04-31-30-2F-31-36-2F-32-30-31-38-20-31-30-3A-32-39-3A-33-30-20-41-4D-20-32-30-30-30-3B-39-2F-37-2F-32-30-31-38-20-33-3A-35-36-3A-32-35-20-50-4D-20-33-30-30-30-3B-38-2F-39-2F-32-30-31-38-20-31-31-3A-34-38-3A-35-35-20-41-4D-20-32-30-30-30-3B-31-2E-30-30-89
+2019-02-06 10:48:58,800 [30] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - ChannelAControlCore: ChannelAControlCore: 18-32-0F-00-00-03-5C
+2019-02-06 10:48:58,802 [30] INFO  ControlLib.ClientMain - Console: Client returned: 18-32-0F-00-00-03-5C
+2019-02-06 10:48:58,804 [30] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - MessagesFormater: Data received on port: RAW data: 18-32-0F-00-00-03-5C
+2019-02-06 10:48:58,805 [30] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - Console: On channel A: GET JACKPOT VALUE received.
+2019-02-06 10:48:58,807 [30] INFO  ControlLib.WebChannelControl.WebMessageAControlCore - Console: On channel A: JACKPOT TYPE VALUE response sent.
+2019-02-06 10:48:58,809 [30] INFO  ControlLib.WebChannelControl.WebMessageAControlCore - MessagesFormater: Data ready to be sent on port: RAW data:18-ED-0F-B6-A6-27-E5-7E-3D-26-43-A4-3A-2E-D5-79-0F-47-5C-00-0D-03-00-00-00-00-00-00-E7-90-32-2E-30-30-F3
+2019-02-06 10:49:03,680 [22] INFO  ControlLib.ErrorControl.ErrorControl - TCPServer: Disconnected user: e527a6b6-3d7e-4326-a43a-2ed5790f475c
+2019-02-06 10:53:21,420 [31] INFO  ControlLib.ErrorControl.ErrorControl - TCPServer: Connected user: e527a6b6-3d7e-4326-a43a-2ed5790f475c
+2019-02-06 10:53:21,446 [33] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - ChannelAControlCore: ChannelAControlCore: FF-20-00-00-00-00-1F
+2019-02-06 10:53:21,451 [33] INFO  ControlLib.ClientMain - Console: Client returned: FF-20-00-00-00-00-1F
+2019-02-06 10:53:21,453 [33] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - MessagesFormater: Data received on port: RAW data: FF-20-00-00-00-00-1F
+2019-02-06 10:53:21,454 [33] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - Console: On channel A: REGISTER received.
+2019-02-06 10:53:23,189 [33] INFO  ControlLib.WebChannelControl.WebMessageAControlCore - Console: On channel A SERVICE Mode game command sent.
+2019-02-06 10:53:23,194 [33] INFO  ControlLib.WebChannelControl.WebMessageAControlCore - MessagesFormater: Data ready to be sent on port: RAW data:FF-E5-00-B6-A6-27-E5-7E-3D-26-43-A4-3A-2E-D5-79-0F-47-5C-00-02-02-00-80
+2019-02-06 10:53:23,205 [32] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - ChannelAControlCore: ChannelAControlCore: FF-29-01-00-00-29
+2019-02-06 10:53:23,207 [32] INFO  ControlLib.ClientMain - Console: Client returned: FF-29-01-00-00-29
+2019-02-06 10:53:23,210 [32] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - MessagesFormater: Data received on port: RAW data: FF-29-01-00-00-29
+2019-02-06 10:53:23,211 [32] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - Console: On channel A: REQ SELECTED GAMES received.
+2019-02-06 10:53:23,214 [32] INFO  ControlLib.WebChannelControl.WebMessageAControlCore - Console: On channel A GAME SELECT game command sent.
+2019-02-06 10:53:23,216 [32] INFO  ControlLib.WebChannelControl.WebMessageAControlCore - MessagesFormater: Data ready to be sent on port: RAW data:FF-E6-01-B6-A6-27-E5-7E-3D-26-43-A4-3A-2E-D5-79-0F-47-5C-00-24-00-01-02-03-04-05-06-07-08-09-0A-0B-0C-0D-0E-0F-10-11-12-13-14-15-17-18-1B-1C-1D-21-22-23-27-28-29-2A-2B-2C-6B
+2019-02-06 10:53:23,221 [33] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - ChannelAControlCore: ChannelAControlCore: 18-2A-02-00-00-44
+2019-02-06 10:53:23,225 [33] INFO  ControlLib.ClientMain - Console: Client returned: 18-2A-02-00-00-44
+2019-02-06 10:53:23,228 [33] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - MessagesFormater: Data received on port: RAW data: 18-2A-02-00-00-44
+2019-02-06 10:53:23,231 [33] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - Console: On channel A: REQ POTENTIAL BETS AND DENOMINATIONS FOR GAME received.
+2019-02-06 10:53:23,235 [33] INFO  ControlLib.WebChannelControl.WebMessageAControlCore - Console: On channel A Potential Bets And Denomination game command sent.
+2019-02-06 10:53:23,237 [33] INFO  ControlLib.WebChannelControl.WebMessageAControlCore - MessagesFormater: Data ready to be sent on port: RAW data:18-E7-02-B6-A6-27-E5-7E-3D-26-43-A4-3A-2E-D5-79-0F-47-5C-00-67-18-45-55-52-01-00-00-00-64-17-00-00-00-0A-00-00-00-14-00-00-00-1E-00-00-00-28-00-00-00-32-00-00-00-3C-00-00-00-46-00-00-00-50-00-00-00-5A-00-00-00-64-00-00-00-96-00-00-00-C8-00-00-00-FA-00-00-01-2C-00-00-01-5E-00-00-01-90-00-00-01-C2-00-00-01-F4-00-00-03-E8-00-00-07-D0-00-00-13-88-00-00-27-10-00-00-4E-20-17-EC
+2019-02-06 10:53:23,255 [23] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - ChannelAControlCore: ChannelAControlCore: 18-26-03-00-04-00-00-00-64-A9
+2019-02-06 10:53:23,257 [23] INFO  ControlLib.ClientMain - Console: Client returned: 18-26-03-00-04-00-00-00-64-A9
+2019-02-06 10:53:23,260 [23] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - MessagesFormater: Data received on port: RAW data: 18-26-03-00-04-00-00-00-64-A9
+2019-02-06 10:53:23,263 [23] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - Console: On channel A: Change Denomination received.
+2019-02-06 10:53:23,283 [23] INFO  ControlLib.WebChannelControl.WebMessageAControlCore - Console: On channel A: DOUBLE UP LIMIT response sent.
+2019-02-06 10:53:23,285 [23] INFO  ControlLib.WebChannelControl.WebMessageAControlCore - MessagesFormater: Data ready to be sent on port: RAW data:18-EE-03-B6-A6-27-E5-7E-3D-26-43-A4-3A-2E-D5-79-0F-47-5C-00-04-00-03-0D-40-F5
+2019-02-06 10:53:23,344 [31] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - ChannelAControlCore: ChannelAControlCore: 18-21-04-00-00-3D
+2019-02-06 10:53:23,346 [31] INFO  ControlLib.ClientMain - Console: Client returned: 18-21-04-00-00-3D
+2019-02-06 10:53:23,348 [31] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - MessagesFormater: Data received on port: RAW data: 18-21-04-00-00-3D
+2019-02-06 10:53:23,349 [31] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - Console: On channel A: GET GAME METRICS received and reply sent.
+2019-02-06 10:53:23,354 [31] INFO  ControlLib.WebChannelControl.WebMessageAControlCore - Console: On channel A: GAME METRICS response sent. 2446725, 2446725 --- 00-25-55-85-00-00-00-00-00-00-00-00-01-86-A0
+2019-02-06 10:53:23,356 [31] INFO  ControlLib.WebChannelControl.WebMessageAControlCore - MessagesFormater: Data ready to be sent on port: RAW data:18-E0-04-B6-A6-27-E5-7E-3D-26-43-A4-3A-2E-D5-79-0F-47-5C-00-0F-00-25-55-85-00-00-00-00-00-00-00-00-01-86-A0-C9
+2019-02-06 10:53:23,428 [23] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - ChannelAControlCore: ChannelAControlCore: 18-27-05-00-01-18-5D
+2019-02-06 10:53:23,430 [23] INFO  ControlLib.ClientMain - Console: Client returned: 18-27-05-00-01-18-5D
+2019-02-06 10:53:23,431 [23] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - MessagesFormater: Data received on port: RAW data: 18-27-05-00-01-18-5D
+2019-02-06 10:53:23,433 [23] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - Console: On channel A: CURRENT GAME ID received.
+2019-02-06 10:53:23,438 [23] INFO  ControlLib.WebChannelControl.WebMessageAControlCore - GameControl: Current Game id Received: 24
+2019-02-06 10:53:23,594 [23] INFO  ControlLib.WebChannelControl.WebMessageAControlCore - Console: On channel A SERVICE Recall game command sent.
+2019-02-06 10:53:23,597 [23] INFO  ControlLib.WebChannelControl.WebMessageAControlCore - GameControl: Recall data for game id: 24 and game type: 1
+2019-02-06 10:53:23,598 [23] INFO  ControlLib.WebChannelControl.WebMessageAControlCore - MessagesFormater: Data ready to be sent on port: RAW data:18-F5-05-B6-A6-27-E5-7E-3D-26-43-A4-3A-2E-D5-79-0F-47-5C-00-46-01-00-00-00-32-05-00-00-00-00-01-00-00-00-64-02-02-01-05-02-02-03-07-04-02-02-03-07-04-04-00-00-00-00-00-00-00-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-00-00-00-00-00-18-96-06-00-5B
+2019-02-06 10:53:23,603 [32] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - ChannelAControlCore: ChannelAControlCore: 18-21-06-00-00-3F
+2019-02-06 10:53:23,605 [32] INFO  ControlLib.ClientMain - Console: Client returned: 18-21-06-00-00-3F
+2019-02-06 10:53:23,607 [32] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - MessagesFormater: Data received on port: RAW data: 18-21-06-00-00-3F
+2019-02-06 10:53:23,612 [32] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - Console: On channel A: GET GAME METRICS received and reply sent.
+2019-02-06 10:53:23,614 [32] INFO  ControlLib.WebChannelControl.WebMessageAControlCore - Console: On channel A: GAME METRICS response sent. 2446725, 2446725 --- 00-25-55-85-00-00-00-00-00-00-00-00-01-86-A0
+2019-02-06 10:53:23,616 [32] INFO  ControlLib.WebChannelControl.WebMessageAControlCore - MessagesFormater: Data ready to be sent on port: RAW data:18-E0-06-B6-A6-27-E5-7E-3D-26-43-A4-3A-2E-D5-79-0F-47-5C-00-0F-00-25-55-85-00-00-00-00-00-00-00-00-01-86-A0-CB
+2019-02-06 10:53:23,773 [32] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - ChannelAControlCore: ChannelAControlCore: 18-32-07-00-00-01-52
+2019-02-06 10:53:23,778 [32] INFO  ControlLib.ClientMain - Console: Client returned: 18-32-07-00-00-01-52
+2019-02-06 10:53:23,781 [32] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - MessagesFormater: Data received on port: RAW data: 18-32-07-00-00-01-52
+2019-02-06 10:53:23,783 [32] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - Console: On channel A: GET JACKPOT VALUE received.
+2019-02-06 10:53:23,816 [32] INFO  ControlLib.WebChannelControl.WebMessageAControlCore - Console: On channel A: JACKPOT TYPE VALUE response sent.
+2019-02-06 10:53:23,818 [32] INFO  ControlLib.WebChannelControl.WebMessageAControlCore - MessagesFormater: Data ready to be sent on port: RAW data:18-ED-07-B6-A6-27-E5-7E-3D-26-43-A4-3A-2E-D5-79-0F-47-5C-00-60-01-00-00-00-00-00-00-4E-48-39-2F-32-30-2F-32-30-31-38-20-31-32-3A-33-38-3A-30-33-20-50-4D-20-34-30-30-30-30-3B-38-2F-39-2F-32-30-31-38-20-31-32-3A-30-38-3A-34-37-20-50-4D-20-33-30-30-30-30-3B-38-2F-39-2F-32-30-31-38-20-31-31-3A-34-38-3A-34-34-20-41-4D-20-33-30-30-30-30-3B-31-30-2E-30-30-EE
+2019-02-06 10:53:23,878 [31] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - ChannelAControlCore: ChannelAControlCore: 18-26-08-00-04-00-00-00-64-AE
+2019-02-06 10:53:23,880 [31] INFO  ControlLib.ClientMain - Console: Client returned: 18-26-08-00-04-00-00-00-64-AE
+2019-02-06 10:53:23,881 [31] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - MessagesFormater: Data received on port: RAW data: 18-26-08-00-04-00-00-00-64-AE
+2019-02-06 10:53:23,883 [31] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - Console: On channel A: Change Denomination received.
+2019-02-06 10:53:23,885 [31] INFO  ControlLib.WebChannelControl.WebMessageAControlCore - Console: On channel A: DOUBLE UP LIMIT response sent.
+2019-02-06 10:53:23,887 [31] INFO  ControlLib.WebChannelControl.WebMessageAControlCore - MessagesFormater: Data ready to be sent on port: RAW data:18-EE-08-B6-A6-27-E5-7E-3D-26-43-A4-3A-2E-D5-79-0F-47-5C-00-04-00-03-0D-40-FA
+2019-02-06 10:53:23,977 [32] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - ChannelAControlCore: ChannelAControlCore: 18-21-09-00-00-42
+2019-02-06 10:53:23,980 [32] INFO  ControlLib.ClientMain - Console: Client returned: 18-21-09-00-00-42
+2019-02-06 10:53:23,981 [32] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - MessagesFormater: Data received on port: RAW data: 18-21-09-00-00-42
+2019-02-06 10:53:23,982 [32] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - Console: On channel A: GET GAME METRICS received and reply sent.
+2019-02-06 10:53:23,984 [32] INFO  ControlLib.WebChannelControl.WebMessageAControlCore - Console: On channel A: GAME METRICS response sent. 2446725, 2446725 --- 00-25-55-85-00-00-00-00-00-00-00-00-01-86-A0
+2019-02-06 10:53:23,985 [32] INFO  ControlLib.WebChannelControl.WebMessageAControlCore - MessagesFormater: Data ready to be sent on port: RAW data:18-E0-09-B6-A6-27-E5-7E-3D-26-43-A4-3A-2E-D5-79-0F-47-5C-00-0F-00-25-55-85-00-00-00-00-00-00-00-00-01-86-A0-CE
+2019-02-06 10:53:27,912 [23] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - ChannelAControlCore: ChannelAControlCore: 18-25-0A-00-06-00-00-00-0A-05-01-5D
+2019-02-06 10:53:27,914 [23] INFO  ControlLib.ClientMain - Console: Client returned: 18-25-0A-00-06-00-00-00-0A-05-01-5D
+2019-02-06 10:53:27,916 [23] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - MessagesFormater: Data received on port: RAW data: 18-25-0A-00-06-00-00-00-0A-05-01-5D
+2019-02-06 10:53:27,918 [23] INFO  ControlLib.WebChannelControl.WebChannelAMessageLogic - Console: On channel A: CAN PLAY S received.
+2019-02-06 10:54:22,753 [23] INFO  ControlLib.ControlLogic - GameControl: Idle Could stop action
+2019-02-06 10:54:22,840 [23] INFO  ControlLib.ControlLogic - GameControl: Idle Current action
+2019-02-06 10:54:22,843 [23] INFO  ControlLib.ControlLogic - GameControl: GameStarted Started
+2019-02-06 10:54:22,855 [13] INFO  ControlLib.WebChannelControl.WebMessageAControlCore - Console: Gameclose: gameStarted
+2019-02-06 10:54:23,250 [23] INFO  ControlLib.WebChannelControl.WebMessageAControlCore - GameControl: Save recall data for  userId: e527a6b6-3d7e-4326-a43a-2ed5790f475c and game id: 24
+2019-02-06 10:54:23,253 [23] INFO  ControlLib.WebChannelControl.WebMessageAControlCore - Console: On channel A: GAME APPROVED S response sent.
+2019-02-06 10:54:23,255 [23] INFO  ControlLib.WebChannelControl.WebMessageAControlCore - MessagesFormater: Data ready to be sent on port: RAW data:18-E3-0A-B6-A6-27-E5-7E-3D-26-43-A4-3A-2E-D5-79-0F-47-5C-00-40-00-02-07-04-00-03-02-03-04-03-03-02-03-07-03-00-00-00-01-00-00-00-00-00-00-00-00-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-FF-00-00-00-00-00-25-55-53-00-00-00-00-00-00-00-9D-C7-FF-29
+2019-02-06 10:54:23,419 [23] INFO  ControlLib.ErrorControl.ErrorControl - TCPServer: Disconnected user: e527a6b6-3d7e-4326-a43a-2ed5790f475c
+2019-02-06 10:54:23,421 [23] INFO  ControlLib.WebChannelControl.WebMessageAControlCore - Console: Gameclose: gameStarted

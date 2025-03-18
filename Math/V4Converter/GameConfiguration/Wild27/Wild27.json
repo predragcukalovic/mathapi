@@ -1,0 +1,34 @@
+{
+  "GameName": "Wild27",
+  "NumberOfReels": 3,
+  "NumberOfRows": 3,
+  "FakeReels": [
+    [ 0, 8, 8, 8, 3, 6, 6, 6, 2, 5, 5, 4, 1, 7, 7, 7, 8, 8, 3, 5, 5, 5, 2, 4, 4, 6, 6, 1, 7, 7, 3 ],
+    [ 0, 8, 8, 8, 3, 6, 6, 6, 2, 5, 5, 4, 1, 7, 7, 7, 8, 8, 3, 5, 5, 5, 2, 4, 4, 6, 6, 1, 7, 7, 3 ],
+    [ 0, 8, 8, 8, 3, 6, 6, 6, 2, 5, 5, 4, 1, 7, 7, 7, 8, 8, 3, 5, 5, 5, 2, 4, 4, 6, 6, 1, 7, 7, 3 ]
+  ],
+  "NumberOfSymbols": 9,
+  "WinForLines": [
+    [ 0, 0, 60 ],
+    [ 0, 0, 40 ],
+    [ 0, 0, 20 ],
+    [ 0, 0, 16 ],
+    [ 0, 0, 16 ],
+    [ 0, 0, 2 ],
+    [ 0, 0, 2 ],
+    [ 0, 0, 2 ],
+    [ 0, 0, 2 ]
+  ],
+  "NumberOfLines": 27,
+  "LineType": "GameLineWild27",
+  "PlayLines": [ 1 ],
+  "NonWinningCombinationMatrix": [
+    [ 8, 8, 8, 8, 8 ],
+    [ 7, 7, 7, 7, 7 ],
+    [ 6, 6, 6, 6, 6 ]
+  ],
+  "ExtraRowStrategy": "IncludedMiddle",
+  "ExtraFields": [ "upperRow", "bottomRow", "doubleWin" ],
+  "MatrixType": "Shift",
+  "Rtp": 96.24
+}

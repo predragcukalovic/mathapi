@@ -1,0 +1,15 @@
+2023-03-06 15:23:40,665 [35] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2023-03-06 15:23:43,800 [35] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: 16625077-f99b-44a4-89d7-af3e981d3610
+2023-03-06 15:24:35,376 [40] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: 16625077-f99b-44a4-89d7-af3e981d3610
+2023-03-06 15:27:09,325 [95] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2023-03-06 15:27:11,738 [95] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: 16625077-f99b-44a4-89d7-af3e981d3610
+2023-03-06 15:28:10,856 [105] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: 16625077-f99b-44a4-89d7-af3e981d3610
+2023-03-06 15:28:41,523 [99] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2023-03-06 15:28:43,646 [99] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: 16625077-f99b-44a4-89d7-af3e981d3610
+2023-03-06 15:30:21,482 [29] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: 16625077-f99b-44a4-89d7-af3e981d3610
+2023-03-06 15:32:45,212 [96] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2023-03-06 15:32:48,135 [96] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: 16625077-f99b-44a4-89d7-af3e981d3610
+2023-03-06 15:35:03,258 [131] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: 16625077-f99b-44a4-89d7-af3e981d3610
+2023-03-06 15:35:16,216 [89] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2023-03-06 15:35:19,442 [89] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: 16625077-f99b-44a4-89d7-af3e981d3610
+2023-03-06 15:36:59,102 [30] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: 16625077-f99b-44a4-89d7-af3e981d3610

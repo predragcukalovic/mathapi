@@ -1,0 +1,24 @@
+2022-04-14 09:28:48,210 [6] ERROR OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: e527a6b6-3d7e-4326-a43a-2ed5790f475c
+2022-04-14 09:31:17,902 [67] ERROR OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: e527a6b6-3d7e-4326-a43a-2ed5790f475c
+2022-04-14 09:44:32,514 [132] ERROR OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: e527a6b6-3d7e-4326-a43a-2ed5790f475c
+2022-04-14 09:48:43,574 [37] ERROR OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: e527a6b6-3d7e-4326-a43a-2ed5790f475c
+2022-04-14 09:53:07,874 [148] ERROR OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: e527a6b6-3d7e-4326-a43a-2ed5790f475c
+2022-04-14 10:01:34,807 [184] ERROR OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: e527a6b6-3d7e-4326-a43a-2ed5790f475c
+2022-04-14 12:50:40,865 [8] ERROR OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: d5a2f577-b7ad-4ef0-9a42-a06f80e453dc
+2022-04-14 13:17:05,087 [143] ERROR OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: d5a2f577-b7ad-4ef0-9a42-a06f80e453dc
+2022-04-14 14:09:47,745 [172] ERROR OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Same user already logged in: d5a2f577-b7ad-4ef0-9a42-a06f80e453dc, token: ae22a90d-d577-40ec-a4fe-240a61894bfe
+2022-04-14 14:09:51,077 [172] ERROR OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Same user already logged in, connection closed: d5a2f577-b7ad-4ef0-9a42-a06f80e453dc
+2022-04-14 14:09:57,615 [45] ERROR OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Same user already logged in: d5a2f577-b7ad-4ef0-9a42-a06f80e453dc, token: ae22a90d-d577-40ec-a4fe-240a61894bfe
+2022-04-14 14:10:00,055 [45] ERROR OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Same user already logged in, connection closed: d5a2f577-b7ad-4ef0-9a42-a06f80e453dc
+2022-04-14 14:12:17,747 [138] ERROR OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnFatalDataError, close connection: d5a2f577-b7ad-4ef0-9a42-a06f80e453dc
+2022-04-14 14:17:11,769 [117] ERROR OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnFatalDataError, close connection: d5a2f577-b7ad-4ef0-9a42-a06f80e453dc
+2022-04-14 14:17:29,905 [162] ERROR OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnFatalDataError, close connection: d5a2f577-b7ad-4ef0-9a42-a06f80e453dc
+2022-04-14 14:17:52,556 [162] ERROR OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnFatalDataError, close connection: d5a2f577-b7ad-4ef0-9a42-a06f80e453dc
+2022-04-14 14:25:46,593 [208] ERROR OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: d5a2f577-b7ad-4ef0-9a42-a06f80e453dc
+2022-04-14 14:27:41,809 [203] ERROR OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: d5a2f577-b7ad-4ef0-9a42-a06f80e453dc
+2022-04-14 14:31:44,828 [257] ERROR OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: d5a2f577-b7ad-4ef0-9a42-a06f80e453dc
+2022-04-14 14:54:35,776 [17] ERROR OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: d5a2f577-b7ad-4ef0-9a42-a06f80e453dc
+2022-04-14 15:19:45,148 [162] ERROR OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: d5a2f577-b7ad-4ef0-9a42-a06f80e453dc
+2022-04-14 15:20:48,412 [121] ERROR OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: d5a2f577-b7ad-4ef0-9a42-a06f80e453dc
+2022-04-14 15:21:59,983 [191] ERROR OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: d5a2f577-b7ad-4ef0-9a42-a06f80e453dc
+2022-04-14 15:23:31,914 [73] ERROR OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: d5a2f577-b7ad-4ef0-9a42-a06f80e453dc

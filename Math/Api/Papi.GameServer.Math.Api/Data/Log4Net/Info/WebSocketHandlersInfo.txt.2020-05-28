@@ -1,0 +1,13 @@
+2020-05-28 16:00:28,480 [57] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2020-05-28 16:00:32,888 [57] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: 0ec238e5-5907-47f5-84e9-63e7bd44156e
+2020-05-28 16:01:35,625 [21] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: 0ec238e5-5907-47f5-84e9-63e7bd44156e
+2020-05-28 16:01:50,877 [57] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnClose Error: 0ec238e5-5907-47f5-84e9-63e7bd44156e, message: System.InvalidOperationException: Sequence contains more than one matching element
+   at System.Linq.Enumerable.SingleOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at OnlineRouletteWheels.RouletteWheelSimulation.RouletteWheelCore.GetRouletteWheel(Int32 gameId) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\RouletteWheelSimulator\OnlineGames.RouletteWheelSimulator\RouletteWheelSimulation\RouletteWheelCore.cs:line 332
+   at OnlineGamesMath.RouletteMathMain.RemoveHandlers(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\OnlineGamesMath\RouletteMathMain.cs:line 355
+   at OnlineGamesMath.MathMain.RemoveRouletteHandlers(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\OnlineGamesMath\MathMain.cs:line 189
+   at ControlLib.WebChannelControl.WebMessageAControlCore.RemoveRouletteHandlers(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\ControlLib\WebChannelControl\WebMessageAControlCore.cs:line 1170
+   at ControlLib.WebChannelControl.WebChannelAMessageLogic.RemoveRouletteHandlers(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\ControlLib\WebChannelControl\WebChannelAMessageLogic.cs:line 434
+   at ControlLib.ClientMain.RemoveRouletteHandlers(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\Terminal\Project\ControlLib\ClientMain.cs:line 432
+   at OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler.RemoveHandlersAndClient(Boolean errorEvent) in d:\Work\OCP\branches\Dev\1.2_Communication_V3\OCP\Project\OCP\UI\Web\WebSocketHandlers\ChannelAWebSocketHandler.cs:line 586
+   at OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler.OnClose() in d:\Work\OCP\branches\Dev\1.2_Communication_V3\OCP\Project\OCP\UI\Web\WebSocketHandlers\ChannelAWebSocketHandler.cs:line 338

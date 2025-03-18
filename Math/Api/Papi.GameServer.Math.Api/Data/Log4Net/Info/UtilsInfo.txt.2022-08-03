@@ -1,0 +1,15 @@
+2022-08-03 11:26:10,054 [1] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Init Virtual roulettes. UseVirtualRouletteApp: False
+2022-08-03 11:26:15,325 [25] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: onlinestreamprod.Papi.rs/api/streamconnection/getconnecttostream/?port=12044&streamType=premuxedStream;null: RiseOnBetsOpenEvent: 24000
+2022-08-03 11:26:15,326 [19] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: StartVideoStream: True
+2022-08-03 11:26:15,505 [19] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: StartVideoStream end: 
+2022-08-03 11:26:39,344 [29] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: onlinestreamprod.Papi.rs/api/streamconnection/getconnecttostream/?port=12044&streamType=premuxedStream;null: RiseOnBetsClosedEvent: -16
+2022-08-03 11:26:42,459 [29] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: StartVideoStream: False
+2022-08-03 11:26:42,502 [29] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: StartVideoStream end: 
+2022-08-03 11:26:54,715 [11] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: onlinestreamprod.Papi.rs/api/streamconnection/getconnecttostream/?port=12044&streamType=premuxedStream;null: Next Winning Number: 8
+2022-08-03 11:26:54,716 [16] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: StartVideoStream: False
+2022-08-03 11:26:54,785 [16] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: StartVideoStream end: 
+2022-08-03 11:27:01,763 [15] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: onlinestreamprod.Papi.rs/api/streamconnection/getconnecttostream/?port=12044&streamType=premuxedStream;null: Roulette till bets closed time 1: 24000
+2022-08-03 11:27:01,763 [10] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: StartVideoStream: True
+2022-08-03 11:27:01,814 [10] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: StartVideoStream end: 
+2022-08-03 11:27:10,334 [18] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: StartVideoStream: False
+2022-08-03 11:27:10,379 [18] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: StartVideoStream end: 

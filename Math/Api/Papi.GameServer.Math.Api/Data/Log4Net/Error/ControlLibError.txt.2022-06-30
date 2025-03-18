@@ -1,0 +1,6 @@
+2022-06-30 12:11:00,105 [51] ERROR ControlLib.TerminalControl.GameControl - GameControl: Illegal bet 3 - Bet too high: 10 0, credits: 1179648
+2022-06-30 12:11:38,589 [88] ERROR ControlLib.TerminalControl.GameControl - GameControl: Illegal bet 3 - Bet too high: 1000 0, credits: 1179638
+2022-06-30 12:13:28,311 [92] ERROR ControlLib.TerminalControl.GameControl - GameControl: Illegal bet 3 - Bet too high: 10 0, credits: 1179648
+2022-06-30 12:25:11,588 [93] ERROR ControlLib.TerminalControl.GameControl - GameControl: Illegal bet 3 - Bet too high: 1000 0, credits: 1179648
+2022-06-30 15:52:46,848 [129] ERROR ControlLib.ErrorControl.ErrorControl - DatabaseAccess: Fatal error, userGuid: 00000000-0000-0000-0000-000000000000 message: Account is null for userId: 00000000-0000-0000-0000-000000000000
+2022-06-30 15:53:08,518 [73] ERROR ControlLib.ErrorControl.ErrorControl - DatabaseAccess: Fatal error, userGuid: 00000000-0000-0000-0000-000000000000 message: Account is null for userId: 00000000-0000-0000-0000-000000000000

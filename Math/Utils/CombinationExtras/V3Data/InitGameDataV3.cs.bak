@@ -1,0 +1,601 @@
+﻿using System;
+using CombinationExtras.ConversionData.V3Conversion;
+using Papi.GameServer.Utils.Enums;
+using Game20FireCash;
+using Game40FireCash;
+using GameBonusBells;
+using GameBookOfDouble;
+using GameCashBells40;
+using GameElGrandeToro;
+using GameExtraFlames10;
+using GameHeatClassic5;
+using GameKingOfThunder;
+using GameLollasWorld;
+using GamePiratesPapi;
+using GameSimplyRunner;
+using GameSuperLucky;
+using GameVeryHot5Extreme;
+using GameWild27;
+using GameWildClover506;
+using MathBaseProject.StructuresV3;
+using MathForGames.GameBookOfMayanGold;
+using MathForGames.GameBurstingHot5;
+using MathForGames.GameCloverCash;
+using MathForGames.GameGoldenClover;
+using MathForGames.GameGoldenCrown;
+using MathForGames.GameLuckyTwister;
+using MathForGames.GamePokerSlot;
+using MathForGames.GameWildClover40;
+using MatrixBonusBells = GameBonusBells.MatrixBonusBells;
+
+namespace CombinationExtras.V3Data
+{
+    public static class InitGameDataV3
+    {
+        public static HelpConfigV3<object> GetGameHelpConfigV3(Games game)
+        {
+            switch (game)
+            {
+                case Games.LuckyTwister:
+                case Games.BuffaloFortune:
+                    return MatrixLuckyTwister.GetHelpConfigV3();
+                case Games.SpinCards:
+                    return MatrixPokerSlot.GetHelpConfigV3();
+                case Games.BookOfMayanGold:
+                    return MatrixBookOfMayanGold.GetHelpConfigV3();
+                case Games.GoldenClover:
+                    return GameGoldenCloverConversion.GetHelpConfigV3();
+                case Games.BurstingHot5:
+                case Games.FireClover5:
+                case Games.FireCloverDice5:
+                case Games.VeryHot5:
+                case Games.WildHeart5:
+                case Games.AdmiralHot5:
+                case Games.VeryHot5Christmas:
+                case Games.CrownFire5:
+                    return MatrixBurstingHot5.GetHelpConfigV3();
+                case Games.FireClover40:
+                case Games.FireDice40:
+                    return MatrixBurstingHot5.GetHelpConfigV3(40);
+                case Games.WildClover40:
+                case Games.WildCloverDice40:
+                    return MatrixWildClover40.GetHelpConfigV3();
+                case Games.MayanCoins:
+                case Games.CloverCoin:
+                case Games.ShiningRush:
+                    return MatrixCloverCash.GetHelpConfigV3();
+                case Games.SuperLucky:
+                    return MatrixSuperLucky.GetHelpConfigV3();
+                case Games.WildCrown10:
+                case Games.WildDiamond10:
+                case Games.WildDice10:
+                case Games.WildPumpkin10:
+                case Games.WildSanta10:
+                    return MatrixGoldenCrown.GetHelpConfigV3();
+                case Games.WildClover506:
+                    return Matrix40WildClover6.GetHelpConfigV3();
+                case Games.LollasWorld:
+                case Games.ZabranjenoVoce:
+                case Games.LollasWorldChristmas:
+                    return MatrixLilaWild.GetHelpConfigV3();
+                case Games.LostBook:
+                case Games.BookOfIbis:
+                    return GameSpellbookConversion.GetHelpConfigV3();
+                case Games.BookOfScorpionsDouble:
+                case Games.BookOfDread:
+                    return MatrixBookOfDouble.GetHelpConfigV3();
+                case Games.ElGrandeToro:
+                    return MatrixElGrandeToro.GetHelpConfigV3();
+                case Games.ActionHot40:
+                    return GameTurboHot40Conversion.GetHelpConfigV3();
+                case Games.FireCash40:
+                    return Matrix40FireCash.GetHelpConfigV3();
+                case Games.ActionHot20:
+                case Games.FruitsAndStars20Deluxe:
+                    return GameFruitsAndStarsConversion.GetHelpConfigV3();
+                case Games.JokerQueen:
+                    return GameJokerQueenConversion.GetHelpConfigV3();
+                case Games.BonusBells:
+                    return MatrixBonusBells.GetHelpConfigV3();
+                case Games.CashBells40:
+                    return MatrixCashBells40.GetHelpConfigV3();
+                case Games.SimplyRunner:
+                    return MatrixSimplyRunner.GetHelpConfigV3();
+                case Games.KingOfThunder:
+                    return MatrixKingOfThunder.GetHelpConfigV3();
+                case Games.ExtraFlames10:
+                case Games.ShiningPresents:
+                    return MatrixExtraFlames10.GetHelpConfigV3();
+                case Games.HeatClassic5:
+                    return MatrixHeatClassic5.GetHelpConfigV3();
+                case Games.VeryHot5Extreme:
+                    return MatrixVeryHot5Extreme.GetHelpConfigV3();
+                case Games.FireCash20:
+                    return Matrix20FireCash.GetHelpConfigV3();
+                case Games.Wild27:
+                    return MatrixWild27.GetHelpConfigV3();
+                case Games.PiratesPapi:
+                    return MatrixPiratesPapi.GetHelpConfigV3();
+                default:
+                    return null;
+            }
+        }
+
+        public static ReelsV3 GetGameReelsV3(Games game)
+        {
+            switch (game)
+            {
+                case Games.LuckyTwister:
+                case Games.BuffaloFortune:
+                    return new ReelsV3 { regular = MatrixLuckyTwister.GetFakeReels() };
+                case Games.SpinCards:
+                    return new ReelsV3 { regular = MatrixPokerSlot.GetFakeReels(), freeSpin = MatrixPokerSlot.GetGratisFakeReels() };
+                case Games.BookOfMayanGold:
+                    return new ReelsV3 { regular = MatrixBookOfMayanGold.GetFakeReels(), freeSpin = MatrixBookOfMayanGold.GetFakeReels() };
+                case Games.GoldenClover:
+                    return new ReelsV3 { regular = MatrixGoldenClover.GetFakeReels(), freeSpin = MatrixGoldenClover.GetGratisFakeReels() };
+                case Games.BurstingHot5:
+                case Games.FireClover5:
+                case Games.FireCloverDice5:
+                case Games.VeryHot5:
+                case Games.FireClover40:
+                case Games.FireDice40:
+                case Games.WildHeart5:
+                case Games.AdmiralHot5:
+                case Games.VeryHot5Christmas:
+                case Games.CrownFire5:
+                    return new ReelsV3 { regular = MatrixBurstingHot5.GetFakeReels() };
+                case Games.WildClover40:
+                case Games.WildCloverDice40:
+                    return new ReelsV3 { regular = MatrixWildClover40.GetFakeReels(), freeSpin = MatrixWildClover40.GetGratisFakeReels() };
+                case Games.MayanCoins:
+                case Games.CloverCoin:
+                case Games.ShiningRush:
+                    return new ReelsV3 { regular = MatrixCloverCash.GetFakeReels(), freeSpin = MatrixCloverCash.GetGratisFakeReels() };
+                case Games.SuperLucky:
+                    return new ReelsV3 { regular = MatrixSuperLucky.GetFakeReels(), freeSpin = MatrixSuperLucky.GetGratisFakeReels() };
+                case Games.WildCrown10:
+                case Games.WildDiamond10:
+                case Games.WildDice10:
+                case Games.WildPumpkin10:
+                case Games.WildSanta10:
+                    return new ReelsV3 { regular = MatrixGoldenCrown.GetFakeReels() };
+                case Games.WildClover506:
+                    return new ReelsV3 { regular = Matrix40WildClover6.GetFakeReels(), freeSpin = Matrix40WildClover6.GetGratisFakeReels() };
+                case Games.LollasWorld:
+                case Games.ZabranjenoVoce:
+                case Games.LollasWorldChristmas:
+                    return new ReelsV3 { regular = MatrixLilaWild.GetFakeReels() };
+                case Games.LostBook:
+                case Games.BookOfIbis:
+                    return new ReelsV3 { regular = GameSpellbookConversion.GetFakeReels(), freeSpin = GameSpellbookConversion.GetFakeReels() };
+                case Games.BookOfScorpionsDouble:
+                case Games.BookOfDread:
+                    return new ReelsV3 { regular = MatrixBookOfDouble.GetFakeReels(), freeSpin = MatrixBookOfDouble.GetFakeReels() };
+                case Games.ElGrandeToro:
+                    return new ReelsV3 { regular = MatrixElGrandeToro.GetFakeReels(), freeSpin = MatrixElGrandeToro.GetFakeReelsGratis() };
+                case Games.ActionHot40:
+                    return new ReelsV3 { regular = GameTurboHot40Conversion.GetFakeReels() };
+                case Games.FireCash40:
+                    return new ReelsV3 { regular = Matrix40FireCash.GetFakeReels() };
+                case Games.ActionHot20:
+                case Games.FruitsAndStars20Deluxe:
+                    return new ReelsV3 { regular = GameFruitsAndStarsConversion.GetFakeReels() };
+                case Games.JokerQueen:
+                    return new ReelsV3 { regular = GameJokerQueenConversion.GetFakeReels() };
+                case Games.BonusBells:
+                    return new ReelsV3 { regular = MatrixBonusBells.GetFakeReels(), freeSpin = MatrixBonusBells.GetFakeReelsGratis() };
+                case Games.CashBells40:
+                    return new ReelsV3 { regular = MatrixCashBells40.GetFakeReels(), freeSpin = MatrixCashBells40.GetGratisFakeReels() };
+                case Games.SimplyRunner:
+                    return new ReelsV3 { regular = MatrixSimplyRunner.GetFakeReels() };
+                case Games.KingOfThunder:
+                    return new ReelsV3 { regular = MatrixKingOfThunder.GetFakeReels(), freeSpin = MatrixKingOfThunder.GetFakeReelsGratis() };
+                case Games.ExtraFlames10:
+                case Games.ShiningPresents:
+                    return new ReelsV3 { regular = MatrixExtraFlames10.GetFakeReels() };
+                case Games.HeatClassic5:
+                    return new ReelsV3 { regular = MatrixHeatClassic5.GetFakeReels() };
+                case Games.VeryHot5Extreme:
+                    return new ReelsV3 { regular = MatrixVeryHot5Extreme.GetFakeReels() };
+                case Games.FireCash20:
+                    return new ReelsV3 { regular = Matrix20FireCash.GetFakeReels() };
+                case Games.Wild27:
+                    return new ReelsV3 { regular = MatrixWild27.GetFakeReels() };
+                case Games.PiratesPapi:
+                    return new ReelsV3 { regular = MatrixPiratesPapi.GetFakeReels() };
+                default:
+                    return null;
+            }
+        }
+
+        public static int GetLinesByIndexV3(Games game, int index)
+        {
+            int[] playLines;
+            switch (game)
+            {
+                case Games.LuckyTwister:
+                case Games.BuffaloFortune:
+                    playLines = MatrixLuckyTwister.PlayLines;
+                    break;
+                case Games.SpinCards:
+                    playLines = MatrixPokerSlot.PlayLines;
+                    break;
+                case Games.BookOfMayanGold:
+                    playLines = MatrixBookOfMayanGold.PlayLines;
+                    break;
+                case Games.GoldenClover:
+                    playLines = MatrixGoldenClover.PlayLines;
+                    break;
+                case Games.BurstingHot5:
+                case Games.FireClover5:
+                case Games.FireCloverDice5:
+                case Games.VeryHot5:
+                case Games.WildHeart5:
+                case Games.AdmiralHot5:
+                case Games.VeryHot5Christmas:
+                case Games.CrownFire5:
+                    playLines = MatrixBurstingHot5.PlayLines;
+                    break;
+                case Games.FireClover40:
+                case Games.FireDice40:
+                    playLines = MatrixBurstingHot5.PlayLines40;
+                    break;
+                case Games.WildClover40:
+                case Games.WildCloverDice40:
+                    playLines = MatrixWildClover40.PlayLines;
+                    break;
+                case Games.MayanCoins:
+                case Games.CloverCoin:
+                case Games.ShiningRush:
+                    playLines = MatrixCloverCash.PlayLines;
+                    break;
+                case Games.SuperLucky:
+                    playLines = MatrixSuperLucky.PlayLines;
+                    break;
+                case Games.WildCrown10:
+                case Games.WildDiamond10:
+                case Games.WildDice10:
+                case Games.WildPumpkin10:
+                case Games.WildSanta10:
+                    playLines = MatrixGoldenCrown.PlayLines;
+                    break;
+                case Games.WildClover506:
+                    playLines = Matrix40WildClover6.PlayLines;
+                    break;
+                case Games.LollasWorld:
+                case Games.ZabranjenoVoce:
+                case Games.LollasWorldChristmas:
+                    playLines = MatrixLilaWild.PlayLines;
+                    break;
+                case Games.LostBook:
+                case Games.BookOfIbis:
+                    playLines = GameSpellbookConversion.PlayLines;
+                    break;
+                case Games.BookOfScorpionsDouble:
+                case Games.BookOfDread:
+                    playLines = MatrixBookOfDouble.PlayLines;
+                    break;
+                case Games.ElGrandeToro:
+                    playLines = MatrixElGrandeToro.PlayLines;
+                    break;
+                case Games.ActionHot40:
+                    playLines = GameTurboHot40Conversion.PlayLines;
+                    break;
+                case Games.FireCash40:
+                    playLines = Matrix40FireCash.PlayLines;
+                    break;
+                case Games.ActionHot20:
+                case Games.FruitsAndStars20Deluxe:
+                    playLines = GameFruitsAndStarsConversion.PlayLines;
+                    break;
+                case Games.JokerQueen:
+                    playLines = GameJokerQueenConversion.PlayLines;
+                    break;
+                case Games.BonusBells:
+                    playLines = MatrixBonusBells.PlayLines;
+                    break;
+                case Games.CashBells40:
+                    playLines = MatrixCashBells40.PlayLines;
+                    break;
+                case Games.SimplyRunner:
+                    playLines = MatrixSimplyRunner.PlayLines;
+                    break;
+                case Games.KingOfThunder:
+                    playLines = MatrixKingOfThunder.PlayLines;
+                    break;
+                case Games.ExtraFlames10:
+                case Games.ShiningPresents:
+                    playLines = MatrixExtraFlames10.PlayLines;
+                    break;
+                case Games.HeatClassic5:
+                    playLines = MatrixHeatClassic5.PlayLines;
+                    break;
+                case Games.VeryHot5Extreme:
+                    playLines = MatrixVeryHot5Extreme.PlayLines;
+                    break;
+                case Games.FireCash20:
+                    playLines = Matrix20FireCash.PlayLines;
+                    break;
+                case Games.Wild27:
+                    playLines = MatrixWild27.PlayLines;
+                    break;
+                case Games.PiratesPapi:
+                    playLines = MatrixPiratesPapi.PlayLines;
+                    break;
+                default:
+                    return -1;
+            }
+            if (playLines.Length <= index)
+            {
+                return -1;
+            }
+            return playLines[index];
+        }
+
+        public static int[] GetPlayLines(Games game)
+        {
+            switch (game)
+            {
+                case Games.LuckyTwister:
+                case Games.BuffaloFortune:
+                    return MatrixLuckyTwister.PlayLines;
+                case Games.SpinCards:
+                    return MatrixPokerSlot.PlayLines;
+                case Games.BookOfMayanGold:
+                    return MatrixBookOfMayanGold.PlayLines;
+                case Games.GoldenClover:
+                    return MatrixGoldenClover.PlayLines;
+                case Games.BurstingHot5:
+                case Games.FireClover5:
+                case Games.FireCloverDice5:
+                case Games.VeryHot5:
+                case Games.WildHeart5:
+                case Games.AdmiralHot5:
+                case Games.VeryHot5Christmas:
+                case Games.CrownFire5:
+                    return MatrixBurstingHot5.PlayLines;
+                case Games.FireClover40:
+                case Games.FireDice40:
+                    return MatrixBurstingHot5.PlayLines40;
+                case Games.WildClover40:
+                case Games.WildCloverDice40:
+                    return MatrixWildClover40.PlayLines;
+                case Games.MayanCoins:
+                case Games.CloverCoin:
+                case Games.ShiningRush:
+                    return MatrixCloverCash.PlayLines;
+                case Games.SuperLucky:
+                    return MatrixSuperLucky.PlayLines;
+                case Games.WildCrown10:
+                case Games.WildDiamond10:
+                case Games.WildDice10:
+                case Games.WildPumpkin10:
+                case Games.WildSanta10:
+                    return MatrixGoldenCrown.PlayLines;
+                case Games.WildClover506:
+                    return Matrix40WildClover6.PlayLines;
+                case Games.LollasWorld:
+                case Games.ZabranjenoVoce:
+                case Games.LollasWorldChristmas:
+                    return MatrixLilaWild.PlayLines;
+                case Games.LostBook:
+                case Games.BookOfIbis:
+                    return GameSpellbookConversion.PlayLines;
+                case Games.BookOfScorpionsDouble:
+                case Games.BookOfDread:
+                    return MatrixBookOfDouble.PlayLines;
+                case Games.ElGrandeToro:
+                    return MatrixElGrandeToro.PlayLines;
+                case Games.ActionHot40:
+                    return GameTurboHot40Conversion.PlayLines;
+                case Games.FireCash40:
+                    return Matrix40FireCash.PlayLines;
+                case Games.ActionHot20:
+                case Games.FruitsAndStars20Deluxe:
+                    return GameFruitsAndStarsConversion.PlayLines;
+                case Games.JokerQueen:
+                    return GameJokerQueenConversion.PlayLines;
+                case Games.BonusBells:
+                    return MatrixBonusBells.PlayLines;
+                case Games.CashBells40:
+                    return MatrixCashBells40.PlayLines;
+                case Games.SimplyRunner:
+                    return MatrixSimplyRunner.PlayLines;
+                case Games.KingOfThunder:
+                    return MatrixKingOfThunder.PlayLines;
+                case Games.ExtraFlames10:
+                case Games.ShiningPresents:
+                    return MatrixExtraFlames10.PlayLines;
+                case Games.HeatClassic5:
+                    return MatrixHeatClassic5.PlayLines;
+                case Games.VeryHot5Extreme:
+                    return MatrixVeryHot5Extreme.PlayLines;
+                case Games.FireCash20:
+                    return Matrix20FireCash.PlayLines;
+                case Games.Wild27:
+                    return MatrixWild27.PlayLines;
+                case Games.PiratesPapi:
+                    return MatrixPiratesPapi.PlayLines;
+                default:
+                    return null;
+            }
+        }
+
+        public static int GetIndexForLinesV3(Games game, int lines)
+        {
+            switch (game)
+            {
+                case Games.LuckyTwister:
+                case Games.BuffaloFortune:
+                   return Array.IndexOf(MatrixLuckyTwister.PlayLines, lines);
+                case Games.SpinCards:
+                   return Array.IndexOf(MatrixPokerSlot.PlayLines, lines);
+                case Games.BookOfMayanGold:
+                   return Array.IndexOf(MatrixBookOfMayanGold.PlayLines, lines);
+                case Games.GoldenClover:
+                   return Array.IndexOf(MatrixGoldenClover.PlayLines, lines);
+                case Games.BurstingHot5:
+                case Games.FireClover5:
+                case Games.FireCloverDice5:
+                case Games.VeryHot5:
+                case Games.FireClover40:
+                case Games.FireDice40:
+                case Games.WildHeart5:
+                case Games.AdmiralHot5:
+                case Games.VeryHot5Christmas:
+                case Games.CrownFire5:
+                   return Array.IndexOf(MatrixBurstingHot5.PlayLines, lines);
+                case Games.WildClover40:
+                case Games.WildCloverDice40:
+                   return Array.IndexOf(MatrixWildClover40.PlayLines, lines);
+                case Games.MayanCoins:
+                case Games.CloverCoin:
+                case Games.ShiningRush:
+                   return Array.IndexOf(MatrixCloverCash.PlayLines, lines);
+                case Games.SuperLucky:
+                    return Array.IndexOf(MatrixSuperLucky.PlayLines, lines);
+                case Games.WildCrown10:
+                case Games.WildDiamond10:
+                case Games.WildDice10:
+                case Games.WildPumpkin10:
+                case Games.WildSanta10:
+                   return Array.IndexOf(MatrixGoldenCrown.PlayLines, lines);
+                case Games.WildClover506:
+                   return Array.IndexOf(Matrix40WildClover6.PlayLines, lines);
+                case Games.LollasWorld:
+                case Games.ZabranjenoVoce:
+                case Games.LollasWorldChristmas:
+                   return Array.IndexOf(MatrixLilaWild.PlayLines, lines);
+                case Games.LostBook:
+                case Games.BookOfIbis:
+                   return Array.IndexOf(GameSpellbookConversion.PlayLines, lines);
+                case Games.BookOfScorpionsDouble:
+                case Games.BookOfDread:
+                   return Array.IndexOf(MatrixBookOfDouble.PlayLines, lines);
+                case Games.ElGrandeToro:
+                   return Array.IndexOf(MatrixElGrandeToro.PlayLines, lines);
+                case Games.ActionHot40:
+                    return Array.IndexOf(GameTurboHot40Conversion.PlayLines, lines);
+                case Games.FireCash40:
+                    return Array.IndexOf(Matrix40FireCash.PlayLines, lines);
+                case Games.ActionHot20:
+                case Games.FruitsAndStars20Deluxe:
+                    return Array.IndexOf(GameFruitsAndStarsConversion.PlayLines, lines);
+                case Games.JokerQueen:
+                    return Array.IndexOf(GameJokerQueenConversion.PlayLines, lines);
+                case Games.BonusBells:
+                    return Array.IndexOf(MatrixBonusBells.PlayLines, lines);
+                case Games.CashBells40:
+                    return Array.IndexOf(MatrixCashBells40.PlayLines, lines);
+                case Games.SimplyRunner:
+                    return Array.IndexOf(MatrixSimplyRunner.PlayLines, lines);
+                case Games.KingOfThunder:
+                    return Array.IndexOf(MatrixKingOfThunder.PlayLines, lines);
+                case Games.ExtraFlames10:
+                case Games.ShiningPresents:
+                    return Array.IndexOf(MatrixExtraFlames10.PlayLines, lines);
+                case Games.HeatClassic5:
+                    return Array.IndexOf(MatrixHeatClassic5.PlayLines, lines);
+                case Games.VeryHot5Extreme:
+                    return Array.IndexOf(MatrixVeryHot5Extreme.PlayLines, lines);
+                case Games.FireCash20:
+                    return Array.IndexOf(Matrix20FireCash.PlayLines, lines);
+                case Games.Wild27:
+                    return Array.IndexOf(MatrixWild27.PlayLines, lines);
+                case Games.PiratesPapi:
+                    return Array.IndexOf(MatrixPiratesPapi.PlayLines, lines);
+                default:
+                    return -1;
+            }
+        }
+
+        public static SlotDataResV3 GetNonWinningCombination(Games game, int bet, int numberOfLines, int gratisGamesLeft)
+        {
+            switch (game)
+            {
+                case Games.LuckyTwister:
+                case Games.BuffaloFortune:
+                    return GameLuckyTwisterConversion.ToSlotDataResV3(GameLuckyTwisterConversion.GetNonWinningCombination(bet));
+                case Games.SpinCards:
+                    return GameSpinCardsConversion.ToSlotDataResV3(GameSpinCardsConversion.GetNonWinningCombination(bet, numberOfLines, gratisGamesLeft));
+                case Games.BookOfMayanGold:
+                    return GameBookOfMayanGoldConversion.ToSlotDataResV3(GameBookOfMayanGoldConversion.GetNonWinningCombination(bet, numberOfLines, gratisGamesLeft));
+                case Games.GoldenClover:
+                    return GameGoldenCloverConversion.ToSlotDataResV3(GameGoldenCloverConversion.GetNonWinningCombination(bet, numberOfLines, gratisGamesLeft), numberOfLines, gratisGamesLeft > 0);
+                case Games.BurstingHot5:
+                case Games.FireClover5:
+                case Games.FireCloverDice5:
+                case Games.VeryHot5:
+                case Games.FireClover40:
+                case Games.FireDice40:
+                case Games.WildHeart5:
+                case Games.AdmiralHot5:
+                case Games.VeryHot5Christmas:
+                case Games.CrownFire5:
+                    return GameBurstingHot5Conversion.ToSlotDataResV3(GameBurstingHot5Conversion.GetNonWinningCombination(bet, numberOfLines, gratisGamesLeft));
+                case Games.WildClover40:
+                case Games.WildCloverDice40:
+                    return GameWildClover40Conversion.ToSlotDataResV3(GameWildClover40Conversion.GetNonWinningCombination(bet, numberOfLines, gratisGamesLeft));
+                case Games.MayanCoins:
+                case Games.CloverCoin:
+                case Games.ShiningRush:
+                    return GameCloverCashConversion.ToSlotDataResV3(GameCloverCashConversion.GetNonWinningCombination(bet, numberOfLines, gratisGamesLeft), gratisGamesLeft > 0);
+                case Games.SuperLucky:
+                    return GameCloverCashConversion.ToSlotDataResV3SuperLucky(GameCloverCashConversion.GetNonWinningCombination(bet, numberOfLines, gratisGamesLeft), gratisGamesLeft > 0);
+                case Games.WildCrown10:
+                case Games.WildDiamond10:
+                case Games.WildDice10:
+                case Games.WildPumpkin10:
+                case Games.WildSanta10:
+                    return GameGoldenCrownConversion.ToSlotDataResV3(GameGoldenCrownConversion.GetNonWinningCombination(bet, numberOfLines, gratisGamesLeft));
+                case Games.WildClover506:
+                    return GameWildClover506Conversion.ToSlotDataResV3(GameWildClover506Conversion.GetNonWinningCombination(bet, numberOfLines, gratisGamesLeft));
+                case Games.LollasWorld:
+                case Games.ZabranjenoVoce:
+                case Games.LollasWorldChristmas:
+                    return GameLollasWorldCoversion.ToSlotDataResV3(GameLollasWorldCoversion.GetNonWinningCombination(bet, numberOfLines, gratisGamesLeft));
+                case Games.LostBook:
+                case Games.BookOfIbis:
+                    return GameSpellbookConversion.ToSlotDataResV3(GameSpellbookConversion.GetNonWinningCombination(bet, numberOfLines, gratisGamesLeft), gratisGamesLeft > 0);
+                case Games.BookOfScorpionsDouble:
+                case Games.BookOfDread:
+                    return GameBookOfDoubleConversion.ToSlotDataResV3(GameBookOfDoubleConversion.GetNonWinningCombination(bet, numberOfLines, gratisGamesLeft));
+                case Games.ElGrandeToro:
+                    return GameElGrandeToroConversion.ToSlotDataResV3(GameElGrandeToroConversion.GetNonWinningCombination(bet, numberOfLines, gratisGamesLeft));
+                case Games.ActionHot40:
+                    return GameTurboHot40Conversion.ToSlotDataResV3(GameTurboHot40Conversion.GetNonWinningCombination(bet, numberOfLines, gratisGamesLeft));
+                case Games.FireCash40:
+                    return Game40FireCashConversion.ToSlotDataResV3(Game40FireCashConversion.GetNonWinningCombination(bet, numberOfLines));
+                case Games.ActionHot20:
+                case Games.FruitsAndStars20Deluxe:
+                    return GameFruitsAndStarsConversion.ToSlotDataResV3(GameFruitsAndStarsConversion.GetNonWinningCombination(bet, numberOfLines, gratisGamesLeft));
+                case Games.JokerQueen:
+                    return GameJokerQueenConversion.ToSlotDataResV3(GameJokerQueenConversion.GetNonWinningCombination(bet, numberOfLines, gratisGamesLeft));
+                case Games.BonusBells:
+                    return GameBonusBellsConversion.ToSlotDataResV3(GameBonusBellsConversion.GetNonWinningCombination(bet, numberOfLines, gratisGamesLeft));
+                case Games.CashBells40:
+                    return GameCashBells40Conversion.ToSlotDataResV3(GameCashBells40Conversion.GetNonWinningCombination(bet, numberOfLines, gratisGamesLeft));
+                case Games.SimplyRunner:
+                    return GameSimplyRunnerConversion.ToSlotDataResV3(GameSimplyRunnerConversion.GetNonWinningCombination(bet, numberOfLines));
+                case Games.KingOfThunder:
+                    return GameKingOfThunderConversion.ToSlotDataResV3(GameKingOfThunderConversion.GetNonWinningCombination(bet, numberOfLines, gratisGamesLeft));
+                case Games.ExtraFlames10:
+                case Games.ShiningPresents:
+                    return GameExtraFlames10Conversion.ToSlotDataResV3(GameExtraFlames10Conversion.GetNonWinningCombination(bet, numberOfLines, gratisGamesLeft));
+                case Games.HeatClassic5:
+                    return GameHeatClassicConversion.ToSlotDataResV3(GameHeatClassicConversion.GetNonWinningCombination(bet, numberOfLines, gratisGamesLeft));
+                case Games.VeryHot5Extreme:
+                    return GameVeryHotExtremeConversion.ToSlotDataResV3(GameVeryHotExtremeConversion.GetNonWinningCombination(bet, numberOfLines));
+                case Games.FireCash20:
+                    return Game20FireCashConversion.ToSlotDataResV3(Game20FireCashConversion.GetNonWinningCombination(bet, numberOfLines));
+                case Games.Wild27:
+                    return GameWild27Conversion.ToSlotDataResV3(GameWild27Conversion.GetNonWinningCombination(bet));
+                case Games.PiratesPapi:
+                    return GamePiratesPapiConversion.ToSlotDataResV3(GamePiratesPapiConversion.GetNonWinningCombination(bet, numberOfLines));
+                default:
+                    return null;
+            }
+        }
+    }
+}

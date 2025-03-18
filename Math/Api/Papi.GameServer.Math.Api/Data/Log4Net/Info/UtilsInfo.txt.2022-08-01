@@ -1,0 +1,4 @@
+2022-08-01 11:37:36,911 [1] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Init Virtual roulettes. UseVirtualRouletteApp: False
+2022-08-01 11:37:42,196 [43] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: onlinestreamprod.Papi.rs/api/streamconnection/getconnecttostream/?port=12044&streamType=premuxedStream;null: RiseOnBetsOpenEvent: 24000
+2022-08-01 11:37:42,197 [13] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: StartVideoStream: True
+2022-08-01 11:37:42,331 [13] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: StartVideoStream end: 

@@ -1,0 +1,20 @@
+2022-06-29 10:28:34,584 [68] ERROR ControlLib.WebChannelControl.WebMessageAControlCore - ChannelAControlCore: MessageA OnRequestSelectedGamesParser error System.NullReferenceException: Object reference not set to an instance of an object.
+   at ControlLib.WebChannelControl.WebMessageAControlCore.PotentialBetsAndDenominationForGame(MessageDescriptionData messageDescription, String valute, PotentialBetsAndDenominationStruct potentialBetsAndDenominationParameters) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\ControlLib\WebChannelControl\WebMessageAControlCore.cs:line 2113
+   at ControlLib.WebChannelControl.WebMessageAControlCore._MessageLogic_OnRequestPotentialBetsAndDenominationsForGameParser(MessageDescriptionData messageDescription) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\ControlLib\WebChannelControl\WebMessageAControlCore.cs:line 822
+2022-06-29 16:10:45,940 [56] ERROR ControlLib.TerminalControl.GameControl - GameControl: Illegal bet 3 - Bet too high: 800 0, credits: 2991372344
+2022-06-29 16:10:47,502 [63] ERROR ControlLib.TerminalControl.GameControl - GameControl: Illegal bet 3 - Bet too high: 800 0, credits: 2991371544
+2022-06-29 16:10:49,000 [53] ERROR ControlLib.TerminalControl.GameControl - GameControl: Illegal bet 3 - Bet too high: 800 0, credits: 2991370744
+2022-06-29 16:10:51,033 [63] ERROR ControlLib.TerminalControl.GameControl - GameControl: Illegal bet 3 - Bet too high: 800 0, credits: 2991369944
+2022-06-29 16:10:52,413 [46] ERROR ControlLib.TerminalControl.GameControl - GameControl: Illegal bet 3 - Bet too high: 800 0, credits: 2991369144
+2022-06-29 16:10:53,993 [14] ERROR ControlLib.TerminalControl.GameControl - GameControl: Illegal bet 3 - Bet too high: 800 0, credits: 2991368344
+2022-06-29 16:12:29,735 [56] ERROR ControlLib.TerminalControl.GameControl - GameControl: Illegal bet 3 - Bet too high: 10000 0, credits: 1165618
+2022-06-29 16:12:34,227 [43] ERROR ControlLib.TerminalControl.GameControl - GameControl: Illegal bet 3 - Bet too high: 10000 0, credits: 1155618
+2022-06-29 16:12:45,991 [57] ERROR ControlLib.TerminalControl.GameControl - GameControl: Illegal bet 3 - Bet too high: 800 0, credits: 1145618
+2022-06-29 16:12:47,328 [19] ERROR ControlLib.TerminalControl.GameControl - GameControl: Illegal bet 3 - Bet too high: 800 0, credits: 1144818
+2022-06-29 16:12:48,985 [46] ERROR ControlLib.TerminalControl.GameControl - GameControl: Illegal bet 3 - Bet too high: 800 0, credits: 1144018
+2022-06-29 16:12:50,992 [55] ERROR ControlLib.TerminalControl.GameControl - GameControl: Illegal bet 3 - Bet too high: 800 0, credits: 1143218
+2022-06-29 16:12:55,286 [14] ERROR ControlLib.TerminalControl.GameControl - GameControl: Illegal bet 3 - Bet too high: 200 0, credits: 1142418
+2022-06-29 16:12:57,157 [14] ERROR ControlLib.TerminalControl.GameControl - GameControl: Illegal bet 3 - Bet too high: 200 0, credits: 1142218
+2022-06-29 16:12:59,084 [62] ERROR ControlLib.TerminalControl.GameControl - GameControl: Illegal bet 3 - Bet too high: 200 0, credits: 1142018
+2022-06-29 16:13:00,588 [86] ERROR ControlLib.TerminalControl.GameControl - GameControl: Illegal bet 3 - Bet too high: 200 0, credits: 1141818
+2022-06-29 16:13:02,186 [42] ERROR ControlLib.TerminalControl.GameControl - GameControl: Illegal bet 3 - Bet too high: 200 0, credits: 1141618

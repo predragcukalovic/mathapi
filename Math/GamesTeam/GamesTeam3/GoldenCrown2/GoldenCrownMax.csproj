@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <OutputType>Library</OutputType>
+    <RootNamespace>GoldenCrown2</RootNamespace>
+    <AssemblyName>GoldenCrown2</AssemblyName>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <Configurations>bbb;BetProduction;Debbbb;Debug;MainStreamProduction;Only FolderContentCheck;Production;Release;Work</Configurations>
+    <AssemblyTitle>GoldenCrown2</AssemblyTitle>
+    <Product>GoldenCrown2</Product>
+    <Copyright>Copyright ©  2024</Copyright>
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <FileVersion>1.0.0.0</FileVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Core\MathForGames\SlotSimulatorU\MathForGames.csproj" />
+    <ProjectReference Include="..\..\..\Data\MathBaseProject\GamesDTO.csproj" />
+    <ProjectReference Include="..\..\..\Games\GameEpicClover40\GameEpicClover40.csproj" />
+    <ProjectReference Include="..\..\..\Utils\CombinationUtils\CombinationUtils.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.CSharp" Version="4.7.0" />
+    <PackageReference Include="System.Data.DataSetExtensions" Version="4.5.0" />
+  </ItemGroup>
+</Project>

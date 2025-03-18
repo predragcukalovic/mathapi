@@ -1,0 +1,15 @@
+2019-01-16 16:49:12,497 [73] INFO  GameBussines.NVRAMData.AccountLogData - DatabaseAccess: UserId: 0b5dbc04-58e6-41bf-af55-ab18a5584c8c, added win: 200
+2019-01-16 16:54:22,724 [61] INFO  GameBussines.NVRAMData.AccountLogData - DatabaseAccess: UserId: 0b5dbc04-58e6-41bf-af55-ab18a5584c8c, added win: 150
+2019-01-16 17:14:46,147 [77] INFO  GameBussines.NVRAMData.AccountLogData - DatabaseAccess: UserId: 0b5dbc04-58e6-41bf-af55-ab18a5584c8c, added win: 150
+2019-01-16 17:16:46,421 [76] INFO  GameBussines.NVRAMData.AccountLogData - DatabaseAccess: UserId: 0b5dbc04-58e6-41bf-af55-ab18a5584c8c, added win: 100
+2019-01-16 17:17:07,797 [77] INFO  GameBussines.NVRAMData.AccountLogData - DatabaseAccess: UserId: 0b5dbc04-58e6-41bf-af55-ab18a5584c8c, added win: 250
+2019-01-16 17:21:01,552 [83] INFO  GameBussines.NVRAMData.AccountLogData - DatabaseAccess: UserId: 0b5dbc04-58e6-41bf-af55-ab18a5584c8c, added win: 2250
+2019-01-16 17:21:19,317 [38] INFO  GameBussines.NVRAMData.AccountLogData - DatabaseAccess: UserId: 0b5dbc04-58e6-41bf-af55-ab18a5584c8c, added win: 250
+2019-01-16 17:21:27,996 [32] INFO  GameBussines.NVRAMData.AccountLogData - DatabaseAccess: UserId: 0b5dbc04-58e6-41bf-af55-ab18a5584c8c, added win: 1350
+2019-01-16 17:24:24,225 [32] INFO  GameBussines.NVRAMData.AccountLogData - DatabaseAccess: UserId: 0b5dbc04-58e6-41bf-af55-ab18a5584c8c, added win: 150
+2019-01-16 17:29:37,925 [21] INFO  GameBussines.NVRAMData.AccountLogData - DatabaseAccess: UserId: 0b5dbc04-58e6-41bf-af55-ab18a5584c8c, added win: 100
+2019-01-16 17:30:05,987 [34] INFO  GameBussines.NVRAMData.AccountLogData - DatabaseAccess: UserId: 0b5dbc04-58e6-41bf-af55-ab18a5584c8c, added win: 5850
+2019-01-16 17:30:21,107 [34] INFO  GameBussines.NVRAMData.AccountLogData - DatabaseAccess: UserId: 0b5dbc04-58e6-41bf-af55-ab18a5584c8c, added win: 50
+2019-01-16 17:31:30,222 [34] INFO  GameBussines.NVRAMData.AccountLogData - DatabaseAccess: UserId: 0b5dbc04-58e6-41bf-af55-ab18a5584c8c, added win: 6550
+2019-01-16 17:32:35,363 [40] INFO  GameBussines.NVRAMData.AccountLogData - DatabaseAccess: UserId: 0b5dbc04-58e6-41bf-af55-ab18a5584c8c, added win: 50
+2019-01-16 17:32:44,436 [69] INFO  GameBussines.NVRAMData.AccountLogData - DatabaseAccess: UserId: 0b5dbc04-58e6-41bf-af55-ab18a5584c8c, added win: 100

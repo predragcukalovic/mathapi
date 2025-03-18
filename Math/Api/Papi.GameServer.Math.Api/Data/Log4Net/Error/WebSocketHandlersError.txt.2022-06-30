@@ -1,0 +1,33 @@
+2022-06-30 12:54:51,624 [91] ERROR OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: e71522dc-261a-472f-be4b-8dd30c0239aa
+2022-06-30 13:01:26,770 [139] ERROR OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Same user already logged in: e71522dc-261a-472f-be4b-8dd30c0239aa, token: FAZE_FAZ-FS_773B92C51603432DB51F9808992F60A1
+2022-06-30 13:02:54,252 [139] ERROR OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Same user already logged in, connection closed: e71522dc-261a-472f-be4b-8dd30c0239aa
+2022-06-30 13:42:01,563 [51] ERROR OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: e71522dc-261a-472f-be4b-8dd30c0239aa
+2022-06-30 13:46:23,008 [144] ERROR OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: e71522dc-261a-472f-be4b-8dd30c0239aa
+2022-06-30 13:49:02,257 [83] ERROR OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: e71522dc-261a-472f-be4b-8dd30c0239aa
+2022-06-30 13:50:15,764 [9] ERROR OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: e71522dc-261a-472f-be4b-8dd30c0239aa
+2022-06-30 14:08:59,309 [30] ERROR OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: e71522dc-261a-472f-be4b-8dd30c0239aa
+2022-06-30 14:12:11,503 [26] ERROR OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Same user already logged in: e71522dc-261a-472f-be4b-8dd30c0239aa, token: FAZE_FAZ-FS_3E105BC63BF14C87BD109A0D4B244D7D
+2022-06-30 14:12:16,750 [26] ERROR OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnOpen Error: e71522dc-261a-472f-be4b-8dd30c0239aa, message: System.NullReferenceException: Object reference not set to an instance of an object.
+   at OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler.OnOpen() in C:\projekti\1.3_Cheat_And_Reset\OCP\Project\OCP\UI\Web\WebSocketHandlers\ChannelAWebSocketHandler.cs:line 320
+2022-06-30 14:14:35,497 [172] ERROR OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: e71522dc-261a-472f-be4b-8dd30c0239aa
+2022-06-30 14:42:06,914 [251] ERROR OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: e71522dc-261a-472f-be4b-8dd30c0239aa
+2022-06-30 15:04:55,079 [214] ERROR OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: e71522dc-261a-472f-be4b-8dd30c0239aa
+2022-06-30 15:12:47,709 [179] ERROR OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: e71522dc-261a-472f-be4b-8dd30c0239aa
+2022-06-30 15:48:09,394 [19] ERROR OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: e71522dc-261a-472f-be4b-8dd30c0239aa
+2022-06-30 15:52:49,440 [129] ERROR OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnFatalCodeError, close connection: 00000000-0000-0000-0000-000000000000
+2022-06-30 15:53:08,518 [129] ERROR OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnOpen Error: 00000000-0000-0000-0000-000000000000, message: System.NullReferenceException: Object reference not set to an instance of an object.
+   at PortalJpUtils.LocalJackpotData.InitLocalJackpotData(AccountingLog data, Int32 portalId, Int32 groupId) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\PortalJpUtils\LocalJackpotData.cs:line 187
+   at PortalJpUtils.NVRAMLogic.LoadDataFromNVRAM(String userId, Int32 portalId, Int32 groupId, Boolean forMoney, Int64 initialBalance, Int32 liveRouletteId) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\PortalJpUtils\NVRAMLogic.cs:line 76
+   at ControlLib.ClientMain.InitializeNVRAM() in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\ControlLib\ClientMain.cs:line 239
+   at ControlLib.ClientMain.Initialize() in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\ControlLib\ClientMain.cs:line 296
+   at OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler.OnOpen() in C:\projekti\1.3_Cheat_And_Reset\OCP\Project\OCP\UI\Web\WebSocketHandlers\ChannelAWebSocketHandler.cs:line 320
+2022-06-30 15:53:11,394 [73] ERROR OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnFatalCodeError, close connection: 00000000-0000-0000-0000-000000000000
+2022-06-30 15:53:26,253 [87] ERROR OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnMessage, user blocked or doesn't exist, close connection: 00000000-0000-0000-0000-000000000000
+2022-06-30 15:53:28,946 [73] ERROR OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnOpen Error: 00000000-0000-0000-0000-000000000000, message: System.NullReferenceException: Object reference not set to an instance of an object.
+   at PortalJpUtils.LocalJackpotData.InitLocalJackpotData(AccountingLog data, Int32 portalId, Int32 groupId) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\PortalJpUtils\LocalJackpotData.cs:line 187
+   at PortalJpUtils.NVRAMLogic.LoadDataFromNVRAM(String userId, Int32 portalId, Int32 groupId, Boolean forMoney, Int64 initialBalance, Int32 liveRouletteId) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\PortalJpUtils\NVRAMLogic.cs:line 76
+   at ControlLib.ClientMain.InitializeNVRAM() in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\ControlLib\ClientMain.cs:line 239
+   at ControlLib.ClientMain.Initialize() in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\ControlLib\ClientMain.cs:line 296
+   at OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler.OnOpen() in C:\projekti\1.3_Cheat_And_Reset\OCP\Project\OCP\UI\Web\WebSocketHandlers\ChannelAWebSocketHandler.cs:line 320
+2022-06-30 15:53:39,596 [155] ERROR OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnMessage, user blocked or doesn't exist, close connection: 00000000-0000-0000-0000-000000000000
+2022-06-30 15:57:18,334 [20] ERROR OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: e71522dc-261a-472f-be4b-8dd30c0239aa

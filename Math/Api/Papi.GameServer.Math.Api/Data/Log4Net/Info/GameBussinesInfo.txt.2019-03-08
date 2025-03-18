@@ -1,0 +1,2 @@
+2019-03-08 15:00:43,459 [58] INFO  GameBussines.NVRAMData.AccountLogData - DatabaseAccess: UserId: eefff48d-0a83-4dca-a03c-7d83fb07c707, added win: 100
+2019-03-08 15:03:04,417 [37] INFO  GameBussines.NVRAMData.AccountLogData - DatabaseAccess: UserId: eefff48d-0a83-4dca-a03c-7d83fb07c707, added win: 200

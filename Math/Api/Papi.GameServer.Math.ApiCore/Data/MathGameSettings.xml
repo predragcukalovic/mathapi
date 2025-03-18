@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<!--
+=== УПУТСТВО ===
+* Подаци за игру се налазе у чвору 'GameNode'
+* 'GameNode' садржи име игре које мора да буде идентично као званично име игре, тј као фолдер у коме се чувају фајлови за игру
+* 'GameNode' може да садржи неограничен број чворова 'PercentItem', који садрже податке за различите проценте
+* 'PercentValue' је цео број, и значи да у оквиру фолдера 'Game' мора да постоји фолдер за називом тог процента
+* 'Count' означава колико комбинација се чита за тај проценат
+* Сваки 'PercentItem' може да садржи неограничен број чворова 'BetItem', који садржи податке за различите улоге
+* 'Set' је име сета (фолдера) који садржи фајлове за одређени улог (стринг)
+* 'MaxBet' је максимални улог за који ће се читати комбинације из тог сета (цео број)
+* Чворови 'BetItem' морају да буду сортирани у растућем редоследу по 'MaxBet'!
+* Чворове који би требало да имају неку вредност не остављати празне!
+-->
+
+<root>
+  
+  <!-- Game Postman -->
+  <GameNode>
+    <GameName>Postman</GameName>
+  </GameNode>
+  
+  <!-- Game Jungle -->
+  <GameNode>
+    <GameName>Jungle</GameName>
+  </GameNode>
+
+  <!-- Game Wizard -->
+  <GameNode>
+    <GameName>Wizard</GameName>
+  </GameNode>
+
+  <!-- Game WildWest -->
+  <GameNode>
+    <GameName>WildWest</GameName>
+  </GameNode>
+
+  <!-- Game Fruits -->
+  <GameNode>
+    <GameName>Fruits</GameName>
+  </GameNode>
+
+  <!-- Game Alpinist -->
+  <GameNode>
+    <GameName>Alpinist</GameName>
+  </GameNode>
+
+  <!-- Game Pyramid -->
+  <GameNode>
+    <GameName>Pyramid</GameName>
+  </GameNode>
+
+  <!-- Game CaptainShark -->
+  <GameNode>
+    <GameName>CaptainShark</GameName>
+  </GameNode>
+
+  <!-- Game MagicTarget -->
+  <GameNode>
+    <GameName>MagicTarget</GameName>
+  </GameNode>
+
+  <!-- Game MagicOfTheRing -->
+  <GameNode>
+    <GameName>MagicOfTheRing</GameName>
+  </GameNode>
+
+  <!-- Game Spellbook -->
+  <GameNode>
+    <GameName>Spellbook</GameName>
+  </GameNode>
+
+  <!-- Game HotParty -->
+  <GameNode>
+    <GameName>HotParty</GameName>
+  </GameNode>
+
+  <!-- Game Hot777 -->
+  <GameNode>
+    <GameName>Hot777</GameName>
+  </GameNode>
+
+  <!-- Game VegasHot -->
+  <GameNode>
+    <GameName>VegasHot</GameName>
+  </GameNode>
+
+  <!-- Game FenixPlay -->
+  <GameNode>
+    <GameName>FenixPlay</GameName>
+  </GameNode>
+
+  <!-- Game MagicFruits -->
+  <GameNode>
+    <GameName>MagicFruits</GameName>
+  </GameNode>
+
+  <!-- Game RollingDices81 -->
+  <GameNode>
+    <GameName>RollingDices81</GameName>
+  </GameNode>
+
+  <!-- Game Diamonds -->
+  <GameNode>
+    <GameName>Diamonds</GameName>
+  </GameNode>
+
+  <!-- Game JuicyHot -->
+  <GameNode>
+    <GameName>JuicyHot</GameName>
+  </GameNode>
+
+  <!-- Game HotStars -->
+  <GameNode>
+    <GameName>HotStars</GameName>
+  </GameNode>
+  
+    <!-- Game BookOfSpells -->
+  <GameNode>
+    <GameName>BookOfSpells</GameName>
+  </GameNode>
+  
+</root>

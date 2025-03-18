@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<!--
+За сваку игру постоји чвор 'Game' (али и не мора да постоји).
+'GameName' означава име игре.
+За сваку игру постоји било коли број чворова 'GameItem'.
+Ту се налази име фајла (без .fsl екстензије), ако је фајл у неком фолдеру одваја се косом цртом, на пример 'Folder\Igra95'.
+'Count' означава колико комбинација се извлачи за тај фајл.
+Поље је обавезно, може да буде у број 0 или стринг, али се тада извлачи једна комбинација из тог фајла.
+'GratisFileName' је име фајла из ког се учитавају гратис игре.
+Обавезно је да сви фајлови за једну игру буду смештени у једном фолдеру који носи име те игре.
+-->
+
+<root>
+
+  <!-- Game Postman -->
+  <Game>
+    <GameName>Postman</GameName>
+    <!--<GameItem>
+      <GameFileName>Pstmn\Postman-92</GameFileName>
+      <Count>0</Count>
+      <GratisFileName>Postman-G200</GratisFileName>
+    </GameItem>-->
+  </Game>
+
+  <!-- Game Jungle -->
+  <Game>
+    <GameName>DeepJungle</GameName>
+  </Game>
+
+  <!-- Game Wizard -->
+  <Game>
+    <GameName>Wizard</GameName>
+  </Game>
+</root>

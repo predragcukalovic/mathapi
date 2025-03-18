@@ -1,0 +1,2 @@
+2019-03-14 13:34:57,962 [11] INFO  GameBussines.NVRAMData.AccountLogData - DatabaseAccess: UserId: 901f221f-168e-42dc-803f-f5a4b9beecfd, added win: 100
+2019-03-14 13:50:41,220 [61] INFO  GameBussines.NVRAMData.AccountLogData - DatabaseAccess: UserId: 901f221f-168e-42dc-803f-f5a4b9beecfd, added win: 250

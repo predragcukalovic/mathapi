@@ -1,0 +1,7 @@
+2022-06-29 10:28:54,553 [143] ERROR OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: e0fb4fa1-1c65-4a8c-a6a1-7949e3fc377b
+2022-06-29 11:08:06,103 [103] ERROR OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: e71522dc-261a-472f-be4b-8dd30c0239aa
+2022-06-29 12:05:35,080 [61] ERROR OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: e71522dc-261a-472f-be4b-8dd30c0239aa
+2022-06-29 12:09:14,334 [75] ERROR OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Same user already logged in: e71522dc-261a-472f-be4b-8dd30c0239aa, token: FAZE_FAZ-FS_A29B264722874860BC32DB1A92005B6A
+2022-06-29 12:10:43,596 [75] ERROR OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Same user already logged in, connection closed: e71522dc-261a-472f-be4b-8dd30c0239aa
+2022-06-29 12:18:28,327 [132] ERROR OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: e0fb4fa1-1c65-4a8c-a6a1-7949e3fc377b
+2022-06-29 12:27:41,139 [49] ERROR OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, there is no messages, close connection: e0fb4fa1-1c65-4a8c-a6a1-7949e3fc377b

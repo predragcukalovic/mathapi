@@ -1,0 +1,5 @@
+2023-03-06 15:24:17,480 [40] ERROR OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: 16625077-f99b-44a4-89d7-af3e981d3610
+2023-03-06 15:27:43,133 [105] ERROR OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: 16625077-f99b-44a4-89d7-af3e981d3610
+2023-03-06 15:30:13,102 [29] ERROR OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: 16625077-f99b-44a4-89d7-af3e981d3610
+2023-03-06 15:33:10,283 [131] ERROR OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: 16625077-f99b-44a4-89d7-af3e981d3610
+2023-03-06 15:36:51,740 [30] ERROR OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: 16625077-f99b-44a4-89d7-af3e981d3610

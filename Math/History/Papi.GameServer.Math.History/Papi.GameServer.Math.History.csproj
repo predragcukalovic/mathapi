@@ -1,0 +1,49 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+
+	  <!-- Optional: Publish the repository URL in the built .nupkg (in the NuSpec <Repository> element) -->
+	  <PublishRepositoryUrl>true</PublishRepositoryUrl>
+
+	  <!-- Optional: Embed source files that are not tracked by the source control manager in the PDB -->
+	  <EmbedUntrackedSources>true</EmbedUntrackedSources>
+
+	  <!-- Optional: Build symbol package (.snupkg) to distribute the PDB containing Source Link -->
+	  <IncludeSymbols>true</IncludeSymbols>
+	  <SymbolPackageFormat>snupkg</SymbolPackageFormat>
+	  <PackageProjectUrl>https://git.Papi.rs/game-server/math-api</PackageProjectUrl>
+	  <RepositoryUrl>https://git.Papi.rs/game-server/math-api</RepositoryUrl>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <AssemblyName>Papi.GameServer.Math.History</AssemblyName>
+	<VersionSuffix Condition="'$(DesignTimeBuild)' != 'true' OR '$(BuildingProject)' == 'true'">1.0.1.$([MSBuild]::Subtract($([System.Math]::Floor($([MSBuild]::Divide($([System.DateTime]::UtcNow.Ticks), 10000000)))), 62135596800))</VersionSuffix>
+    <AssemblyVersion>$(VersionSuffix)</AssemblyVersion>
+    <Version>$(VersionSuffix)</Version>
+    <Company>Papi</Company>
+    <Authors>Papi</Authors>
+    <Copyright>Copyright © Papi 2022</Copyright>
+  </PropertyGroup>
+	
+  <PropertyGroup>
+	<GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+	<Deterministic>false</Deterministic>
+	<AllowedOutputExtensionsInPackageBuildOutputFolder>$(AllowedOutputExtensionsInPackageBuildOutputFolder);.pdb</AllowedOutputExtensionsInPackageBuildOutputFolder>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Papi.GameServer.Utils" Version="3.0.124" />
+    <PackageReference Include="Microsoft.CSharp" Version="4.7.0" />
+    <PackageReference Include="Microsoft.SourceLink.GitLab" Version="1.1.1">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Contracts\Papi.GameServer.Math.Contracts\Papi.GameServer.Math.Contracts.csproj" />
+  </ItemGroup>
+
+</Project>

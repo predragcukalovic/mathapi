@@ -1,0 +1,8 @@
+2018-12-21 10:58:14,872 [30] INFO  GameBussines.NVRAMData.AccountLogData - DatabaseAccess: UserId: e39a8643-689e-4cd9-8db4-fd739d6b2df2, added win: 100
+2018-12-21 11:27:54,363 [14] INFO  GameBussines.NVRAMData.AccountLogData - DatabaseAccess: UserId: e39a8643-689e-4cd9-8db4-fd739d6b2df2, added win: 200
+2018-12-21 11:28:30,681 [68] INFO  GameBussines.NVRAMData.AccountLogData - DatabaseAccess: UserId: e39a8643-689e-4cd9-8db4-fd739d6b2df2, added win: 50
+2018-12-21 11:33:50,648 [77] INFO  GameBussines.NVRAMData.AccountLogData - DatabaseAccess: UserId: e39a8643-689e-4cd9-8db4-fd739d6b2df2, added win: 50
+2018-12-21 11:34:32,275 [19] INFO  GameBussines.NVRAMData.AccountLogData - DatabaseAccess: UserId: e39a8643-689e-4cd9-8db4-fd739d6b2df2, added win: 5850
+2018-12-21 11:35:11,145 [81] INFO  GameBussines.NVRAMData.AccountLogData - DatabaseAccess: UserId: e39a8643-689e-4cd9-8db4-fd739d6b2df2, added win: 50
+2018-12-21 11:36:54,679 [19] INFO  GameBussines.NVRAMData.AccountLogData - DatabaseAccess: UserId: e39a8643-689e-4cd9-8db4-fd739d6b2df2, added win: 5800
+2018-12-21 12:37:12,498 [66] INFO  GameBussines.NVRAMData.AccountLogData - DatabaseAccess: UserId: e39a8643-689e-4cd9-8db4-fd739d6b2df2, added win: 250

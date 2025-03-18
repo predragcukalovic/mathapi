@@ -1,0 +1,43 @@
+2023-02-10 15:39:52,824 [78] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2023-02-10 15:40:28,749 [78] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: d035c3ec-c9e4-4f3a-87f2-83c62a868c97
+2023-02-10 15:50:39,166 [61] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: d035c3ec-c9e4-4f3a-87f2-83c62a868c97
+2023-02-10 15:50:41,146 [130] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnClose Error: d035c3ec-c9e4-4f3a-87f2-83c62a868c97, message: System.NotImplementedException: The method or operation is not implemented.
+   at OCP.Business.Integration.Hub88Integration.Hub88Client.GameClose(Boolean gameStarted) in C:\projekti\1.3_Cheat_And_Reset\OCP\Project\OCP\Hub88Integration\Hub88Client.cs:line 349
+   at ControlLib.TerminalControl.GameControl.GameClose(Boolean gameStarted) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\ControlLib\TerminalControl\GameControl.cs:line 591
+   at ControlLib.WebChannelControl.WebMessageAControlCore.GameClose(Boolean errorEvent) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\ControlLib\WebChannelControl\WebMessageAControlCore.cs:line 1411
+   at ControlLib.WebChannelControl.WebChannelAMessageLogic.GameClose(Boolean errorEvent) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\ControlLib\WebChannelControl\WebChannelAMessageLogic.cs:line 456
+   at ControlLib.ClientMain.GameClose(Boolean errorEvent) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\ControlLib\ClientMain.cs:line 489
+   at OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler.RemoveHandlersAndClient(Boolean errorEvent) in C:\projekti\1.3_Cheat_And_Reset\OCP\Project\OCP\UI\Web\WebSocketHandlers\ChannelAWebSocketHandler.cs:line 631
+   at OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler.OnClose() in C:\projekti\1.3_Cheat_And_Reset\OCP\Project\OCP\UI\Web\WebSocketHandlers\ChannelAWebSocketHandler.cs:line 345
+2023-02-10 16:05:24,618 [235] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2023-02-10 16:05:52,936 [235] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: d035c3ec-c9e4-4f3a-87f2-83c62a868c97
+2023-02-10 16:12:54,214 [62] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: d035c3ec-c9e4-4f3a-87f2-83c62a868c97
+2023-02-10 16:16:02,143 [234] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnClose Error: d035c3ec-c9e4-4f3a-87f2-83c62a868c97, message: System.NotImplementedException: The method or operation is not implemented.
+   at OCP.Business.Integration.Hub88Integration.Hub88Client.GameClose(Boolean gameStarted) in C:\projekti\1.3_Cheat_And_Reset\OCP\Project\OCP\Hub88Integration\Hub88Client.cs:line 349
+   at ControlLib.TerminalControl.GameControl.GameClose(Boolean gameStarted) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\ControlLib\TerminalControl\GameControl.cs:line 591
+   at ControlLib.WebChannelControl.WebMessageAControlCore.GameClose(Boolean errorEvent) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\ControlLib\WebChannelControl\WebMessageAControlCore.cs:line 1411
+   at ControlLib.WebChannelControl.WebChannelAMessageLogic.GameClose(Boolean errorEvent) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\ControlLib\WebChannelControl\WebChannelAMessageLogic.cs:line 456
+   at ControlLib.ClientMain.GameClose(Boolean errorEvent) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\ControlLib\ClientMain.cs:line 489
+   at OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler.RemoveHandlersAndClient(Boolean errorEvent) in C:\projekti\1.3_Cheat_And_Reset\OCP\Project\OCP\UI\Web\WebSocketHandlers\ChannelAWebSocketHandler.cs:line 631
+   at OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler.OnClose() in C:\projekti\1.3_Cheat_And_Reset\OCP\Project\OCP\UI\Web\WebSocketHandlers\ChannelAWebSocketHandler.cs:line 345
+2023-02-10 16:53:16,719 [76] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2023-02-10 16:53:25,248 [76] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: d035c3ec-c9e4-4f3a-87f2-83c62a868c97
+2023-02-10 17:31:39,561 [132] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnError entered: 
+2023-02-10 17:31:39,564 [132] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnError current exception: System.Net.WebSockets.WebSocketException (0x80070026): Reached the end of the file
+   at System.Web.WebSockets.WebSocketPipe.<>c__DisplayClass9_0.<ReadFragmentAsync>b__0(Int32 hrError, Int32 cbIO, Boolean fUtf8Encoded, Boolean fFinalFragment, Boolean fClose)
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Web.WebSockets.AspNetWebSocket.<DoWork>d__45`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at System.Web.WebSockets.AspNetWebSocket.<>c__DisplayClass36_0.<<ReceiveAsyncImpl>b__0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.Web.WebSockets.WebSocketMessageReader.<ReadMessageAsync>d__0.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.Web.WebSockets.WebSocketHandler.<ProcessWebSocketRequestAsync>d__9.MoveNext()

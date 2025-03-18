@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Papi.GameServer.Utils" Version="3.0.124" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GamesTeam\GamesTeam2\GameFruityForce\GameFruityForce.csproj" />
+    <ProjectReference Include="..\Utils\CombinationExtras\CombinationExtras.csproj" />
+  </ItemGroup>
+
+</Project>

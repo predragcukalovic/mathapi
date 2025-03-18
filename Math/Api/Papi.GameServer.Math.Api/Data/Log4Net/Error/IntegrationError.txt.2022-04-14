@@ -1,0 +1,20 @@
+2022-04-14 09:25:58,401 [1] ERROR OCP.Business.Integration.MBasIntegration.MBasApiTokenMethodsAndLogic - Integration: MBasClient.InitAuthApiLogic Error: Missing Parameters
+2022-04-14 09:41:46,546 [147] ERROR OCP.Business.Integration.MBasIntegration.MBasApiTokenMethodsAndLogic - Integration: MBasClient.InitAuthApiLogic Error: Missing Parameters
+2022-04-14 12:46:31,315 [1] ERROR OCP.Business.Integration.MBasIntegration.MBasApiTokenMethodsAndLogic - Integration: MBasClient.InitAuthApiLogic Error: Missing Parameters
+2022-04-14 12:47:52,116 [1] ERROR OCP.Business.Integration.MBasIntegration.MBasApiTokenMethodsAndLogic - Integration: MBasClient.InitAuthApiLogic Error: Missing Parameters
+2022-04-14 15:38:34,335 [143] ERROR OCP.Business.Integration.MeridianIntegration.MeridianClient - Integration: Error MeridianClient.Balance: System.Net.WebException: The operation has timed out
+   at System.Net.HttpWebRequest.GetResponse()
+   at OCP.Business.Integration.MeridianIntegration.MeridianClient.PostXmlData(String requestXml) in C:\projekti\1.3_Cheat_And_Reset\OCP\Project\OCP\MeridianIntegration\MeridianClient.cs:line 788
+   at OCP.Business.Integration.MeridianIntegration.MeridianClient.GetBalance() in C:\projekti\1.3_Cheat_And_Reset\OCP\Project\OCP\MeridianIntegration\MeridianClient.cs:line 85
+2022-04-14 15:38:49,450 [242] ERROR OCP.Business.Integration.MeridianIntegration.MeridianClient - Integration: Error MeridianClient.Balance: System.Net.WebException: The operation has timed out
+   at System.Net.HttpWebRequest.GetResponse()
+   at OCP.Business.Integration.MeridianIntegration.MeridianClient.PostXmlData(String requestXml) in C:\projekti\1.3_Cheat_And_Reset\OCP\Project\OCP\MeridianIntegration\MeridianClient.cs:line 788
+   at OCP.Business.Integration.MeridianIntegration.MeridianClient.GetBalance() in C:\projekti\1.3_Cheat_And_Reset\OCP\Project\OCP\MeridianIntegration\MeridianClient.cs:line 85
+2022-04-14 15:39:05,376 [242] ERROR OCP.Business.Integration.MeridianIntegration.MeridianClient - Integration: Error MeridianClient.Balance: System.Net.WebException: The operation has timed out
+   at System.Net.HttpWebRequest.GetResponse()
+   at OCP.Business.Integration.MeridianIntegration.MeridianClient.PostXmlData(String requestXml) in C:\projekti\1.3_Cheat_And_Reset\OCP\Project\OCP\MeridianIntegration\MeridianClient.cs:line 788
+   at OCP.Business.Integration.MeridianIntegration.MeridianClient.GetBalance() in C:\projekti\1.3_Cheat_And_Reset\OCP\Project\OCP\MeridianIntegration\MeridianClient.cs:line 85
+2022-04-14 15:39:37,027 [242] ERROR OCP.Business.Integration.MeridianIntegration.MeridianClient - Integration: Error MeridianClient.Balance: System.Net.WebException: The operation has timed out
+   at System.Net.HttpWebRequest.GetResponse()
+   at OCP.Business.Integration.MeridianIntegration.MeridianClient.PostXmlData(String requestXml) in C:\projekti\1.3_Cheat_And_Reset\OCP\Project\OCP\MeridianIntegration\MeridianClient.cs:line 788
+   at OCP.Business.Integration.MeridianIntegration.MeridianClient.GetBalance() in C:\projekti\1.3_Cheat_And_Reset\OCP\Project\OCP\MeridianIntegration\MeridianClient.cs:line 85

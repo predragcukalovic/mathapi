@@ -1,0 +1,1068 @@
+{
+  "Default": {
+    "NumberOfReels": 5,
+    "ReturnJson": false,
+    "BuyBonusEnabled": false
+  },
+  "Spellbook": {
+    "NumberOfReels": 5,
+    "ReturnJson": false,
+    "BuyBonusEnabled": true
+  },
+  "LostBook": {
+    "NumberOfReels": 5,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "SantasPresents": {
+    "NumberOfReels": 5,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "LuckyTwister": {
+    "NumberOfReels": 5,
+    "NumberOfRows": 5,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "Postman": {
+    "NumberOfReels": 5,
+    "ReturnJson": false,
+    "BuyBonusEnabled": false
+  },
+  "DeepJungle": {
+    "NumberOfReels": 5,
+    "ReturnJson": false,
+    "BuyBonusEnabled": false
+  },
+  "Wizard": {
+    "NumberOfReels": 5,
+    "ReturnJson": false,
+    "BuyBonusEnabled": false
+  },
+  "FruitsAndStars": {
+    "NumberOfReels": 5,
+    "ReturnJson": false,
+    "BuyBonusEnabled": false
+  },
+  "WildWest": {
+    "NumberOfReels": 5,
+    "ReturnJson": false,
+    "BuyBonusEnabled": false
+  },
+  "Pyramid": {
+    "NumberOfReels": 5,
+    "ReturnJson": false,
+    "BuyBonusEnabled": false
+  },
+  "JuicyHot": {
+    "NumberOfReels": 5,
+    "ReturnJson": false,
+    "BuyBonusEnabled": false
+  },
+  "HotStars": {
+    "NumberOfReels": 5,
+    "ReturnJson": false,
+    "BuyBonusEnabled": false
+  },
+  "BookOfSpells": {
+    "NumberOfReels": 5,
+    "ReturnJson": false,
+    "BuyBonusEnabled": true
+  },
+  "MegaHot": {
+    "NumberOfReels": 5,
+    "ReturnJson": false,
+    "BuyBonusEnabled": false
+  },
+  "TurboHot40": {
+    "NumberOfReels": 5,
+    "NumberOfRows": 4,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "CrystalsOfMagic": {
+    "NumberOfReels": 5,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "Pirates": {
+    "NumberOfReels": 5,
+    "NumberOfRows": 4,
+    "ReturnJson": false,
+    "BuyBonusEnabled": false
+  },
+  "BookOfBruno": {
+    "NumberOfReels": 5,
+    "ReturnJson": false,
+    "BuyBonusEnabled": false
+  },
+  "TropicalHot": {
+    "NumberOfReels": 5,
+    "ReturnJson": false,
+    "BuyBonusEnabled": false
+  },
+  "Monsters": {
+    "NumberOfReels": 5,
+    "ReturnJson": false,
+    "BuyBonusEnabled": false
+  },
+  "ForestFruits": {
+    "NumberOfReels": 5,
+    "ReturnJson": false,
+    "BuyBonusEnabled": false
+  },
+  "VikingGold": {
+    "NumberOfReels": 5,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "StarGems": {
+    "NumberOfReels": 5,
+    "ReturnJson": false,
+    "BuyBonusEnabled": false
+  },
+  "BookOfSpellsV2": {
+    "NumberOfReels": 5,
+    "ReturnJson": false,
+    "BuyBonusEnabled": true
+  },
+  "TemplarsQuest": {
+    "NumberOfReels": 5,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "SpaceGuardians": {
+    "NumberOfReels": 5,
+    "ReturnJson": false,
+    "BuyBonusEnabled": false
+  },
+  "Starlight": {
+    "NumberOfReels": 5,
+    "ReturnJson": false,
+    "BuyBonusEnabled": false
+  },
+  "TripleHot": {
+    "NumberOfReels": 3,
+    "ReturnJson": false,
+    "BuyBonusEnabled": false
+  },
+  "CrystalHot40": {
+    "NumberOfReels": 5,
+    "NumberOfRows": 4,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "TurboDice40": {
+    "NumberOfReels": 5,
+    "NumberOfRows": 4,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "TripleDice": {
+    "NumberOfReels": 3,
+    "ReturnJson": false,
+    "BuyBonusEnabled": false
+  },
+  "SpinCards": {
+    "NumberOfReels": 5,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "KatanasOfTime": {
+    "NumberOfReels": 5,
+    "ReturnJson": false,
+    "BuyBonusEnabled": false
+  },
+  "Retro7Hot": {
+    "NumberOfReels": 3,
+    "ReturnJson": false,
+    "BuyBonusEnabled": false
+  },
+  "StarRunner": {
+    "NumberOfReels": 5,
+    "ReturnJson": false,
+    "BuyBonusEnabled": false
+  },
+  "AlohaCharm": {
+    "NumberOfReels": 5,
+    "ReturnJson": false,
+    "BuyBonusEnabled": false
+  },
+  "FruitsAndStars40": {
+    "NumberOfReels": 5,
+    "ReturnJson": false,
+    "BuyBonusEnabled": false
+  },
+  "TwinklingHot5": {
+    "NumberOfReels": 5,
+    "ReturnJson": false,
+    "BuyBonusEnabled": false
+  },
+  "DiceOfSpells": {
+    "NumberOfReels": 5,
+    "ReturnJson": false,
+    "BuyBonusEnabled": false
+  },
+  "CubesAndStars": {
+    "NumberOfReels": 5,
+    "ReturnJson": false,
+    "BuyBonusEnabled": false
+  },
+  "TwinklingHot40": {
+    "NumberOfReels": 5,
+    "ReturnJson": false,
+    "BuyBonusEnabled": false
+  },
+  "BookOfSpellsDeluxe": {
+    "NumberOfReels": 5,
+    "ReturnJson": false,
+    "BuyBonusEnabled": false
+  },
+  "JazzyFruits": {
+    "NumberOfReels": 5,
+    "ReturnJson": false,
+    "BuyBonusEnabled": false
+  },
+  "CrystalHot80": {
+    "NumberOfReels": 5,
+    "NumberOfRows": 4,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "CrystalHot40Gd": {
+    "NumberOfReels": 5,
+    "NumberOfRows": 4,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "CrystalHot40Deluxe": {
+    "NumberOfReels": 5,
+    "NumberOfRows": 4,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "CrystalHot40Gd2": {
+    "NumberOfReels": 5,
+    "NumberOfRows": 4,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "WildHot40": {
+    "NumberOfReels": 5,
+    "NumberOfRows": 4,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "BuffaloFortune": {
+    "NumberOfReels": 5,
+    "NumberOfRows": 5,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "DolphinsShine": {
+    "NumberOfReels": 5,
+    "ReturnJson": false,
+    "BuyBonusEnabled": false
+  },
+  "GoldenCrown": {
+    "NumberOfReels": 5,
+    "ReturnJson": false,
+    "BuyBonusEnabled": false
+  },
+  "WildClover40": {
+    "NumberOfReels": 5,
+    "NumberOfRows": 4,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "MysteryJokerHot": {
+    "NumberOfReels": 3,
+    "ReturnJson": false,
+    "BuyBonusEnabled": false
+  },
+  "CrystalJokerHot": {
+    "NumberOfReels": 5,
+    "NumberOfRows": 4,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "FruityJokerHot": {
+    "NumberOfReels": 5,
+    "ReturnJson": false,
+    "BuyBonusEnabled": false
+  },
+  "MayanCoins": {
+    "NumberOfReels": 5,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "FireClover5": {
+    "NumberOfReels": 5,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "WildCrown10": {
+    "NumberOfReels": 5,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "WildCloverDice40": {
+    "NumberOfReels": 5,
+    "NumberOfRows": 4,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "FireCloverDice5": {
+    "NumberOfReels": 5,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "WildKingdom": {
+    "NumberOfReels": 5,
+    "ReturnJson": false,
+    "BuyBonusEnabled": false
+  },
+  "BookOfLuxorDouble": {
+    "NumberOfReels": 5,
+    "ReturnJson": false,
+    "BuyBonusEnabled": false
+  },
+  "MegaCubesDeluxe": {
+    "NumberOfReels": 5,
+    "ReturnJson": false,
+    "BuyBonusEnabled": false
+  },
+  "LollasWorld": {
+    "NumberOfReels": 5,
+    "NumberOfRows": 4,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "FireClover40": {
+    "NumberOfReels": 5,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "VeryHot5": {
+    "NumberOfReels": 5,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "VeryHot40": {
+    "NumberOfReels": 5,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "JewelsBeat": {
+    "NumberOfReels": 5,
+    "ReturnJson": false,
+    "BuyBonusEnabled": false
+  },
+  "HeatingIce": {
+    "NumberOfReels": 3,
+    "ReturnJson": false,
+    "BuyBonusEnabled": false
+  },
+  "HeatingIceDeluxe": {
+    "NumberOfReels": 3,
+    "ReturnJson": false,
+    "BuyBonusEnabled": false
+  },
+  "FluoDice5": {
+    "NumberOfReels": 5,
+    "ReturnJson": false,
+    "BuyBonusEnabled": false
+  },
+  "FluoHot5": {
+    "NumberOfReels": 5,
+    "ReturnJson": false,
+    "BuyBonusEnabled": false
+  },
+  "HeatingDice": {
+    "NumberOfReels": 3,
+    "ReturnJson": false,
+    "BuyBonusEnabled": false
+  },
+  "CrystalJewels": {
+    "NumberOfReels": 5,
+    "ReturnJson": false,
+    "BuyBonusEnabled": false
+  },
+  "TwinklingHot80": {
+    "NumberOfReels": 5,
+    "NumberOfRows": 4,
+    "ReturnJson": false,
+    "BuyBonusEnabled": false
+  },
+  "GoldenCrownMaxbet": {
+    "NumberOfReels": 5,
+    "ReturnJson": false,
+    "BuyBonusEnabled": false
+  },
+  "LuckyBrilliants": {
+    "NumberOfReels": 5,
+    "ReturnJson": false,
+    "BuyBonusEnabled": false
+  },
+  "GoldenCrown20BalkanBet": {
+    "NumberOfReels": 5,
+    "ReturnJson": false,
+    "BuyBonusEnabled": false
+  },
+  "CrystalHot40Free": {
+    "NumberOfReels": 5,
+    "NumberOfRows": 4,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "ElGrandeToro": {
+    "NumberOfReels": 5,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "WinningStars": {
+    "NumberOfReels": 5,
+    "ReturnJson": false,
+    "BuyBonusEnabled": false
+  },
+  "CrystalHot100": {
+    "NumberOfReels": 5,
+    "NumberOfRows": 4,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "TurboHot80": {
+    "NumberOfReels": 5,
+    "NumberOfRows": 4,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "SevenClassicHot": {
+    "NumberOfReels": 5,
+    "ReturnJson": false,
+    "BuyBonusEnabled": false
+  },
+  "TurboHot100": {
+    "NumberOfReels": 5,
+    "NumberOfRows": 4,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "BonusBells": {
+    "NumberOfReels": 5,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "FruityHot": {
+    "NumberOfReels": 5,
+    "ReturnJson": false,
+    "BuyBonusEnabled": false
+  },
+  "ActionHot40": {
+    "NumberOfReels": 5,
+    "NumberOfRows": 4,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "EyeOfTut": {
+    "NumberOfReels": 5,
+    "ReturnJson": false,
+    "BuyBonusEnabled": false
+  },
+  "FruityWin40": {
+    "NumberOfReels": 5,
+    "NumberOfRows": 4,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "ActionHot20": {
+    "NumberOfReels": 5,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "CashBells40": {
+    "NumberOfReels": 6,
+    "NumberOfRows": 4,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "VeryHot20": {
+    "NumberOfReels": 5,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "KingOfThunder": {
+    "NumberOfReels": 5,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "BookOfSpells2": {
+    "NumberOfReels": 5,
+    "ReturnJson": false,
+    "BuyBonusEnabled": false
+  },
+  "CrystalHot40Max": {
+    "NumberOfReels": 5,
+    "NumberOfRows": 4,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "FruityWin20": {
+    "NumberOfReels": 5,
+    "NumberOfRows": 4,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "FruityHot5": {
+    "NumberOfReels": 5,
+    "ReturnJson": false,
+    "BuyBonusEnabled": false
+  },
+  "GigaHot40": {
+    "NumberOfReels": 5,
+    "NumberOfRows": 4,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "WildDiamond10": {
+    "NumberOfReels": 5,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "FruityFace": {
+    "NumberOfReels": 5,
+    "ReturnJson": false,
+    "BuyBonusEnabled": false
+  },
+  "WildHeart5": {
+    "NumberOfReels": 5,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "ClassicLuckySpin": {
+    "NumberOfReels": 3,
+    "ReturnJson": false,
+    "BuyBonusEnabled": false
+  },
+  "WildJokerHot": {
+    "NumberOfReels": 5,
+    "ReturnJson": false,
+    "BuyBonusEnabled": false
+  },
+  "WildDice10": {
+    "NumberOfReels": 5,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "HeatingFruits": {
+    "NumberOfReels": 5,
+    "NumberOfRows": 4,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "BookOfIbis": {
+    "NumberOfReels": 5,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "CloverCoin": {
+    "NumberOfReels": 5,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "PowerOfTheGreat": {
+    "NumberOfReels": 5,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "HeatClassic5": {
+    "NumberOfReels": 3,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "WildHot40Halloween": {
+    "NumberOfReels": 5,
+    "NumberOfRows": 4,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "CrystalHot40Halloween": {
+    "NumberOfReels": 5,
+    "NumberOfRows": 4,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "VeryHot40Dice": {
+    "NumberOfReels": 5,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "WildLuckyClover": {
+    "NumberOfReels": 5,
+    "NumberOfRows": 4,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "WildLuckyDice": {
+    "NumberOfReels": 5,
+    "NumberOfRows": 4,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "FruitsAndStars20Deluxe": {
+    "NumberOfReels": 5,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "VeryHot40Respin": {
+    "NumberOfReels": 5,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "BookOfDread": {
+    "NumberOfReels": 5,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "WildPumpkin10": {
+    "NumberOfReels": 5,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "AfricanTreasure": {
+    "NumberOfReels": 5,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "CrystalHot40Christmas": {
+    "NumberOfReels": 5,
+    "NumberOfRows": 4,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "FruitsAndStarsChristmas": {
+    "NumberOfReels": 5,
+    "ReturnJson": false,
+    "BuyBonusEnabled": false
+  },
+  "HotStarsChristmas": {
+    "NumberOfReels": 5,
+    "ReturnJson": false,
+    "BuyBonusEnabled": false
+  },
+  "TurboHot40Christmas": {
+    "NumberOfReels": 5,
+    "NumberOfRows": 4,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "Retro7HotChristmas": {
+    "NumberOfReels": 3,
+    "ReturnJson": false,
+    "BuyBonusEnabled": false
+  },
+  "FruitsAndStars40Christmas": {
+    "NumberOfReels": 5,
+    "ReturnJson": false,
+    "BuyBonusEnabled": false
+  },
+  "TwinklingHot40Christmas": {
+    "NumberOfReels": 5,
+    "ReturnJson": false,
+    "BuyBonusEnabled": false
+  },
+  "GoldenCrownChristmas": {
+    "NumberOfReels": 5,
+    "ReturnJson": false,
+    "BuyBonusEnabled": false
+  },
+  "LollasWorldChristmas": {
+    "NumberOfReels": 5,
+    "NumberOfRows": 4,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "WildHot40Christmas": {
+    "NumberOfReels": 5,
+    "NumberOfRows": 4,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "VeryHot5Christmas": {
+    "NumberOfReels": 5,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "VeryHot40Christmas": {
+    "NumberOfReels": 5,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "CrownFire5": {
+    "NumberOfReels": 5,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "WildSanta10": {
+    "NumberOfReels": 5,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "WildHot40Blow": {
+    "NumberOfReels": 5,
+    "NumberOfRows": 4,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "ShiningRush": {
+    "NumberOfReels": 5,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "GoldenExplosion": {
+    "NumberOfReels": 5,
+    "ReturnJson": false,
+    "BuyBonusEnabled": false
+  },
+  "VeryHot5Extreme": {
+    "NumberOfReels": 5,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "PixelHot40": {
+    "NumberOfReels": 5,
+    "NumberOfRows": 4,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "FireCash20": {
+    "NumberOfReels": 5,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "EpicFire40": {
+    "NumberOfReels": 5,
+    "NumberOfRows": 4,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "GoldenCrown40": {
+    "NumberOfReels": 5,
+    "ReturnJson": false,
+    "BuyBonusEnabled": false
+  },
+  "Wild27": {
+    "NumberOfReels": 3,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "Wild5": {
+    "NumberOfReels": 3,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "BlowFruits40": {
+    "NumberOfReels": 5,
+    "NumberOfRows": 4,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "CoinSplash": {
+    "NumberOfReels": 5,
+    "NumberOfRows": 4,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "FireCash40": {
+    "NumberOfReels": 5,
+    "NumberOfRows": 4,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "WildHot40FreeSpins": {
+    "NumberOfReels": 5,
+    "NumberOfRows": 4,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "PiratesPapi": {
+    "NumberOfReels": 5,
+    "NumberOfRows": 4,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "SuperLucky": {
+    "NumberOfReels": 5,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "EpicClover40": {
+    "NumberOfReels": 5,
+    "NumberOfRows": 4,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "WildLuckyClover2": {
+    "NumberOfReels": 5,
+    "NumberOfRows": 4,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "EpicCrown10": {
+    "NumberOfReels": 5,
+    "ReturnJson": false,
+    "BuyBonusEnabled": false
+  },
+  "JokerTripleDouble": {
+    "NumberOfReels": 3,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "HeatDouble": {
+    "NumberOfReels": 3,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "KettysFashionWorld": {
+    "NumberOfReels": 5,
+    "NumberOfRows": 4,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "RetroFire": {
+    "NumberOfReels": 5,
+    "NumberOfRows": 4,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "Money5": {
+    "NumberOfReels": 5,
+    "ReturnJson": false,
+    "Theme": "money",
+    "BuyBonusEnabled": false
+  },
+  "BlazingHeat": {
+    "NumberOfReels": 5,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "HotHotStereoWin": {
+    "NumberOfReels": 5,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "EpicCrown5": {
+    "NumberOfReels": 5,
+    "ReturnJson": false,
+    "BuyBonusEnabled": false
+  },
+  "DeadNight": {
+    "NumberOfReels": 5,
+    "NumberOfRows": 4,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "WinningClover5": {
+    "NumberOfReels": 5,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "TurboFire": {
+    "NumberOfReels": 5,
+    "NumberOfRows": 4,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "WinningClover5Extreme": {
+    "NumberOfReels": 5,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "CloverBlast5": {
+    "NumberOfReels": 5,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "WildHot40Dice": {
+    "NumberOfReels": 5,
+    "NumberOfRows": 4,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "HotLine1X": {
+    "NumberOfReels": 5,
+    "ReturnJson": false,
+    "BuyBonusEnabled": false
+  },
+  "WildHot40BlowDice": {
+    "NumberOfReels": 5,
+    "NumberOfRows": 4,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "FashionNight": {
+    "NumberOfReels": 5,
+    "ReturnJson": false,
+    "BuyBonusEnabled": false
+  },
+  "MayansBattle": {
+    "NumberOfReels": 5,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "WildCraps": {
+    "NumberOfReels": 5,
+    "ReturnJson": false,
+    "BuyBonusEnabled": false
+  },
+  "RedstoneFearOfDark": {
+    "NumberOfReels": 5,
+    "NumberOfRows": 4,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "MrFirstCryptonium": {
+    "NumberOfReels": 5,
+    "NumberOfRows": 4,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "GoldenVegas": {
+    "NumberOfReels": 5,
+    "ReturnJson": false,
+    "BuyBonusEnabled": false
+  },
+  "ChilliRespin": {
+    "NumberOfReels": 3,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "RedstoneChilliHot5": {
+    "NumberOfReels": 5,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "Redstone40HotJoker": {
+    "NumberOfReels": 5,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "RedstoneJollyPresents": {
+    "NumberOfReels": 5,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "Redstone20FruitFrenzy": {
+    "NumberOfReels": 5,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "Redstone40FruitFrenzy": {
+    "NumberOfReels": 5,
+    "NumberOfRows": 4,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "RedstoneWildHeartBeat": {
+    "NumberOfReels": 5,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "RedstoneWildTrail": {
+    "NumberOfReels": 5,
+    "NumberOfRows": 4,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "Redstone40JokersFreeGames": {
+    "NumberOfReels": 5,
+    "NumberOfRows": 4,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "RedstoneMoonDog": {
+    "NumberOfReels": 5,
+    "NumberOfRows": 4,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "BonusEpicCrown": {
+    "NumberOfReels": 5,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "Redstone20WildCrown": {
+    "NumberOfReels": 5,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "EpicClover100": {
+    "NumberOfReels": 5,
+    "NumberOfRows": 4,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "AmazingJoker": {
+    "NumberOfReels": 5,
+    "NumberOfRows": 4,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "GrandpashabetCrown": {
+    "NumberOfReels": 5,
+    "ReturnJson": false,
+    "BuyBonusEnabled": false
+  },
+  "TripleFieldsOfLuck": {
+    "NumberOfReels": 3,
+    "ReturnJson": false,
+    "BuyBonusEnabled": false
+  },
+  "RedstoneChilliDouble": {
+    "NumberOfReels": 5,
+    "ReturnJson": false,
+    "BuyBonusEnabled": false
+  },
+  "RedstoneHotRushCrownBurst": {
+    "NumberOfReels": 5,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "MozzartHot5": {
+    "NumberOfReels": 5,
+    "ReturnJson": false,
+    "BuyBonusEnabled": false
+  },
+  "MozzartHot40": {
+    "NumberOfReels": 5,
+    "NumberOfRows": 4,
+    "ReturnJson": false,
+    "BuyBonusEnabled": false
+  },
+  "CrownOfMozzart": {
+    "NumberOfReels": 5,
+    "ReturnJson": false,
+    "BuyBonusEnabled": false
+  },
+  "BigBuddha": {
+    "NumberOfReels": 5,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "SmokinBarrel": {
+    "NumberOfReels": 5,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "UnicornFrootClassic": {
+    "NumberOfReels": 5,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  },
+  "UnicornStickyHot": {
+    "NumberOfReels": 5,
+    "ReturnJson": true,
+    "BuyBonusEnabled": false
+  }
+}

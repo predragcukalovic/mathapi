@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <Valute>EUR</Valute>
+	<!--  in seconds  -->
+  <JackpotSavingPeriod>3</JackpotSavingPeriod>
+	<!--  allow auto increment for global jackpot for all portals  -->
+	<!--  in seconds  -->
+  <AutoIncrementPeriod>20</AutoIncrementPeriod>
+	<!--  Number of gambling attempts for black or red  -->
+  <NumberOfGamblingAttempts>5</NumberOfGamblingAttempts>
+  <!--  Max number of extraction attempts from combination file  -->
+  <MaxNumberOfAttempts>100</MaxNumberOfAttempts>
+  <SaveJackpotPerGame>true</SaveJackpotPerGame>
+  <UnprocessedWinSearchDays>2</UnprocessedWinSearchDays>
+</root>

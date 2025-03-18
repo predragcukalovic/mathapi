@@ -1,0 +1,8 @@
+2022-07-01 13:46:40,173 [159] ERROR ControlLib.TerminalControl.GameControl - GameControl: Illegal bet 3 - Bet too high: 10 0, credits: 24725
+2022-07-01 13:46:47,918 [121] ERROR ControlLib.TerminalControl.GameControl - GameControl: Illegal bet 3 - Bet too high: 10 0, credits: 24725
+2022-07-01 13:52:26,931 [118] ERROR ControlLib.TerminalControl.GameControl - GameControl: Illegal bet 3 - Bet too high: 10 0, credits: 24725
+2022-07-01 13:52:31,159 [159] ERROR ControlLib.TerminalControl.GameControl - GameControl: Illegal bet 3 - Bet too high: 10 0, credits: 24725
+2022-07-01 13:52:34,190 [166] ERROR ControlLib.TerminalControl.GameControl - GameControl: Illegal bet 3 - Bet too high: 10 0, credits: 24725
+2022-07-01 13:52:38,220 [128] ERROR ControlLib.TerminalControl.GameControl - GameControl: Illegal bet 3 - Bet too high: 10 0, credits: 24725
+2022-07-01 13:52:42,818 [129] ERROR ControlLib.TerminalControl.GameControl - GameControl: Illegal bet 3 - Bet too high: 10 0, credits: 24725
+2022-07-01 15:12:45,833 [154] ERROR ControlLib.TerminalControl.GameControl - GameControl: Illegal bet 3 - Bet too high: 10 0, credits: 24705

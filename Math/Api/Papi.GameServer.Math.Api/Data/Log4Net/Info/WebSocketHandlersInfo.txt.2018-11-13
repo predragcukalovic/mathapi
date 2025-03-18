@@ -1,0 +1,23 @@
+2018-11-13 16:08:14,006 [41] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2018-11-13 16:09:21,708 [41] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: 901f221f-168e-42dc-803f-f5a4b9beecfd
+2018-11-13 16:09:48,825 [45] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2018-11-13 16:10:47,219 [11] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnError entered: 
+2018-11-13 16:11:20,615 [44] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: 901f221f-168e-42dc-803f-f5a4b9beecfd
+2018-11-13 16:11:20,855 [11] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnError current exception: System.Net.WebSockets.WebSocketException (0x80004005): The WebSocket instance cannot be used for communication because it has been transitioned into an invalid state.
+   at System.Web.WebSockets.AspNetWebSocket.ThrowIfAborted()
+   at System.Web.WebSockets.AspNetWebSocket.ReceiveAsyncImpl(ArraySegment`1 buffer, CancellationToken cancellationToken, Boolean performValidation)
+   at System.Web.WebSockets.AspNetWebSocket.ReceiveAsync(ArraySegment`1 buffer, CancellationToken cancellationToken)
+   at Microsoft.Web.WebSockets.WebSocketMessageReader.<ReadMessageAsync>d__0.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.Web.WebSockets.WebSocketHandler.<ProcessWebSocketRequestAsync>d__9.MoveNext()
+2018-11-13 16:13:33,927 [45] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnOpen Error: 901f221f-168e-42dc-803f-f5a4b9beecfd, message: System.NullReferenceException: Object reference not set to an instance of an object.
+   at OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler.OnOpen() in d:\Work\OCP\branches\1.1\OCP\Project\OCP\UI\Web\WebSocketHandlers\ChannelAWebSocketHandler.cs:line 295
+2018-11-13 16:13:54,938 [45] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnError entered: 
+2018-11-13 16:15:41,116 [55] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2018-11-13 16:16:29,889 [55] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: 901f221f-168e-42dc-803f-f5a4b9beecfd
+2018-11-13 16:17:34,491 [52] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2018-11-13 16:18:16,585 [41] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: 901f221f-168e-42dc-803f-f5a4b9beecfd
+2018-11-13 16:19:03,250 [52] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: 901f221f-168e-42dc-803f-f5a4b9beecfd
+2018-11-13 16:20:49,401 [34] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: 901f221f-168e-42dc-803f-f5a4b9beecfd

@@ -1,0 +1,16 @@
+2018-11-22 10:11:16,351 [35] INFO  GameBussines.NVRAMData.AccountLogData - DatabaseAccess: UserId: af20a356-07b9-47f8-9900-ab7c71cb2a12, added win: 400
+2018-11-22 10:11:37,631 [17] INFO  GameBussines.NVRAMData.AccountLogData - DatabaseAccess: UserId: af20a356-07b9-47f8-9900-ab7c71cb2a12, added win: 500
+2018-11-22 10:11:44,812 [35] INFO  GameBussines.NVRAMData.AccountLogData - DatabaseAccess: UserId: af20a356-07b9-47f8-9900-ab7c71cb2a12, added win: 200
+2018-11-22 10:56:50,143 [50] INFO  GameBussines.NVRAMData.AccountLogData - DatabaseAccess: UserId: af20a356-07b9-47f8-9900-ab7c71cb2a12, added win: 2000
+2018-11-22 11:01:01,621 [73] INFO  GameBussines.NVRAMData.AccountLogData - DatabaseAccess: UserId: af20a356-07b9-47f8-9900-ab7c71cb2a12, added win: 500
+2018-11-22 11:03:42,791 [33] INFO  GameBussines.NVRAMData.AccountLogData - DatabaseAccess: UserId: af20a356-07b9-47f8-9900-ab7c71cb2a12, added win: 100
+2018-11-22 11:04:16,046 [33] INFO  GameBussines.NVRAMData.AccountLogData - DatabaseAccess: UserId: af20a356-07b9-47f8-9900-ab7c71cb2a12, added win: 100
+2018-11-22 11:05:15,658 [71] INFO  GameBussines.NVRAMData.AccountLogData - DatabaseAccess: UserId: af20a356-07b9-47f8-9900-ab7c71cb2a12, added win: 250
+2018-11-22 11:05:56,819 [17] INFO  GameBussines.NVRAMData.AccountLogData - DatabaseAccess: UserId: af20a356-07b9-47f8-9900-ab7c71cb2a12, added win: 8400
+2018-11-22 11:27:32,431 [10] INFO  GameBussines.NVRAMData.AccountLogData - DatabaseAccess: UserId: af20a356-07b9-47f8-9900-ab7c71cb2a12, added win: 1500
+2018-11-22 11:28:13,307 [54] INFO  GameBussines.NVRAMData.AccountLogData - DatabaseAccess: UserId: af20a356-07b9-47f8-9900-ab7c71cb2a12, added win: 5800
+2018-11-22 15:45:08,670 [46] INFO  GameBussines.NVRAMData.AccountLogData - DatabaseAccess: UserId: af20a356-07b9-47f8-9900-ab7c71cb2a12, added win: 200
+2018-11-22 15:45:16,404 [64] INFO  GameBussines.NVRAMData.AccountLogData - DatabaseAccess: UserId: af20a356-07b9-47f8-9900-ab7c71cb2a12, added win: 100
+2018-11-22 15:45:49,415 [11] INFO  GameBussines.NVRAMData.AccountLogData - DatabaseAccess: UserId: af20a356-07b9-47f8-9900-ab7c71cb2a12, added win: 150
+2018-11-22 15:45:58,168 [11] INFO  GameBussines.NVRAMData.AccountLogData - DatabaseAccess: UserId: af20a356-07b9-47f8-9900-ab7c71cb2a12, added win: 100
+2018-11-22 15:46:36,586 [10] INFO  GameBussines.NVRAMData.AccountLogData - DatabaseAccess: UserId: af20a356-07b9-47f8-9900-ab7c71cb2a12, added win: 5400

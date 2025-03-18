@@ -1,0 +1,142 @@
+2023-02-13 12:45:00,646 [75] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2023-02-13 12:45:13,803 [75] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: d035c3ec-c9e4-4f3a-87f2-83c62a868c97
+2023-02-13 12:46:02,845 [95] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: d035c3ec-c9e4-4f3a-87f2-83c62a868c97
+2023-02-13 12:46:27,192 [82] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnClose Error: d035c3ec-c9e4-4f3a-87f2-83c62a868c97, message: System.NotImplementedException: The method or operation is not implemented.
+   at OCP.Business.Integration.Hub88Integration.Hub88Client.GameClose(Boolean gameStarted) in C:\projekti\1.3_Cheat_And_Reset\OCP\Project\OCP\Hub88Integration\Hub88Client.cs:line 355
+   at ControlLib.TerminalControl.GameControl.GameClose(Boolean gameStarted) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\ControlLib\TerminalControl\GameControl.cs:line 591
+   at ControlLib.WebChannelControl.WebMessageAControlCore.GameClose(Boolean errorEvent) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\ControlLib\WebChannelControl\WebMessageAControlCore.cs:line 1411
+   at ControlLib.WebChannelControl.WebChannelAMessageLogic.GameClose(Boolean errorEvent) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\ControlLib\WebChannelControl\WebChannelAMessageLogic.cs:line 456
+   at ControlLib.ClientMain.GameClose(Boolean errorEvent) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\ControlLib\ClientMain.cs:line 489
+   at OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler.RemoveHandlersAndClient(Boolean errorEvent) in C:\projekti\1.3_Cheat_And_Reset\OCP\Project\OCP\UI\Web\WebSocketHandlers\ChannelAWebSocketHandler.cs:line 631
+   at OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler.OnClose() in C:\projekti\1.3_Cheat_And_Reset\OCP\Project\OCP\UI\Web\WebSocketHandlers\ChannelAWebSocketHandler.cs:line 345
+2023-02-13 13:04:31,113 [156] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2023-02-13 13:04:36,412 [156] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: d035c3ec-c9e4-4f3a-87f2-83c62a868c97
+2023-02-13 13:26:04,421 [198] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnClose Error: d035c3ec-c9e4-4f3a-87f2-83c62a868c97, message: System.NotImplementedException: The method or operation is not implemented.
+   at OCP.Business.Integration.Hub88Integration.Hub88Client.GameClose(Boolean gameStarted) in C:\projekti\1.3_Cheat_And_Reset\OCP\Project\OCP\Hub88Integration\Hub88Client.cs:line 355
+   at ControlLib.TerminalControl.GameControl.GameClose(Boolean gameStarted) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\ControlLib\TerminalControl\GameControl.cs:line 591
+   at ControlLib.WebChannelControl.WebMessageAControlCore.GameClose(Boolean errorEvent) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\ControlLib\WebChannelControl\WebMessageAControlCore.cs:line 1411
+   at ControlLib.WebChannelControl.WebChannelAMessageLogic.GameClose(Boolean errorEvent) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\ControlLib\WebChannelControl\WebChannelAMessageLogic.cs:line 456
+   at ControlLib.ClientMain.GameClose(Boolean errorEvent) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\ControlLib\ClientMain.cs:line 489
+   at OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler.RemoveHandlersAndClient(Boolean errorEvent) in C:\projekti\1.3_Cheat_And_Reset\OCP\Project\OCP\UI\Web\WebSocketHandlers\ChannelAWebSocketHandler.cs:line 631
+   at OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler.OnClose() in C:\projekti\1.3_Cheat_And_Reset\OCP\Project\OCP\UI\Web\WebSocketHandlers\ChannelAWebSocketHandler.cs:line 345
+2023-02-13 13:52:30,073 [9] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2023-02-13 13:52:36,890 [9] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: d035c3ec-c9e4-4f3a-87f2-83c62a868c97
+2023-02-13 13:53:37,467 [73] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: d035c3ec-c9e4-4f3a-87f2-83c62a868c97
+2023-02-13 13:53:38,042 [10] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2023-02-13 13:53:46,487 [14] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnClose Error: d035c3ec-c9e4-4f3a-87f2-83c62a868c97, message: System.NotImplementedException: The method or operation is not implemented.
+   at OCP.Business.Integration.Hub88Integration.Hub88Client.GameClose(Boolean gameStarted) in C:\projekti\1.3_Cheat_And_Reset\OCP\Project\OCP\Hub88Integration\Hub88Client.cs:line 355
+   at ControlLib.TerminalControl.GameControl.GameClose(Boolean gameStarted) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\ControlLib\TerminalControl\GameControl.cs:line 591
+   at ControlLib.WebChannelControl.WebMessageAControlCore.GameClose(Boolean errorEvent) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\ControlLib\WebChannelControl\WebMessageAControlCore.cs:line 1411
+   at ControlLib.WebChannelControl.WebChannelAMessageLogic.GameClose(Boolean errorEvent) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\ControlLib\WebChannelControl\WebChannelAMessageLogic.cs:line 456
+   at ControlLib.ClientMain.GameClose(Boolean errorEvent) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\ControlLib\ClientMain.cs:line 489
+   at OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler.RemoveHandlersAndClient(Boolean errorEvent) in C:\projekti\1.3_Cheat_And_Reset\OCP\Project\OCP\UI\Web\WebSocketHandlers\ChannelAWebSocketHandler.cs:line 631
+   at OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler.OnClose() in C:\projekti\1.3_Cheat_And_Reset\OCP\Project\OCP\UI\Web\WebSocketHandlers\ChannelAWebSocketHandler.cs:line 345
+2023-02-13 13:53:59,086 [14] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2023-02-13 13:54:03,541 [14] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: d035c3ec-c9e4-4f3a-87f2-83c62a868c97
+2023-02-13 14:13:07,261 [76] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnClose Error: d035c3ec-c9e4-4f3a-87f2-83c62a868c97, message: System.NotImplementedException: The method or operation is not implemented.
+   at OCP.Business.Integration.Hub88Integration.Hub88Client.GameClose(Boolean gameStarted) in C:\projekti\1.3_Cheat_And_Reset\OCP\Project\OCP\Hub88Integration\Hub88Client.cs:line 355
+   at ControlLib.TerminalControl.GameControl.GameClose(Boolean gameStarted) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\ControlLib\TerminalControl\GameControl.cs:line 591
+   at ControlLib.WebChannelControl.WebMessageAControlCore.GameClose(Boolean errorEvent) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\ControlLib\WebChannelControl\WebMessageAControlCore.cs:line 1411
+   at ControlLib.WebChannelControl.WebChannelAMessageLogic.GameClose(Boolean errorEvent) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\ControlLib\WebChannelControl\WebChannelAMessageLogic.cs:line 456
+   at ControlLib.ClientMain.GameClose(Boolean errorEvent) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\ControlLib\ClientMain.cs:line 489
+   at OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler.RemoveHandlersAndClient(Boolean errorEvent) in C:\projekti\1.3_Cheat_And_Reset\OCP\Project\OCP\UI\Web\WebSocketHandlers\ChannelAWebSocketHandler.cs:line 631
+   at OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler.OnClose() in C:\projekti\1.3_Cheat_And_Reset\OCP\Project\OCP\UI\Web\WebSocketHandlers\ChannelAWebSocketHandler.cs:line 345
+2023-02-13 14:13:24,092 [110] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2023-02-13 14:13:26,279 [110] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: d035c3ec-c9e4-4f3a-87f2-83c62a868c97
+2023-02-13 14:15:55,596 [82] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnClose Error: d035c3ec-c9e4-4f3a-87f2-83c62a868c97, message: System.NotImplementedException: The method or operation is not implemented.
+   at OCP.Business.Integration.Hub88Integration.Hub88Client.GameClose(Boolean gameStarted) in C:\projekti\1.3_Cheat_And_Reset\OCP\Project\OCP\Hub88Integration\Hub88Client.cs:line 355
+   at ControlLib.TerminalControl.GameControl.GameClose(Boolean gameStarted) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\ControlLib\TerminalControl\GameControl.cs:line 591
+   at ControlLib.WebChannelControl.WebMessageAControlCore.GameClose(Boolean errorEvent) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\ControlLib\WebChannelControl\WebMessageAControlCore.cs:line 1411
+   at ControlLib.WebChannelControl.WebChannelAMessageLogic.GameClose(Boolean errorEvent) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\ControlLib\WebChannelControl\WebChannelAMessageLogic.cs:line 456
+   at ControlLib.ClientMain.GameClose(Boolean errorEvent) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\ControlLib\ClientMain.cs:line 489
+   at OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler.RemoveHandlersAndClient(Boolean errorEvent) in C:\projekti\1.3_Cheat_And_Reset\OCP\Project\OCP\UI\Web\WebSocketHandlers\ChannelAWebSocketHandler.cs:line 631
+   at OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler.OnClose() in C:\projekti\1.3_Cheat_And_Reset\OCP\Project\OCP\UI\Web\WebSocketHandlers\ChannelAWebSocketHandler.cs:line 345
+2023-02-13 14:16:02,458 [110] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2023-02-13 14:16:04,350 [110] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: d035c3ec-c9e4-4f3a-87f2-83c62a868c97
+2023-02-13 14:23:51,324 [70] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2023-02-13 14:23:52,879 [70] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: d035c3ec-c9e4-4f3a-87f2-83c62a868c97
+2023-02-13 14:23:56,012 [91] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2023-02-13 14:23:59,639 [8] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnFatalDataError, close connection: d035c3ec-c9e4-4f3a-87f2-83c62a868c97
+2023-02-13 14:24:14,281 [99] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnClose Error: d035c3ec-c9e4-4f3a-87f2-83c62a868c97, message: System.NotImplementedException: The method or operation is not implemented.
+   at OCP.Business.Integration.Hub88Integration.Hub88Client.GameClose(Boolean gameStarted) in C:\projekti\1.3_Cheat_And_Reset\OCP\Project\OCP\Hub88Integration\Hub88Client.cs:line 355
+   at ControlLib.TerminalControl.GameControl.GameClose(Boolean gameStarted) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\ControlLib\TerminalControl\GameControl.cs:line 591
+   at ControlLib.WebChannelControl.WebMessageAControlCore.GameClose(Boolean errorEvent) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\ControlLib\WebChannelControl\WebMessageAControlCore.cs:line 1411
+   at ControlLib.WebChannelControl.WebChannelAMessageLogic.GameClose(Boolean errorEvent) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\ControlLib\WebChannelControl\WebChannelAMessageLogic.cs:line 456
+   at ControlLib.ClientMain.GameClose(Boolean errorEvent) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\ControlLib\ClientMain.cs:line 489
+   at OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler.RemoveHandlersAndClient(Boolean errorEvent) in C:\projekti\1.3_Cheat_And_Reset\OCP\Project\OCP\UI\Web\WebSocketHandlers\ChannelAWebSocketHandler.cs:line 631
+   at OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler.OnClose() in C:\projekti\1.3_Cheat_And_Reset\OCP\Project\OCP\UI\Web\WebSocketHandlers\ChannelAWebSocketHandler.cs:line 345
+2023-02-13 14:24:16,558 [8] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2023-02-13 14:24:18,389 [8] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: d035c3ec-c9e4-4f3a-87f2-83c62a868c97
+2023-02-13 14:24:25,225 [8] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnFatalDataError, close connection: d035c3ec-c9e4-4f3a-87f2-83c62a868c97
+2023-02-13 14:24:31,607 [83] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2023-02-13 14:24:37,257 [9] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnClose Error: d035c3ec-c9e4-4f3a-87f2-83c62a868c97, message: System.NotImplementedException: The method or operation is not implemented.
+   at OCP.Business.Integration.Hub88Integration.Hub88Client.GameClose(Boolean gameStarted) in C:\projekti\1.3_Cheat_And_Reset\OCP\Project\OCP\Hub88Integration\Hub88Client.cs:line 355
+   at ControlLib.TerminalControl.GameControl.GameClose(Boolean gameStarted) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\ControlLib\TerminalControl\GameControl.cs:line 591
+   at ControlLib.WebChannelControl.WebMessageAControlCore.GameClose(Boolean errorEvent) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\ControlLib\WebChannelControl\WebMessageAControlCore.cs:line 1411
+   at ControlLib.WebChannelControl.WebChannelAMessageLogic.GameClose(Boolean errorEvent) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\ControlLib\WebChannelControl\WebChannelAMessageLogic.cs:line 456
+   at ControlLib.ClientMain.GameClose(Boolean errorEvent) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\ControlLib\ClientMain.cs:line 489
+   at OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler.RemoveHandlersAndClient(Boolean errorEvent) in C:\projekti\1.3_Cheat_And_Reset\OCP\Project\OCP\UI\Web\WebSocketHandlers\ChannelAWebSocketHandler.cs:line 631
+   at OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler.OnClose() in C:\projekti\1.3_Cheat_And_Reset\OCP\Project\OCP\UI\Web\WebSocketHandlers\ChannelAWebSocketHandler.cs:line 345
+2023-02-13 14:24:37,272 [83] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: d035c3ec-c9e4-4f3a-87f2-83c62a868c97
+2023-02-13 14:24:40,254 [8] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnFatalDataError, close connection: d035c3ec-c9e4-4f3a-87f2-83c62a868c97
+2023-02-13 14:24:46,335 [9] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnClose Error: d035c3ec-c9e4-4f3a-87f2-83c62a868c97, message: System.NotImplementedException: The method or operation is not implemented.
+   at OCP.Business.Integration.Hub88Integration.Hub88Client.GameClose(Boolean gameStarted) in C:\projekti\1.3_Cheat_And_Reset\OCP\Project\OCP\Hub88Integration\Hub88Client.cs:line 355
+   at ControlLib.TerminalControl.GameControl.GameClose(Boolean gameStarted) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\ControlLib\TerminalControl\GameControl.cs:line 591
+   at ControlLib.WebChannelControl.WebMessageAControlCore.GameClose(Boolean errorEvent) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\ControlLib\WebChannelControl\WebMessageAControlCore.cs:line 1411
+   at ControlLib.WebChannelControl.WebChannelAMessageLogic.GameClose(Boolean errorEvent) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\ControlLib\WebChannelControl\WebChannelAMessageLogic.cs:line 456
+   at ControlLib.ClientMain.GameClose(Boolean errorEvent) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\ControlLib\ClientMain.cs:line 489
+   at OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler.RemoveHandlersAndClient(Boolean errorEvent) in C:\projekti\1.3_Cheat_And_Reset\OCP\Project\OCP\UI\Web\WebSocketHandlers\ChannelAWebSocketHandler.cs:line 631
+   at OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler.OnClose() in C:\projekti\1.3_Cheat_And_Reset\OCP\Project\OCP\UI\Web\WebSocketHandlers\ChannelAWebSocketHandler.cs:line 345
+2023-02-13 14:27:21,298 [91] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2023-02-13 14:27:22,858 [91] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: d035c3ec-c9e4-4f3a-87f2-83c62a868c97
+2023-02-13 14:27:25,490 [8] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnFatalDataError, close connection: d035c3ec-c9e4-4f3a-87f2-83c62a868c97
+2023-02-13 14:27:39,554 [9] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnClose Error: d035c3ec-c9e4-4f3a-87f2-83c62a868c97, message: System.NotImplementedException: The method or operation is not implemented.
+   at OCP.Business.Integration.Hub88Integration.Hub88Client.GameClose(Boolean gameStarted) in C:\projekti\1.3_Cheat_And_Reset\OCP\Project\OCP\Hub88Integration\Hub88Client.cs:line 355
+   at ControlLib.TerminalControl.GameControl.GameClose(Boolean gameStarted) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\ControlLib\TerminalControl\GameControl.cs:line 591
+   at ControlLib.WebChannelControl.WebMessageAControlCore.GameClose(Boolean errorEvent) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\ControlLib\WebChannelControl\WebMessageAControlCore.cs:line 1411
+   at ControlLib.WebChannelControl.WebChannelAMessageLogic.GameClose(Boolean errorEvent) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\ControlLib\WebChannelControl\WebChannelAMessageLogic.cs:line 456
+   at ControlLib.ClientMain.GameClose(Boolean errorEvent) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\ControlLib\ClientMain.cs:line 489
+   at OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler.RemoveHandlersAndClient(Boolean errorEvent) in C:\projekti\1.3_Cheat_And_Reset\OCP\Project\OCP\UI\Web\WebSocketHandlers\ChannelAWebSocketHandler.cs:line 631
+   at OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler.OnClose() in C:\projekti\1.3_Cheat_And_Reset\OCP\Project\OCP\UI\Web\WebSocketHandlers\ChannelAWebSocketHandler.cs:line 345
+2023-02-13 14:28:49,884 [83] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2023-02-13 14:28:51,470 [83] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: d035c3ec-c9e4-4f3a-87f2-83c62a868c97
+2023-02-13 14:28:54,418 [92] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnClose Error: d035c3ec-c9e4-4f3a-87f2-83c62a868c97, message: System.NotImplementedException: The method or operation is not implemented.
+   at OCP.Business.Integration.Hub88Integration.Hub88Client.GameClose(Boolean gameStarted) in C:\projekti\1.3_Cheat_And_Reset\OCP\Project\OCP\Hub88Integration\Hub88Client.cs:line 355
+   at ControlLib.TerminalControl.GameControl.GameClose(Boolean gameStarted) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\ControlLib\TerminalControl\GameControl.cs:line 591
+   at ControlLib.WebChannelControl.WebMessageAControlCore.GameClose(Boolean errorEvent) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\ControlLib\WebChannelControl\WebMessageAControlCore.cs:line 1411
+   at ControlLib.WebChannelControl.WebChannelAMessageLogic.GameClose(Boolean errorEvent) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\ControlLib\WebChannelControl\WebChannelAMessageLogic.cs:line 456
+   at ControlLib.ClientMain.GameClose(Boolean errorEvent) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\ControlLib\ClientMain.cs:line 489
+   at OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler.RemoveHandlersAndClient(Boolean errorEvent) in C:\projekti\1.3_Cheat_And_Reset\OCP\Project\OCP\UI\Web\WebSocketHandlers\ChannelAWebSocketHandler.cs:line 631
+   at OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler.OnClose() in C:\projekti\1.3_Cheat_And_Reset\OCP\Project\OCP\UI\Web\WebSocketHandlers\ChannelAWebSocketHandler.cs:line 345
+2023-02-13 14:29:04,679 [91] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2023-02-13 14:29:06,270 [91] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: d035c3ec-c9e4-4f3a-87f2-83c62a868c97
+2023-02-13 14:29:09,412 [9] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnFatalDataError, close connection: d035c3ec-c9e4-4f3a-87f2-83c62a868c97
+2023-02-13 14:29:23,437 [8] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnClose Error: d035c3ec-c9e4-4f3a-87f2-83c62a868c97, message: System.NotImplementedException: The method or operation is not implemented.
+   at OCP.Business.Integration.Hub88Integration.Hub88Client.GameClose(Boolean gameStarted) in C:\projekti\1.3_Cheat_And_Reset\OCP\Project\OCP\Hub88Integration\Hub88Client.cs:line 355
+   at ControlLib.TerminalControl.GameControl.GameClose(Boolean gameStarted) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\ControlLib\TerminalControl\GameControl.cs:line 591
+   at ControlLib.WebChannelControl.WebMessageAControlCore.GameClose(Boolean errorEvent) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\ControlLib\WebChannelControl\WebMessageAControlCore.cs:line 1411
+   at ControlLib.WebChannelControl.WebChannelAMessageLogic.GameClose(Boolean errorEvent) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\ControlLib\WebChannelControl\WebChannelAMessageLogic.cs:line 456
+   at ControlLib.ClientMain.GameClose(Boolean errorEvent) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\ControlLib\ClientMain.cs:line 489
+   at OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler.RemoveHandlersAndClient(Boolean errorEvent) in C:\projekti\1.3_Cheat_And_Reset\OCP\Project\OCP\UI\Web\WebSocketHandlers\ChannelAWebSocketHandler.cs:line 631
+   at OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler.OnClose() in C:\projekti\1.3_Cheat_And_Reset\OCP\Project\OCP\UI\Web\WebSocketHandlers\ChannelAWebSocketHandler.cs:line 345
+2023-02-13 14:31:13,213 [10] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: OnClose Error: d035c3ec-c9e4-4f3a-87f2-83c62a868c97, message: System.NotImplementedException: The method or operation is not implemented.
+   at OCP.Business.Integration.Hub88Integration.Hub88Client.GameClose(Boolean gameStarted) in C:\projekti\1.3_Cheat_And_Reset\OCP\Project\OCP\Hub88Integration\Hub88Client.cs:line 355
+   at ControlLib.TerminalControl.GameControl.GameClose(Boolean gameStarted) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\ControlLib\TerminalControl\GameControl.cs:line 591
+   at ControlLib.WebChannelControl.WebMessageAControlCore.GameClose(Boolean errorEvent) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\ControlLib\WebChannelControl\WebMessageAControlCore.cs:line 1411
+   at ControlLib.WebChannelControl.WebChannelAMessageLogic.GameClose(Boolean errorEvent) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\ControlLib\WebChannelControl\WebChannelAMessageLogic.cs:line 456
+   at ControlLib.ClientMain.GameClose(Boolean errorEvent) in C:\projekti\1.3_Cheat_And_Reset\Terminal\Project\ControlLib\ClientMain.cs:line 489
+   at OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler.RemoveHandlersAndClient(Boolean errorEvent) in C:\projekti\1.3_Cheat_And_Reset\OCP\Project\OCP\UI\Web\WebSocketHandlers\ChannelAWebSocketHandler.cs:line 631
+   at OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler.OnClose() in C:\projekti\1.3_Cheat_And_Reset\OCP\Project\OCP\UI\Web\WebSocketHandlers\ChannelAWebSocketHandler.cs:line 345
+2023-02-13 15:05:52,678 [16] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2023-02-13 15:05:55,291 [16] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: d035c3ec-c9e4-4f3a-87f2-83c62a868c97
+2023-02-13 15:07:54,527 [90] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: CheckSessionTimeout, close connection: d035c3ec-c9e4-4f3a-87f2-83c62a868c97
+2023-02-13 15:44:40,920 [102] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2023-02-13 15:44:48,341 [102] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: d035c3ec-c9e4-4f3a-87f2-83c62a868c97
+2023-02-13 15:51:06,240 [180] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2023-02-13 15:51:08,290 [180] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: d035c3ec-c9e4-4f3a-87f2-83c62a868c97
+2023-02-13 15:55:05,365 [146] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2023-02-13 15:55:07,900 [146] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: d035c3ec-c9e4-4f3a-87f2-83c62a868c97
+2023-02-13 15:55:58,767 [177] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2023-02-13 15:56:00,339 [177] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: d035c3ec-c9e4-4f3a-87f2-83c62a868c97
+2023-02-13 16:11:38,913 [126] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: liveRouletteId: -1
+2023-02-13 16:11:40,975 [126] INFO  OCP.UI.Web.WebSocketHandlers.ChannelAWebSocketHandler - Console: Connection established: d035c3ec-c9e4-4f3a-87f2-83c62a868c97

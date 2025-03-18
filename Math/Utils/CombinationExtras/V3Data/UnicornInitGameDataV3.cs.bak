@@ -1,0 +1,448 @@
+﻿using System;
+using CombinationExtras.UnicornConversionData.V3Conversion;
+using Papi.GameServer.Utils.Enums;
+using MathBaseProject.StructuresV3;
+using MathForUnicornGames.Game20HotStrike;
+using MathForUnicornGames.Game20MegaFlames;
+using MathForUnicornGames.Game40FruitReels;
+using MathForUnicornGames.Game40MegaFlames;
+using MathForUnicornGames.Game5HotStrike;
+using MathForUnicornGames.GameCoyoteSevens;
+using MathForUnicornGames.GameFastFruits;
+using MathForUnicornGames.GameFruitWildLines;
+using MathForUnicornGames.GameGreatWhale;
+using MathForUnicornGames.GameHavanaDice;
+using MathForUnicornGames.GameIslandRespins;
+using MathForUnicornGames.GameMiniMegaCash;
+using MathForUnicornGames.GameMoneyStandardWild;
+using MathForUnicornGames.GameReelDice;
+using MathForUnicornGames.GameSurfinHeat;
+using MathForUnicornGames.GameTwentyFruits;
+using MathForUnicornGames.GameVegasDice;
+using MathForUnicornGames.GameWildParadice;
+using MathForUnicornGames.GameWinterFruits;
+
+namespace CombinationExtras.V3Data
+{
+    public static class UnicornInitGameDataV3
+    {
+        public static HelpConfigV3<object> GetGameHelpConfigV3(Games game)
+        {
+            switch (game)
+            {
+                case Games.UnicornVegasDice:
+                case Games.UnicornFruitIsland:
+                case Games.UnicornDaVincisFruits:
+                case Games.UnicornDaVincisDice:
+                    return MatrixVegasDice.GetHelpConfigV3();
+                case Games.UnicornReelDice:
+                case Games.UnicornRainbowSevens:
+                    return MatrixReelDice.GetHelpConfigV3();
+                case Games.UnicornWildParadise:
+                case Games.UnicornTheCrownFruit:
+                case Games.UnicornFruitMagic:
+                    return MatrixWildParadice.GetHelpConfigV3();
+                case Games.UnicornHavanaDice:
+                case Games.UnicornCasinoFruits:
+                    return MatrixHavanaDice.GetHelpConfigV3();
+                case Games.UnicornTwentyFruits:
+                case Games.UnicornTwentyDice:
+                case Games.UnicornMoneyStandard:
+                case Games.UnicornMoneyStandardDice:
+                    return MatrixTwentyFruits.GetHelpConfigV3();
+                case Games.UnicornIslandRespins:
+                    return MatrixIslandRespins2.GetHelpConfigV3();
+                case Games.UnicornDiceRespins:
+                    return MatrixIslandRespins.GetHelpConfigV3();
+                case Games.UnicornGreatWhale:
+                    return MatrixGreatWhale.GetHelpConfigV3();
+                case Games.Unicorn20MegaFlames:
+                case Games.Unicorn20DiceFlames:
+                    return Matrix20MegaFlames.GetHelpConfigV3();
+                case Games.UnicornMiniMegaCash:
+                case Games.UnicornDiceMegaCash:
+                    return MatrixMiniMegaCash.GetHelpConfigV3();
+                case Games.UnicornSurfinHeat:
+                    return MatrixSurfinHeat.GetHelpConfigV3();
+                case Games.Unicorn40MegaFlames:
+                case Games.Unicorn40DiceFlames:
+                    return Matrix40MegaFlames.GetHelpConfigV3();
+                case Games.UnicornWinterFruits:
+                case Games.Unicorn40HotStrike:
+                case Games.Unicorn40HotStrikeDice:
+                    return MatrixWinterFruits.GetHelpConfigV3();
+                case Games.UnicornFastFruits:
+                    return MatrixFastFruits.GetHelpConfigV3();
+                case Games.UnicornMoneyStandardWild:
+                    return MatrixMoneyStandardWild.GetHelpConfigV3();
+                case Games.Unicorn20HotStrike:
+                case Games.UnicornDoubleWildDice:
+                    return Matrix20HotStrike.GetHelpConfigV3();
+                case Games.UnicornCoyoteSevens:
+                case Games.UnicornCoyoteDice:
+                    return MatrixCoyoteSevens.GetHelpConfigV3();
+                case Games.UnicornFruitWildLines:
+                    return MatrixFruitWildLines.GetHelpConfigV3();
+                case Games.Unicorn40FruitReels:
+                    return Matrix40FruitReels.GetHelpConfigV3();
+                case Games.Unicorn5HotStrike:
+                    return Matrix5HotStrike.GetHelpConfigV3();
+                default:
+                    return null;
+            }
+        }
+
+        public static ReelsV3 GetGameReelsV3(Games game)
+        {
+            switch (game)
+            {
+                case Games.UnicornVegasDice:
+                case Games.UnicornFruitIsland:
+                case Games.UnicornDaVincisFruits:
+                case Games.UnicornDaVincisDice:
+                    return new ReelsV3 { regular = MatrixVegasDice.GetFakeReels() };
+                case Games.UnicornReelDice:
+                case Games.UnicornRainbowSevens:
+                    return new ReelsV3 { regular = MatrixReelDice.GetFakeReels() };
+                case Games.UnicornWildParadise:
+                case Games.UnicornTheCrownFruit:
+                case Games.UnicornFruitMagic:
+                    return new ReelsV3 { regular = MatrixWildParadice.GetFakeReels() };
+                case Games.UnicornHavanaDice:
+                case Games.UnicornCasinoFruits:
+                    return new ReelsV3 { regular = MatrixHavanaDice.GetFakeReels() };
+                case Games.UnicornTwentyFruits:
+                case Games.UnicornTwentyDice:
+                case Games.UnicornMoneyStandard:
+                case Games.UnicornMoneyStandardDice:
+                    return new ReelsV3 { regular = MatrixTwentyFruits.GetFakeReels() };
+                case Games.UnicornIslandRespins:
+                case Games.UnicornDiceRespins:
+                    return new ReelsV3 { regular = MatrixIslandRespins.GetFakeReels(), freeSpin = MatrixIslandRespins.GetGratisFakeReels() };
+                case Games.UnicornGreatWhale:
+                    return new ReelsV3 { regular = MatrixGreatWhale.GetFakeReels(), freeSpin = MatrixGreatWhale.GetGratisFakeReels() };
+                case Games.Unicorn20MegaFlames:
+                case Games.Unicorn20DiceFlames:
+                    return new ReelsV3 { regular = Matrix20MegaFlames.GetFakeReels() };
+                case Games.UnicornMiniMegaCash:
+                case Games.UnicornDiceMegaCash:
+                    return new ReelsV3 { regular = MatrixMiniMegaCash.GetFakeReels() };
+                case Games.UnicornSurfinHeat:
+                    return new ReelsV3 { regular = MatrixSurfinHeat.GetFakeReels(), freeSpin = MatrixSurfinHeat.GetFakeReels() };
+                case Games.Unicorn40MegaFlames:
+                case Games.Unicorn40DiceFlames:
+                    return new ReelsV3 { regular = Matrix40MegaFlames.GetFakeReels() };
+                case Games.UnicornWinterFruits:
+                case Games.Unicorn40HotStrike:
+                case Games.Unicorn40HotStrikeDice:
+                    return new ReelsV3 { regular = MatrixWinterFruits.GetFakeReels() };
+                case Games.UnicornFastFruits:
+                    return new ReelsV3 { regular = MatrixFastFruits.GetFakeReels() };
+                case Games.UnicornMoneyStandardWild:
+                    return new ReelsV3 { regular = MatrixMoneyStandardWild.GetFakeReels() };
+                case Games.Unicorn20HotStrike:
+                case Games.UnicornDoubleWildDice:
+                    return new ReelsV3 { regular = Matrix20HotStrike.GetFakeReels() };
+                case Games.UnicornCoyoteSevens:
+                case Games.UnicornCoyoteDice:
+                    return new ReelsV3 { regular = MatrixCoyoteSevens.GetFakeReels() };
+                case Games.UnicornFruitWildLines:
+                    return new ReelsV3 { regular = MatrixFruitWildLines.GetFakeReels() };
+                case Games.Unicorn40FruitReels:
+                    return new ReelsV3 { regular = Matrix40FruitReels.GetFakeReels() };
+                case Games.Unicorn5HotStrike:
+                    return new ReelsV3 { regular = Matrix5HotStrike.GetFakeReels() };
+                default:
+                    return null;
+            }
+        }
+
+        public static int GetLinesByIndexV3(Games game, int index)
+        {
+            int[] playLines;
+            switch (game)
+            {
+                case Games.UnicornVegasDice:
+                case Games.UnicornFruitIsland:
+                case Games.UnicornDaVincisFruits:
+                case Games.UnicornDaVincisDice:
+                    playLines = MatrixVegasDice.PlayLines;
+                    break;
+                case Games.UnicornReelDice:
+                case Games.UnicornRainbowSevens:
+                    playLines = MatrixReelDice.PlayLines;
+                    break;
+                case Games.UnicornWildParadise:
+                case Games.UnicornTheCrownFruit:
+                case Games.UnicornFruitMagic:
+                    playLines = MatrixWildParadice.PlayLines;
+                    break;
+                case Games.UnicornHavanaDice:
+                case Games.UnicornCasinoFruits:
+                    playLines = MatrixHavanaDice.PlayLines;
+                    break;
+                case Games.UnicornTwentyFruits:
+                case Games.UnicornTwentyDice:
+                case Games.UnicornMoneyStandard:
+                case Games.UnicornMoneyStandardDice:
+                    playLines = MatrixTwentyFruits.PlayLines;
+                    break;
+                case Games.UnicornIslandRespins:
+                    playLines = MatrixIslandRespins2.PlayLines;
+                    break;
+                case Games.UnicornDiceRespins:
+                    playLines = MatrixIslandRespins.PlayLines;
+                    break;
+                case Games.UnicornGreatWhale:
+                    playLines = MatrixGreatWhale.PlayLines;
+                    break;
+                case Games.Unicorn20MegaFlames:
+                case Games.Unicorn20DiceFlames:
+                    playLines = Matrix20MegaFlames.PlayLines;
+                    break;
+                case Games.UnicornMiniMegaCash:
+                case Games.UnicornDiceMegaCash:
+                    playLines = MatrixMiniMegaCash.PlayLines;
+                    break;
+                case Games.UnicornSurfinHeat:
+                    playLines = MatrixSurfinHeat.PlayLines;
+                    break;
+                case Games.Unicorn40MegaFlames:
+                case Games.Unicorn40DiceFlames:
+                    playLines = Matrix40MegaFlames.PlayLines;
+                    break;
+                case Games.UnicornWinterFruits:
+                case Games.Unicorn40HotStrike:
+                case Games.Unicorn40HotStrikeDice:
+                    playLines = MatrixWinterFruits.PlayLines;
+                    break;
+                case Games.UnicornFastFruits:
+                    playLines = MatrixFastFruits.PlayLines;
+                    break;
+                case Games.UnicornMoneyStandardWild:
+                    playLines = MatrixMoneyStandardWild.PlayLines;
+                    break;
+                case Games.Unicorn20HotStrike:
+                case Games.UnicornDoubleWildDice:
+                    playLines = Matrix20HotStrike.PlayLines;
+                    break;
+                case Games.UnicornCoyoteSevens:
+                case Games.UnicornCoyoteDice:
+                    playLines = MatrixCoyoteSevens.PlayLines;
+                    break;
+                case Games.UnicornFruitWildLines:
+                    playLines = MatrixFruitWildLines.PlayLines;
+                    break;
+                case Games.Unicorn40FruitReels:
+                    playLines = Matrix40FruitReels.PlayLines;
+                    break;
+                case Games.Unicorn5HotStrike:
+                    playLines = Matrix5HotStrike.PlayLines;
+                    break;
+                default:
+                    return -1;
+            }
+            if (playLines.Length <= index)
+            {
+                return -1;
+            }
+            return playLines[index];
+        }
+
+        public static int[] GetPlayLines(Games game)
+        {
+            switch (game)
+            {
+                case Games.UnicornVegasDice:
+                case Games.UnicornFruitIsland:
+                case Games.UnicornDaVincisFruits:
+                case Games.UnicornDaVincisDice:
+                    return MatrixVegasDice.PlayLines;
+                case Games.UnicornReelDice:
+                case Games.UnicornRainbowSevens:
+                    return MatrixReelDice.PlayLines;
+                case Games.UnicornWildParadise:
+                case Games.UnicornTheCrownFruit:
+                case Games.UnicornFruitMagic:
+                    return MatrixWildParadice.PlayLines;
+                case Games.UnicornHavanaDice:
+                case Games.UnicornCasinoFruits:
+                    return MatrixHavanaDice.PlayLines;
+                case Games.UnicornTwentyFruits:
+                case Games.UnicornTwentyDice:
+                case Games.UnicornMoneyStandard:
+                case Games.UnicornMoneyStandardDice:
+                    return MatrixTwentyFruits.PlayLines;
+                case Games.UnicornIslandRespins:
+                    return MatrixIslandRespins2.PlayLines;
+                case Games.UnicornDiceRespins:
+                    return MatrixIslandRespins.PlayLines;
+                case Games.UnicornGreatWhale:
+                    return MatrixGreatWhale.PlayLines;
+                case Games.Unicorn20MegaFlames:
+                case Games.Unicorn20DiceFlames:
+                    return Matrix20MegaFlames.PlayLines;
+                case Games.UnicornMiniMegaCash:
+                case Games.UnicornDiceMegaCash:
+                    return MatrixMiniMegaCash.PlayLines;
+                case Games.UnicornSurfinHeat:
+                    return MatrixSurfinHeat.PlayLines;
+                case Games.Unicorn40MegaFlames:
+                case Games.Unicorn40DiceFlames:
+                    return Matrix40MegaFlames.PlayLines;
+                case Games.UnicornWinterFruits:
+                case Games.Unicorn40HotStrike:
+                case Games.Unicorn40HotStrikeDice:
+                    return MatrixWinterFruits.PlayLines;
+                case Games.UnicornFastFruits:
+                    return MatrixFastFruits.PlayLines;
+                case Games.UnicornMoneyStandardWild:
+                    return MatrixMoneyStandardWild.PlayLines;
+                case Games.Unicorn20HotStrike:
+                case Games.UnicornDoubleWildDice:
+                    return Matrix20HotStrike.PlayLines;
+                case Games.UnicornCoyoteSevens:
+                case Games.UnicornCoyoteDice:
+                    return MatrixCoyoteSevens.PlayLines;
+                case Games.UnicornFruitWildLines:
+                    return MatrixFruitWildLines.PlayLines;
+                case Games.Unicorn40FruitReels:
+                    return Matrix40FruitReels.PlayLines;
+                case Games.Unicorn5HotStrike:
+                    return Matrix5HotStrike.PlayLines;
+                default:
+                    return null;
+            }
+        }
+
+        public static int GetIndexForLinesV3(Games game, int lines)
+        {
+            switch (game)
+            {
+                case Games.UnicornVegasDice:
+                case Games.UnicornFruitIsland:
+                case Games.UnicornDaVincisFruits:
+                case Games.UnicornDaVincisDice:
+                    return Array.IndexOf(MatrixVegasDice.PlayLines, lines);
+                case Games.UnicornReelDice:
+                case Games.UnicornRainbowSevens:
+                    return Array.IndexOf(MatrixReelDice.PlayLines, lines);
+                case Games.UnicornWildParadise:
+                case Games.UnicornTheCrownFruit:
+                case Games.UnicornFruitMagic:
+                    return Array.IndexOf(MatrixWildParadice.PlayLines, lines);
+                case Games.UnicornHavanaDice:
+                case Games.UnicornCasinoFruits:
+                    return Array.IndexOf(MatrixHavanaDice.PlayLines, lines);
+                case Games.UnicornTwentyFruits:
+                case Games.UnicornTwentyDice:
+                case Games.UnicornMoneyStandard:
+                case Games.UnicornMoneyStandardDice:
+                    return Array.IndexOf(MatrixTwentyFruits.PlayLines, lines);
+                case Games.UnicornIslandRespins:
+                    return Array.IndexOf(MatrixIslandRespins2.PlayLines, lines);
+                case Games.UnicornDiceRespins:
+                    return Array.IndexOf(MatrixIslandRespins.PlayLines, lines);
+                case Games.UnicornGreatWhale:
+                    return Array.IndexOf(MatrixGreatWhale.PlayLines, lines);
+                case Games.Unicorn20MegaFlames:
+                case Games.Unicorn20DiceFlames:
+                    return Array.IndexOf(Matrix20MegaFlames.PlayLines, lines);
+                case Games.UnicornMiniMegaCash:
+                case Games.UnicornDiceMegaCash:
+                    return Array.IndexOf(MatrixMiniMegaCash.PlayLines, lines);
+                case Games.UnicornSurfinHeat:
+                    return Array.IndexOf(MatrixSurfinHeat.PlayLines, lines);
+                case Games.Unicorn40MegaFlames:
+                case Games.Unicorn40DiceFlames:
+                    return Array.IndexOf(Matrix40MegaFlames.PlayLines, lines);
+                case Games.UnicornWinterFruits:
+                case Games.Unicorn40HotStrike:
+                case Games.Unicorn40HotStrikeDice:
+                    return Array.IndexOf(MatrixWinterFruits.PlayLines, lines);
+                case Games.UnicornFastFruits:
+                    return Array.IndexOf(MatrixFastFruits.PlayLines, lines);
+                case Games.UnicornMoneyStandardWild:
+                    return Array.IndexOf(MatrixMoneyStandardWild.PlayLines, lines);
+                case Games.Unicorn20HotStrike:
+                case Games.UnicornDoubleWildDice:
+                    return Array.IndexOf(Matrix20HotStrike.PlayLines, lines);
+                case Games.UnicornCoyoteSevens:
+                case Games.UnicornCoyoteDice:
+                    return Array.IndexOf(MatrixCoyoteSevens.PlayLines, lines);
+                case Games.UnicornFruitWildLines:
+                    return Array.IndexOf(MatrixFruitWildLines.PlayLines, lines);
+                case Games.Unicorn40FruitReels:
+                    return Array.IndexOf(Matrix40FruitReels.PlayLines, lines);
+                case Games.Unicorn5HotStrike:
+                    return Array.IndexOf(Matrix5HotStrike.PlayLines, lines);
+                default:
+                    return -1;
+            }
+        }
+
+        public static SlotDataResV3 GetNonWinningCombination(Games game, int bet, int numberOfLines, int gratisGamesLeft)
+        {
+            switch (game)
+            {
+                case Games.UnicornVegasDice:
+                case Games.UnicornFruitIsland:
+                case Games.UnicornDaVincisFruits:
+                case Games.UnicornDaVincisDice:
+                    return GameVegasDiceConversion.ToSlotDataResV3(GameVegasDiceConversion.GetNonWinningCombination(bet, numberOfLines));
+                case Games.UnicornReelDice:
+                case Games.UnicornRainbowSevens:
+                    return GameReelDiceConversion.ToSlotDataResV3(GameReelDiceConversion.GetNonWinningCombination(bet, numberOfLines));
+                case Games.UnicornWildParadise:
+                case Games.UnicornTheCrownFruit:
+                case Games.UnicornFruitMagic:
+                    return GameWildParadiceConversion.ToSlotDataResV3(GameWildParadiceConversion.GetNonWinningCombination(bet, numberOfLines));
+                case Games.UnicornHavanaDice:
+                case Games.UnicornCasinoFruits:
+                    return GameHavanaDiceConversion.ToSlotDataResV3(GameHavanaDiceConversion.GetNonWinningCombination(bet, numberOfLines));
+                case Games.UnicornTwentyFruits:
+                case Games.UnicornTwentyDice:
+                case Games.UnicornMoneyStandard:
+                case Games.UnicornMoneyStandardDice:
+                    return GameTwentyFruitsConversion.ToSlotDataResV3(GameTwentyFruitsConversion.GetNonWinningCombination(bet, numberOfLines));
+                case Games.UnicornIslandRespins:
+                    return GameIslandRespinsConversion.ToSlotDataResV3(GameIslandRespinsConversion.GetNonWinningCombination2(bet, numberOfLines, gratisGamesLeft));
+                case Games.UnicornDiceRespins:
+                    return GameIslandRespinsConversion.ToSlotDataResV3(GameIslandRespinsConversion.GetNonWinningCombination(bet, numberOfLines, gratisGamesLeft));
+                case Games.UnicornGreatWhale:
+                    return GameGreatWhaleConversion.ToSlotDataResV3(GameGreatWhaleConversion.GetNonWinningCombination(bet, numberOfLines, gratisGamesLeft));
+                case Games.Unicorn20MegaFlames:
+                case Games.Unicorn20DiceFlames:
+                    return Game20MegaFlamesConversion.ToSlotDataResV3(Game20MegaFlamesConversion.GetNonWinningCombination(bet, numberOfLines));
+                case Games.UnicornMiniMegaCash:
+                case Games.UnicornDiceMegaCash:
+                    return GameMiniMegaCashConversion.ToSlotDataResV3(GameMiniMegaCashConversion.GetNonWinningCombination(bet, numberOfLines));
+                case Games.UnicornSurfinHeat:
+                    return GameMiniMegaCashConversion.ToSlotDataResV3(GameSurfinHeatConversion.GetNonWinningCombination(bet, numberOfLines));
+                case Games.Unicorn40MegaFlames:
+                case Games.Unicorn40DiceFlames:
+                    return Game40MegaFlamesConversion.ToSlotDataResV3(Game40MegaFlamesConversion.GetNonWinningCombination(bet, numberOfLines));
+                case Games.UnicornWinterFruits:
+                case Games.Unicorn40HotStrike:
+                case Games.Unicorn40HotStrikeDice:
+                    return GameWinterFruitsConversion.ToSlotDataResV3(GameWinterFruitsConversion.GetNonWinningCombination(bet, numberOfLines));
+                case Games.UnicornFastFruits:
+                    return GameFastFruitsConversion.ToSlotDataResV3(GameFastFruitsConversion.GetNonWinningCombination(bet, numberOfLines));
+                case Games.UnicornMoneyStandardWild:
+                    return GameMoneyStandardWildConversion.ToSlotDataResV3(GameMoneyStandardWildConversion.GetNonWinningCombination(bet, numberOfLines));
+                case Games.Unicorn20HotStrike:
+                case Games.UnicornDoubleWildDice:
+                    return Game20HotStrikeConversion.ToSlotDataResV3(Game20HotStrikeConversion.GetNonWinningCombination(bet, numberOfLines));
+                case Games.UnicornCoyoteSevens:
+                case Games.UnicornCoyoteDice:
+                    return GameCoyoteSevensConversion.ToSlotDataResV3(GameCoyoteSevensConversion.GetNonWinningCombination(bet, numberOfLines));
+                case Games.UnicornFruitWildLines:
+                    return GameFruitWildLinesConversion.ToSlotDataResV3(GameFruitWildLinesConversion.GetNonWinningCombination(bet, numberOfLines));
+                case Games.Unicorn40FruitReels:
+                    return Game40FruitReelsConversion.ToSlotDataResV3(Game40FruitReelsConversion.GetNonWinningCombination(bet, numberOfLines));
+                case Games.Unicorn5HotStrike:
+                    return Game5HotStrikeConversion.ToSlotDataResV3(Game5HotStrikeConversion.GetNonWinningCombination(bet, numberOfLines));
+                default:
+                    return null;
+    }
+}

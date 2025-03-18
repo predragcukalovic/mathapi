@@ -1,0 +1,1136 @@
+2020-06-08 11:56:24,479 [1] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Init Virtual roulettes. UseVirtualRouletteApp: False
+2020-06-08 12:03:01,779 [1] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Init Virtual roulettes. UseVirtualRouletteApp: False
+2020-06-08 12:03:22,752 [44] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: StartVideoStream: False
+2020-06-08 12:03:22,752 [35] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: StartVideoStream: False
+2020-06-08 12:11:47,842 [18] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Init Virtual roulettes. UseVirtualRouletteApp: False
+2020-06-08 12:12:24,433 [26] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: StartVideoStream: False
+2020-06-08 12:12:24,438 [19] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: StartVideoStream: False
+2020-06-08 12:12:59,330 [6] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Init Virtual roulettes. UseVirtualRouletteApp: False
+2020-06-08 12:13:13,178 [33] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: StartVideoStream: False
+2020-06-08 12:13:13,178 [42] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: StartVideoStream: False
+2020-06-08 12:25:22,419 [64] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: StartVideoStream: False
+2020-06-08 12:25:22,420 [44] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: StartVideoStream: False
+2020-06-08 12:25:23,126 [1] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Init Virtual roulettes. UseVirtualRouletteApp: False
+2020-06-08 12:32:01,291 [28] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: StartVideoStream: False
+2020-06-08 12:32:01,291 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: StartVideoStream: False
+2020-06-08 12:32:01,447 [35] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Init Virtual roulettes. UseVirtualRouletteApp: False
+2020-06-08 12:34:23,176 [35] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Init Virtual roulettes. UseVirtualRouletteApp: False
+2020-06-08 12:34:45,887 [6] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 42979253561052
+2020-06-08 12:34:59,825 [22] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: StartVideoStream: False
+2020-06-08 12:34:59,825 [20] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: StartVideoStream: False
+2020-06-08 12:35:00,701 [28] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840524394353988
+2020-06-08 12:35:00,756 [28] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1: Next Winning Number: 32, 255, 255
+2020-06-08 12:35:00,774 [28] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Timer started: OPTIMUM0002-NisKalcaSpin, rouletteId: 1, gameId: 25, Idle
+2020-06-08 12:35:05,165 [25] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840525241376808
+2020-06-08 12:35:13,705 [28] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011246624357294
+2020-06-08 12:35:13,722 [28] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 30, 7, 4
+2020-06-08 12:35:13,739 [28] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Timer started: Triple0001, rouletteId: 3, gameId: 22, Idle
+2020-06-08 12:35:14,717 [25] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 42979253561052
+2020-06-08 12:35:16,842 [15] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 42979253561052
+2020-06-08 12:35:20,259 [32] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011251700262090
+2020-06-08 12:35:24,899 [24] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 42980029498552
+2020-06-08 12:35:29,670 [28] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 42980029498552
+2020-06-08 12:35:45,850 [24] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840525241376808
+2020-06-08 12:36:00,210 [36] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011251700262090
+2020-06-08 12:36:01,586 [36] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 42980029498552
+2020-06-08 12:37:13,087 [22] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840530407412934
+2020-06-08 12:37:13,100 [22] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1. UnresolvedSpinId: 840525241376808, id: 1, winForUnresolvedSpinId: -1
+2020-06-08 12:37:13,198 [22] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840530407412934
+2020-06-08 12:37:13,213 [22] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 2. UnresolvedSpinId: 840525241376808, id: 1
+2020-06-08 12:37:13,302 [22] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Timer started: OPTIMUM0002-NisKalcaSpin, rouletteId: 1, gameId: 25, Error
+2020-06-08 12:37:20,505 [24] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011252503387090
+2020-06-08 12:37:20,516 [24] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1. UnresolvedSpinId: 5011251700262090, id: 3, winForUnresolvedSpinId: -1
+2020-06-08 12:37:20,604 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011252503387090
+2020-06-08 12:37:20,622 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 2. UnresolvedSpinId: 5011251700262090, id: 3
+2020-06-08 12:37:20,681 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Timer started: Triple0001, rouletteId: 3, gameId: 22, Error
+2020-06-08 12:37:22,600 [22] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 42985136965848
+2020-06-08 12:37:24,653 [24] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 42985136965848
+2020-06-08 12:37:53,865 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 42985136965848
+2020-06-08 12:37:56,437 [47] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840530407412934
+2020-06-08 12:37:56,657 [47] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1: Next Winning Number: 8, 255, 255
+2020-06-08 12:37:57,663 [22] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011252503387090
+2020-06-08 12:37:57,678 [22] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 28, 27, 5
+2020-06-08 12:37:59,494 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 42990231151894
+2020-06-08 12:38:01,535 [22] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840535584268733
+2020-06-08 12:38:04,101 [24] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011257636166886
+2020-06-08 12:38:06,731 [24] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 42990231151894
+2020-06-08 12:38:41,138 [13] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840535584268733
+2020-06-08 12:38:41,498 [48] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 42990231151894
+2020-06-08 12:38:44,677 [13] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011257636166886
+2020-06-08 12:39:15,280 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 42990231151894
+2020-06-08 12:39:18,914 [18] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 42995340337940
+2020-06-08 12:39:21,127 [20] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011257636166886
+2020-06-08 12:39:21,146 [20] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 5, 23, 10
+2020-06-08 12:39:25,836 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840535584268733
+2020-06-08 12:39:25,863 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1: Next Winning Number: 32, 255, 255
+2020-06-08 12:39:27,506 [18] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011262765196682
+2020-06-08 12:39:30,085 [20] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840540775241856
+2020-06-08 12:40:01,020 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 42995340337940
+2020-06-08 12:40:07,940 [44] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011262765196682
+2020-06-08 12:40:10,698 [20] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840540775241856
+2020-06-08 12:40:44,224 [37] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011262765196682
+2020-06-08 12:40:44,294 [37] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 15, 8, 5
+2020-06-08 12:41:02,336 [21] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Init Virtual roulettes. UseVirtualRouletteApp: False
+2020-06-08 12:41:24,017 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43000442023986
+2020-06-08 12:41:30,888 [51] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011267889070228
+2020-06-08 12:41:30,940 [51] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Timer started: Triple0001, rouletteId: 3, gameId: 22, Idle
+2020-06-08 12:41:31,476 [51] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: StartVideoStream: False
+2020-06-08 12:41:35,404 [30] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840545916289073
+2020-06-08 12:41:35,452 [30] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1. UnresolvedSpinId: 840540775241856, id: 1, winForUnresolvedSpinId: -1
+2020-06-08 12:41:35,600 [44] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840545916289073
+2020-06-08 12:41:35,621 [44] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 2. UnresolvedSpinId: 840540775241856, id: 1
+2020-06-08 12:41:35,952 [44] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Timer started: OPTIMUM0002-NisKalcaSpin, rouletteId: 1, gameId: 25, Error
+2020-06-08 12:41:56,349 [13] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43000442023986
+2020-06-08 12:41:59,927 [37] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43001242648986
+2020-06-08 12:42:09,470 [36] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011267889070228
+2020-06-08 12:42:09,495 [36] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 36, 13, 7
+2020-06-08 12:42:15,665 [18] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011273036693774
+2020-06-08 12:42:16,640 [36] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840545916289073
+2020-06-08 12:42:16,660 [36] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1: Next Winning Number: 32, 255, 255
+2020-06-08 12:42:20,961 [20] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840546778926984
+2020-06-08 12:42:43,824 [13] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43001242648986
+2020-06-08 12:42:45,857 [44] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43001242648986
+2020-06-08 12:42:55,796 [13] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011273036693774
+2020-06-08 12:43:01,657 [44] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840546778926984
+2020-06-08 12:43:16,993 [18] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43001242648986
+2020-06-08 12:43:20,414 [29] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43006326366282
+2020-06-08 12:43:28,380 [20] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43001242648986
+2020-06-08 12:43:30,427 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011273036693774
+2020-06-08 12:43:30,447 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 23, 29, 20
+2020-06-08 12:43:36,989 [13] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011273848412524
+2020-06-08 12:43:45,970 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840546778926984
+2020-06-08 12:43:45,984 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1: Next Winning Number: 25, 255, 255
+2020-06-08 12:43:50,330 [29] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840551965795070
+2020-06-08 12:44:03,656 [18] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43006326366282
+2020-06-08 12:44:22,054 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011273848412524
+2020-06-08 12:44:22,080 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 4. UnresolvedSpinId: -1, id: 3
+2020-06-08 12:44:22,112 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Timer started: Triple0001, rouletteId: 3, gameId: 22, Error
+2020-06-08 12:44:30,993 [29] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840551965795070
+2020-06-08 12:44:35,204 [41] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43006326366282
+2020-06-08 12:44:40,576 [41] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43011423677328
+2020-06-08 12:44:51,693 [20] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011273848412524
+2020-06-08 12:44:51,712 [20] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 34, 15, 15
+2020-06-08 12:44:58,098 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011278953692320
+2020-06-08 12:45:15,997 [20] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840551965795070
+2020-06-08 12:45:16,016 [20] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1: Next Winning Number: 8, 255, 255
+2020-06-08 12:45:20,147 [15] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840557160423847
+2020-06-08 12:45:28,343 [15] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43011423677328
+2020-06-08 12:45:36,025 [15] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43011423677328
+2020-06-08 12:45:38,156 [7] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011278953692320
+2020-06-08 12:45:57,772 [20] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43011423677328
+2020-06-08 12:46:01,009 [7] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840557160423847
+2020-06-08 12:46:01,299 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43016542863374
+2020-06-08 12:46:10,501 [13] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011278953692320
+2020-06-08 12:46:10,535 [13] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 23, 9, 21
+2020-06-08 12:46:16,960 [44] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011284038815866
+2020-06-08 12:46:40,700 [35] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Init Virtual roulettes. UseVirtualRouletteApp: False
+2020-06-08 12:46:43,644 [36] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: StartVideoStream: False
+2020-06-08 12:46:43,645 [7] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: StartVideoStream: False
+2020-06-08 12:47:22,163 [36] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43016542863374
+2020-06-08 12:47:23,094 [13] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43016542863374
+2020-06-08 12:47:27,204 [40] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840562312869756
+2020-06-08 12:47:27,383 [40] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1. UnresolvedSpinId: 840557160423847, id: 1, winForUnresolvedSpinId: -1
+2020-06-08 12:47:28,291 [40] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840562312869756
+2020-06-08 12:47:28,455 [40] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 2. UnresolvedSpinId: 840557160423847, id: 1
+2020-06-08 12:47:28,815 [40] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Timer started: OPTIMUM0002-NisKalcaSpin, rouletteId: 1, gameId: 25, Error
+2020-06-08 12:47:33,482 [20] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011284038815866
+2020-06-08 12:47:33,509 [20] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 30, 30, 7
+2020-06-08 12:47:33,527 [20] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Timer started: Triple0001, rouletteId: 3, gameId: 22, Idle
+2020-06-08 12:47:39,730 [15] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011289162376912
+2020-06-08 12:48:03,270 [20] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43021628143170
+2020-06-08 12:48:05,398 [40] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840562312869756
+2020-06-08 12:48:05,479 [40] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1: Next Winning Number: 6, 255, 255
+2020-06-08 12:48:09,735 [40] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840567446378304
+2020-06-08 12:48:19,826 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011289162376912
+2020-06-08 12:48:42,260 [20] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43021628143170
+2020-06-08 12:48:44,321 [15] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43021628143170
+2020-06-08 12:48:50,668 [20] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840567446378304
+2020-06-08 12:48:54,452 [33] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011289162376912
+2020-06-08 12:48:54,470 [33] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 18, 31, 9
+2020-06-08 12:49:02,597 [15] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011294267031708
+2020-06-08 12:49:24,732 [39] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43026737329216
+2020-06-08 12:49:30,661 [13] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840567446378304
+2020-06-08 12:49:30,711 [13] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1: Next Winning Number: 11, 255, 255
+2020-06-08 12:49:35,201 [13] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840568300195717
+2020-06-08 12:49:40,996 [7] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011294267031708
+2020-06-08 12:50:01,424 [13] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43026737329216
+2020-06-08 12:50:06,962 [15] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43027570610466
+2020-06-08 12:50:16,009 [22] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840568300195717
+2020-06-08 12:50:18,040 [40] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011294267031708
+2020-06-08 12:50:18,058 [40] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 28, 36, 13
+2020-06-08 12:50:24,303 [13] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011295103437958
+2020-06-08 12:50:49,103 [15] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43027570610466
+2020-06-08 12:50:51,673 [40] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43027570610466
+2020-06-08 12:50:59,174 [14] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840568300195717
+2020-06-08 12:50:59,196 [14] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1: Next Winning Number: 30, 255, 255
+2020-06-08 12:51:03,465 [15] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840573478244802
+2020-06-08 12:51:04,435 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011295103437958
+2020-06-08 12:51:25,867 [14] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43027570610466
+2020-06-08 12:51:27,921 [13] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43032691671512
+2020-06-08 12:51:39,895 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011295103437958
+2020-06-08 12:51:39,924 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 14, 27, 7
+2020-06-08 12:51:44,181 [47] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840573478244802
+2020-06-08 12:51:46,224 [47] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011300217624004
+2020-06-08 12:52:09,695 [40] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43032691671512
+2020-06-08 12:52:12,396 [13] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43032691671512
+2020-06-08 12:52:26,516 [47] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011300217624004
+2020-06-08 12:52:28,077 [47] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840573478244802
+2020-06-08 12:52:28,094 [47] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1: Next Winning Number: 15, 255, 255
+2020-06-08 12:52:32,389 [13] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840578662755663
+2020-06-08 12:52:47,721 [40] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43032691671512
+2020-06-08 12:52:51,761 [13] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43037803045058
+2020-06-08 12:52:54,803 [15] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43032691671512
+2020-06-08 12:53:12,083 [22] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011300217624004
+2020-06-08 12:53:14,524 [47] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011305346497550
+2020-06-08 12:53:14,529 [15] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43037803045058
+2020-06-08 12:53:14,554 [47] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3. UnresolvedSpinId: 5011300217624004, id: 3
+2020-06-08 12:53:18,867 [22] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1. UnresolvedSpinId: 5011300217624004, id: 3, winForUnresolvedSpinId: -1
+2020-06-08 12:53:22,688 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840578662755663
+2020-06-08 12:54:06,585 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840583822949768
+2020-06-08 12:54:14,167 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3. UnresolvedSpinId: 840578662755663, id: 1
+2020-06-08 12:55:24,500 [56] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43037803045058
+2020-06-08 12:55:24,566 [40] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840588963768264
+2020-06-08 12:55:24,595 [40] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1. UnresolvedSpinId: 840578662755663, id: 1, winForUnresolvedSpinId: -1
+2020-06-08 12:55:24,897 [58] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840588963768264
+2020-06-08 12:55:24,930 [58] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 2. UnresolvedSpinId: 840578662755663, id: 1
+2020-06-08 12:55:25,027 [58] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Timer started: OPTIMUM0002-NisKalcaSpin, rouletteId: 1, gameId: 25, Error
+2020-06-08 12:55:31,180 [56] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43042898324854
+2020-06-08 12:55:44,681 [40] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011310461933596
+2020-06-08 12:55:44,692 [40] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1. UnresolvedSpinId: 5011300217624004, id: 3, winForUnresolvedSpinId: -1
+2020-06-08 12:55:44,758 [47] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011310461933596
+2020-06-08 12:55:44,768 [47] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 2. UnresolvedSpinId: 5011300217624004, id: 3
+2020-06-08 12:55:44,801 [47] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 20, 1, 2
+2020-06-08 12:55:44,849 [47] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Timer started: Triple0001, rouletteId: 3, gameId: 22, Error
+2020-06-08 12:55:51,138 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011315551432142
+2020-06-08 12:56:04,379 [47] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840588963768264
+2020-06-08 12:56:10,228 [22] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43047972198400
+2020-06-08 12:56:31,502 [22] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011315551432142
+2020-06-08 12:56:48,612 [40] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840588963768264
+2020-06-08 12:56:48,651 [40] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1: Next Winning Number: 25, 255, 255
+2020-06-08 12:56:52,862 [22] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840589855226447
+2020-06-08 12:56:56,121 [43] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43047972198400
+2020-06-08 12:57:04,533 [18] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011315551432142
+2020-06-08 12:57:04,559 [18] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 24, 4, 35
+2020-06-08 12:57:10,975 [47] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011316347838392
+2020-06-08 12:57:34,605 [8] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Init Virtual roulettes. UseVirtualRouletteApp: False
+2020-06-08 12:57:44,515 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: StartVideoStream: False
+2020-06-08 12:57:44,517 [47] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: StartVideoStream: False
+2020-06-08 12:58:16,338 [53] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43048754229650
+2020-06-08 12:58:16,715 [53] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 4: Next Winning Number: 14, 255, 255
+2020-06-08 12:58:17,069 [53] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Timer started: QA-NisPapiShowroom, rouletteId: 4, gameId: 67, Idle
+2020-06-08 12:58:22,918 [47] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840595026720151
+2020-06-08 12:58:23,397 [47] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Timer started: OPTIMUM0002-NisKalcaSpin, rouletteId: 1, gameId: 25, Idle
+2020-06-08 12:58:30,584 [53] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011316347838392
+2020-06-08 12:58:30,633 [53] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 21, 23, 6
+2020-06-08 12:58:30,759 [53] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Timer started: Triple0001, rouletteId: 3, gameId: 22, Idle
+2020-06-08 12:58:37,842 [43] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011321472649438
+2020-06-08 12:58:47,521 [62] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43053869665696
+2020-06-08 12:58:47,532 [62] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 4. UnresolvedSpinId: -1, id: 4
+2020-06-08 12:58:47,568 [62] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Timer started: QA-NisPapiShowroom, rouletteId: 4, gameId: 67, Error
+2020-06-08 12:59:00,954 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840595026720151
+2020-06-08 12:59:13,997 [50] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011321472649438
+2020-06-08 12:59:27,581 [62] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43053869665696
+2020-06-08 12:59:27,835 [62] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 4: Next Winning Number: 14, 255, 255
+2020-06-08 12:59:31,973 [50] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43058972289242
+2020-06-08 12:59:33,593 [17] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43053869665696
+2020-06-08 12:59:33,631 [17] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 4: Next Winning Number: 14, 255, 255
+2020-06-08 12:59:33,724 [65] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43058972289242
+2020-06-08 12:59:42,693 [64] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840595026720151
+2020-06-08 12:59:42,756 [64] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1: Next Winning Number: 27, 255, 255
+2020-06-08 12:59:46,799 [17] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840600186774977
+2020-06-08 12:59:49,557 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011321472649438
+2020-06-08 12:59:49,574 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 2, 24, 4
+2020-06-08 12:59:56,240 [50] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011326589647984
+2020-06-08 13:00:13,188 [40] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43058972289242
+2020-06-08 13:00:17,279 [53] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43058972289242
+2020-06-08 13:00:17,290 [53] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Same event received: 43058972289242, id: 4, currentRouletteWheelState: BetsClosedEventSent
+2020-06-08 13:00:27,528 [53] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840600186774977
+2020-06-08 13:00:45,170 [68] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43058972289242
+2020-06-08 13:00:45,189 [68] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 4: Next Winning Number: 0, 255, 255
+2020-06-08 13:00:50,562 [68] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43064071944038
+2020-06-08 13:00:50,684 [40] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43064071944038
+2020-06-08 13:00:50,692 [40] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Same event received: 43064071944038, id: 4, currentRouletteWheelState: BetsOpenedEventSent
+2020-06-08 13:01:08,915 [10] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840600186774977
+2020-06-08 13:01:08,934 [10] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1: Next Winning Number: 25, 255, 255
+2020-06-08 13:01:11,461 [40] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011326589647984
+2020-06-08 13:01:11,473 [40] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 4. UnresolvedSpinId: -1, id: 3
+2020-06-08 13:01:11,495 [40] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 21, 34, 25
+2020-06-08 13:01:11,517 [40] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Timer started: Triple0001, rouletteId: 3, gameId: 22, Error
+2020-06-08 13:01:13,073 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840605344440061
+2020-06-08 13:01:17,757 [50] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011331702740280
+2020-06-08 13:01:32,738 [53] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43064071944038
+2020-06-08 13:01:33,099 [40] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43064071944038
+2020-06-08 13:01:33,119 [40] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Same event received: 43064071944038, id: 4, currentRouletteWheelState: BetsClosedEventSent
+2020-06-08 13:01:53,876 [53] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840605344440061
+2020-06-08 13:01:57,965 [65] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011331702740280
+2020-06-08 13:02:12,454 [53] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43064071944038
+2020-06-08 13:02:12,469 [53] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 4: Next Winning Number: 30, 255, 255
+2020-06-08 13:02:26,488 [40] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43064071944038
+2020-06-08 13:02:26,497 [40] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Same event received: 43064071944038, id: 4, currentRouletteWheelState: WinningEventSent
+2020-06-08 13:02:30,727 [65] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011331702740280
+2020-06-08 13:02:30,744 [65] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 23, 23, 25
+2020-06-08 13:02:31,960 [40] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840605344440061
+2020-06-08 13:02:31,978 [40] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1: Next Winning Number: 6, 255, 255
+2020-06-08 13:02:36,279 [53] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840610471032010
+2020-06-08 13:02:37,167 [53] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011336790051326
+2020-06-08 13:02:57,755 [64] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43069176286334
+2020-06-08 13:02:57,765 [64] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 4. UnresolvedSpinId: -1, id: 4
+2020-06-08 13:02:57,790 [64] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Timer started: QA-NisPapiShowroom, rouletteId: 4, gameId: 67, Error
+2020-06-08 13:03:00,380 [40] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43069176286334
+2020-06-08 13:03:00,389 [40] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Same event received: 43069176286334, id: 4, currentRouletteWheelState: BetsClosedEventSent
+2020-06-08 13:03:16,927 [64] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840610471032010
+2020-06-08 13:03:17,283 [10] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011336790051326
+2020-06-08 13:03:26,286 [10] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43069176286334
+2020-06-08 13:03:26,302 [10] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 4: Next Winning Number: 26, 255, 255
+2020-06-08 13:03:29,914 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43069980192584
+2020-06-08 13:03:55,068 [61] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011336790051326
+2020-06-08 13:03:55,090 [61] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 27, 35, 33
+2020-06-08 13:03:56,745 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840610471032010
+2020-06-08 13:03:56,760 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1: Next Winning Number: 21, 255, 255
+2020-06-08 13:04:01,027 [61] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840611318872110
+2020-06-08 13:04:01,476 [64] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011341930018622
+2020-06-08 13:04:12,262 [64] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43069980192584
+2020-06-08 13:04:14,066 [65] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43069980192584
+2020-06-08 13:04:14,119 [65] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Same event received: 43069980192584, id: 4, currentRouletteWheelState: BetsClosedEventSent
+2020-06-08 13:04:41,693 [30] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840611318872110
+2020-06-08 13:04:41,783 [30] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011341930018622
+2020-06-08 13:04:51,758 [65] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43069980192584
+2020-06-08 13:04:51,787 [65] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 4: Next Winning Number: 24, 255, 255
+2020-06-08 13:04:53,350 [65] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43069980192584
+2020-06-08 13:04:53,368 [65] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Same event received: 43069980192584, id: 4, currentRouletteWheelState: WinningEventSent
+2020-06-08 13:05:01,138 [64] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43075109691130
+2020-06-08 13:05:02,464 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43075109691130
+2020-06-08 13:05:02,474 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Same event received: 43075109691130, id: 4, currentRouletteWheelState: BetsOpenedEventSent
+2020-06-08 13:05:17,772 [64] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011341930018622
+2020-06-08 13:05:17,786 [64] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 36, 10, 6
+2020-06-08 13:05:24,304 [65] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011342756424872
+2020-06-08 13:05:27,380 [40] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840611318872110
+2020-06-08 13:05:27,404 [40] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1: Next Winning Number: 25, 255, 255
+2020-06-08 13:05:31,849 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840616520578598
+2020-06-08 13:05:38,418 [64] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43075109691130
+2020-06-08 13:05:49,801 [64] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43075109691130
+2020-06-08 13:05:49,809 [64] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Same event received: 43075109691130, id: 4, currentRouletteWheelState: BetsClosedEventSent
+2020-06-08 13:06:04,580 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011342756424872
+2020-06-08 13:06:12,739 [30] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43075109691130
+2020-06-08 13:06:12,755 [30] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 4: Next Winning Number: 18, 255, 255
+2020-06-08 13:06:12,832 [65] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840616520578598
+2020-06-08 13:06:16,376 [61] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43080214189676
+2020-06-08 13:06:16,923 [65] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43075109691130
+2020-06-08 13:06:16,941 [65] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 4: Next Winning Number: 18, 255, 255
+2020-06-08 13:06:23,856 [40] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43080214189676
+2020-06-08 13:06:39,023 [30] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011342756424872
+2020-06-08 13:06:39,037 [30] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 26, 35, 2
+2020-06-08 13:06:45,511 [64] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011347865298418
+2020-06-08 13:06:55,686 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840616520578598
+2020-06-08 13:06:55,708 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1: Next Winning Number: 24, 255, 255
+2020-06-08 13:06:58,627 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43080214189676
+2020-06-08 13:07:00,257 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840621698777051
+2020-06-08 13:07:19,731 [64] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43080214189676
+2020-06-08 13:07:19,739 [64] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Same event received: 43080214189676, id: 4, currentRouletteWheelState: BetsClosedEventSent
+2020-06-08 13:07:25,751 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011347865298418
+2020-06-08 13:07:31,970 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43080214189676
+2020-06-08 13:07:32,020 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 4: Next Winning Number: 6, 255, 255
+2020-06-08 13:07:32,088 [65] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43080214189676
+2020-06-08 13:07:32,097 [65] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Same event received: 43080214189676, id: 4, currentRouletteWheelState: WinningEventSent
+2020-06-08 13:07:33,447 [65] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43085298531972
+2020-06-08 13:07:41,049 [64] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840621698777051
+2020-06-08 13:07:59,686 [40] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011347865298418
+2020-06-08 13:07:59,707 [40] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 7, 4, 30
+2020-06-08 13:08:06,302 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011352966828214
+2020-06-08 13:08:15,575 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43085298531972
+2020-06-08 13:08:16,583 [61] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43085298531972
+2020-06-08 13:08:16,597 [61] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Same event received: 43085298531972, id: 4, currentRouletteWheelState: BetsClosedEventSent
+2020-06-08 13:08:22,458 [64] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840621698777051
+2020-06-08 13:08:22,487 [64] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1: Next Winning Number: 5, 255, 255
+2020-06-08 13:08:26,950 [64] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840626860923520
+2020-06-08 13:08:46,567 [61] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011352966828214
+2020-06-08 13:08:50,579 [40] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43085298531972
+2020-06-08 13:08:50,599 [40] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 4: Next Winning Number: 1, 255, 255
+2020-06-08 13:08:52,490 [40] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43085298531972
+2020-06-08 13:08:52,507 [40] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Same event received: 43085298531972, id: 4, currentRouletteWheelState: WinningEventSent
+2020-06-08 13:08:52,596 [30] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43090381311768
+2020-06-08 13:09:07,711 [30] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840626860923520
+2020-06-08 13:09:24,710 [30] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011352966828214
+2020-06-08 13:09:24,729 [30] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 6, 13, 28
+2020-06-08 13:09:31,207 [64] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011358112264260
+2020-06-08 13:09:32,347 [61] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43090381311768
+2020-06-08 13:09:47,987 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840626860923520
+2020-06-08 13:09:48,001 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1: Next Winning Number: 22, 255, 255
+2020-06-08 13:09:52,551 [65] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840632010368772
+2020-06-08 13:10:11,346 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011358112264260
+2020-06-08 13:10:13,469 [61] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43090381311768
+2020-06-08 13:10:13,512 [61] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 4: Next Winning Number: 2, 255, 255
+2020-06-08 13:10:19,059 [56] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43095525497814
+2020-06-08 13:10:33,164 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840632010368772
+2020-06-08 13:10:43,698 [30] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43095525497814
+2020-06-08 13:10:43,717 [30] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Same event received: 43095525497814, id: 4, currentRouletteWheelState: BetsOpenedEventSent
+2020-06-08 13:10:46,392 [61] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011358112264260
+2020-06-08 13:10:46,414 [61] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 24, 15, 0
+2020-06-08 13:10:53,026 [30] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011363223325306
+2020-06-08 13:10:59,188 [40] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43095525497814
+2020-06-08 13:11:12,889 [56] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840632010368772
+2020-06-08 13:11:12,903 [56] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1: Next Winning Number: 16, 255, 255
+2020-06-08 13:11:17,235 [40] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840632859042224
+2020-06-08 13:11:33,207 [27] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011363223325306
+2020-06-08 13:11:35,975 [27] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43095525497814
+2020-06-08 13:11:35,991 [27] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 4: Next Winning Number: 14, 255, 255
+2020-06-08 13:11:37,606 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43096331435314
+2020-06-08 13:11:39,623 [30] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43095525497814
+2020-06-08 13:11:39,655 [30] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 4: Next Winning Number: 14, 255, 255
+2020-06-08 13:11:57,974 [40] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840632859042224
+2020-06-08 13:12:07,416 [30] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011363223325306
+2020-06-08 13:12:07,434 [30] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 33, 4, 27
+2020-06-08 13:12:13,707 [59] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011364032075306
+2020-06-08 13:12:17,843 [27] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43096331435314
+2020-06-08 13:12:17,879 [27] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 4. UnresolvedSpinId: -1, id: 4
+2020-06-08 13:12:18,047 [27] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Timer started: QA-NisPapiShowroom, rouletteId: 4, gameId: 67, Error
+2020-06-08 13:12:42,175 [65] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840632859042224
+2020-06-08 13:12:42,198 [65] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1: Next Winning Number: 34, 255, 255
+2020-06-08 13:12:46,414 [74] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840638047305626
+2020-06-08 13:12:53,856 [30] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011364032075306
+2020-06-08 13:12:56,291 [24] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43096331435314
+2020-06-08 13:12:56,311 [24] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 4: Next Winning Number: 13, 255, 255
+2020-06-08 13:13:07,526 [56] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43101450465110
+2020-06-08 13:13:27,253 [30] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840638047305626
+2020-06-08 13:13:33,335 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011364032075306
+2020-06-08 13:13:33,360 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 5, 22, 7
+2020-06-08 13:13:39,793 [51] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011369188136352
+2020-06-08 13:13:43,054 [56] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43101450465110
+2020-06-08 13:14:05,838 [74] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840638047305626
+2020-06-08 13:14:05,855 [74] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1: Next Winning Number: 14, 255, 255
+2020-06-08 13:14:10,347 [72] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840643180363977
+2020-06-08 13:14:20,056 [72] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011369188136352
+2020-06-08 13:14:30,465 [56] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43101450465110
+2020-06-08 13:14:30,499 [56] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 4: Next Winning Number: 11, 255, 255
+2020-06-08 13:14:50,986 [56] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840643180363977
+2020-06-08 13:14:51,628 [65] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011369188136352
+2020-06-08 13:14:51,649 [65] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 27, 0, 17
+2020-06-08 13:14:57,939 [59] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011374264509898
+2020-06-08 13:15:06,554 [27] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43106580744906
+2020-06-08 13:15:06,565 [27] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 4. UnresolvedSpinId: -1, id: 4
+2020-06-08 13:15:06,602 [27] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Timer started: QA-NisPapiShowroom, rouletteId: 4, gameId: 67, Error
+2020-06-08 13:15:34,699 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840643180363977
+2020-06-08 13:15:34,720 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1: Next Winning Number: 7, 255, 255
+2020-06-08 13:15:38,119 [27] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011374264509898
+2020-06-08 13:15:39,057 [56] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840648362624381
+2020-06-08 13:15:43,995 [74] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43106580744906
+2020-06-08 13:15:44,014 [74] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 4: Next Winning Number: 4, 255, 255
+2020-06-08 13:16:17,392 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011374264509898
+2020-06-08 13:16:17,414 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 17, 33, 36
+2020-06-08 13:16:19,947 [71] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840648362624381
+2020-06-08 13:16:23,584 [71] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011379416039694
+2020-06-08 13:16:31,490 [74] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43111678212202
+2020-06-08 13:16:31,511 [74] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 4. UnresolvedSpinId: -1, id: 4
+2020-06-08 13:16:31,859 [74] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Timer started: QA-NisPapiShowroom, rouletteId: 4, gameId: 67, Error
+2020-06-08 13:17:04,060 [71] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840648362624381
+2020-06-08 13:17:04,080 [71] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1: Next Winning Number: 27, 255, 255
+2020-06-08 13:17:04,199 [65] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011379416039694
+2020-06-08 13:17:05,564 [72] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43111678212202
+2020-06-08 13:17:05,582 [72] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 4: Next Winning Number: 0, 255, 255
+2020-06-08 13:17:07,210 [65] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43111678212202
+2020-06-08 13:17:07,306 [65] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Same event received: 43111678212202, id: 4, currentRouletteWheelState: WinningEventSent
+2020-06-08 13:17:08,015 [56] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840653547858735
+2020-06-08 13:17:40,112 [65] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011379416039694
+2020-06-08 13:17:40,128 [65] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 32, 30, 20
+2020-06-08 13:17:46,564 [72] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011384540381990
+2020-06-08 13:17:48,679 [72] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840653547858735
+2020-06-08 13:17:55,325 [24] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43116776929498
+2020-06-08 13:17:55,335 [24] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 4. UnresolvedSpinId: -1, id: 4
+2020-06-08 13:17:55,377 [24] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Timer started: QA-NisPapiShowroom, rouletteId: 4, gameId: 67, Error
+2020-06-08 13:18:21,298 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43116776929498
+2020-06-08 13:18:21,343 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 4: Next Winning Number: 8, 255, 255
+2020-06-08 13:18:28,269 [65] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011384540381990
+2020-06-08 13:18:28,502 [27] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43117585523248
+2020-06-08 13:18:28,588 [27] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43117585523248
+2020-06-08 13:18:28,626 [27] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Same event received: 43117585523248, id: 4, currentRouletteWheelState: BetsOpenedEventSent
+2020-06-08 13:18:28,727 [27] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840653547858735
+2020-06-08 13:18:28,771 [27] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1: Next Winning Number: 14, 255, 255
+2020-06-08 13:18:32,834 [65] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840654395996165
+2020-06-08 13:19:00,790 [59] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011384540381990
+2020-06-08 13:19:00,827 [59] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 15, 36, 11
+2020-06-08 13:19:07,240 [65] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011385346319490
+2020-06-08 13:19:07,601 [27] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43117585523248
+2020-06-08 13:19:13,671 [65] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840654395996165
+2020-06-08 13:19:43,686 [27] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43117585523248
+2020-06-08 13:19:43,702 [27] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 4: Next Winning Number: 13, 255, 255
+2020-06-08 13:19:47,257 [27] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011385346319490
+2020-06-08 13:19:49,077 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43122702053044
+2020-06-08 13:19:51,275 [65] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43122702053044
+2020-06-08 13:19:51,293 [65] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Same event received: 43122702053044, id: 4, currentRouletteWheelState: BetsOpenedEventSent
+2020-06-08 13:19:54,432 [71] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840654395996165
+2020-06-08 13:19:54,460 [71] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1: Next Winning Number: 25, 255, 255
+2020-06-08 13:19:58,847 [71] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840659550308001
+2020-06-08 13:20:30,142 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43122702053044
+2020-06-08 13:20:31,168 [71] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011385346319490
+2020-06-08 13:20:31,185 [71] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 26, 5, 16
+2020-06-08 13:20:37,791 [31] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011390546443036
+2020-06-08 13:20:39,503 [59] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840659550308001
+2020-06-08 13:21:07,709 [71] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43122702053044
+2020-06-08 13:21:07,744 [71] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 4: Next Winning Number: 25, 255, 255
+2020-06-08 13:21:14,131 [53] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43127829832840
+2020-06-08 13:21:18,018 [28] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011390546443036
+2020-06-08 13:21:24,107 [59] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840659550308001
+2020-06-08 13:21:25,850 [59] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1: Next Winning Number: 27, 255, 255
+2020-06-08 13:21:28,153 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43127829832840
+2020-06-08 13:21:29,320 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Same event received: 43127829832840, id: 4, currentRouletteWheelState: BetsOpenedEventSent
+2020-06-08 13:21:30,608 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840664736415567
+2020-06-08 13:21:56,878 [31] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011390546443036
+2020-06-08 13:21:59,071 [31] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 32, 27, 11
+2020-06-08 13:22:42,463 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011395688129082
+2020-06-08 13:22:52,356 [27] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840664736415567
+2020-06-08 13:22:52,366 [27] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 4. UnresolvedSpinId: -1, id: 1
+2020-06-08 13:22:52,388 [27] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1: Next Winning Number: 14, 255, 255
+2020-06-08 13:22:52,402 [27] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Timer started: OPTIMUM0002-NisKalcaSpin, rouletteId: 1, gameId: 25, Error
+2020-06-08 13:22:56,788 [31] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840669920109490
+2020-06-08 13:23:11,112 [27] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43132909487636
+2020-06-08 13:23:11,125 [27] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 4. UnresolvedSpinId: -1, id: 4
+2020-06-08 13:23:11,160 [27] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Timer started: QA-NisPapiShowroom, rouletteId: 4, gameId: 67, Error
+2020-06-08 13:23:18,594 [79] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011395688129082
+2020-06-08 13:23:18,614 [79] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 32, 28, 0
+2020-06-08 13:23:25,176 [31] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011400810127628
+2020-06-08 13:23:37,408 [27] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840669920109490
+2020-06-08 13:23:43,306 [59] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43132909487636
+2020-06-08 13:23:43,346 [59] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 4: Next Winning Number: 33, 255, 255
+2020-06-08 13:23:48,868 [27] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43137985236182
+2020-06-08 13:23:48,994 [27] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43137985236182
+2020-06-08 13:23:49,011 [27] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Same event received: 43137985236182, id: 4, currentRouletteWheelState: BetsOpenedEventSent
+2020-06-08 13:24:05,384 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011400810127628
+2020-06-08 13:24:16,083 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840669920109490
+2020-06-08 13:24:16,135 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1: Next Winning Number: 3, 255, 255
+2020-06-08 13:24:36,275 [35] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Init Virtual roulettes. UseVirtualRouletteApp: False
+2020-06-08 13:24:56,293 [59] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: StartVideoStream: False
+2020-06-08 13:25:30,571 [31] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011405955876174
+2020-06-08 13:25:30,759 [31] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1. UnresolvedSpinId: 5011400810127628, id: 3, winForUnresolvedSpinId: -1
+2020-06-08 13:25:32,654 [31] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011405955876174
+2020-06-08 13:25:32,877 [31] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 2. UnresolvedSpinId: 5011400810127628, id: 3
+2020-06-08 13:25:33,633 [31] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Timer started: Triple0001, rouletteId: 3, gameId: 22, Error
+2020-06-08 13:25:48,680 [31] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840675050408118
+2020-06-08 13:25:48,697 [31] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1: Next Winning Number: 14, 255, 255
+2020-06-08 13:25:48,709 [31] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Timer started: OPTIMUM0002-NisKalcaSpin, rouletteId: 1, gameId: 25, Idle
+2020-06-08 13:25:53,154 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840675976799687
+2020-06-08 13:25:53,667 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43138821954932
+2020-06-08 13:25:53,692 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Timer started: QA-NisPapiShowroom, rouletteId: 4, gameId: 67, Idle
+2020-06-08 13:26:05,547 [79] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011405955876174
+2020-06-08 13:26:05,575 [79] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 36, 20, 2
+2020-06-08 13:26:11,744 [59] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011406772438674
+2020-06-08 13:26:30,520 [33] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43138821954932
+2020-06-08 13:26:30,542 [33] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 4: Next Winning Number: 18, 255, 255
+2020-06-08 13:26:30,606 [59] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43138821954932
+2020-06-08 13:26:30,617 [59] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Same event received: 43138821954932, id: 4, currentRouletteWheelState: WinningEventSent
+2020-06-08 13:26:32,034 [31] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43143931297228
+2020-06-08 13:26:33,813 [59] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840675976799687
+2020-06-08 13:26:51,882 [79] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011406772438674
+2020-06-08 13:27:12,204 [33] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43143931297228
+2020-06-08 13:27:15,025 [33] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840675976799687
+2020-06-08 13:27:15,277 [33] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1: Next Winning Number: 20, 255, 255
+2020-06-08 13:27:19,368 [27] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840681134030134
+2020-06-08 13:27:27,971 [31] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011406772438674
+2020-06-08 13:27:28,003 [31] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 25, 13, 1
+2020-06-08 13:27:48,731 [79] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43143931297228
+2020-06-08 13:27:48,753 [79] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 4: Next Winning Number: 29, 255, 255
+2020-06-08 13:27:48,835 [27] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43143931297228
+2020-06-08 13:27:48,847 [27] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Same event received: 43143931297228, id: 4, currentRouletteWheelState: WinningEventSent
+2020-06-08 13:27:52,403 [59] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43149008764524
+2020-06-08 13:27:52,802 [79] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43149008764524
+2020-06-08 13:27:52,838 [79] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Same event received: 43149008764524, id: 4, currentRouletteWheelState: BetsOpenedEventSent
+2020-06-08 13:28:00,041 [79] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840681134030134
+2020-06-08 13:28:14,310 [27] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011411890843470
+2020-06-08 13:28:32,428 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43149008764524
+2020-06-08 13:28:43,926 [31] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840681134030134
+2020-06-08 13:28:43,956 [31] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1: Next Winning Number: 17, 255, 255
+2020-06-08 13:28:48,397 [31] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840686320568760
+2020-06-08 13:28:51,431 [31] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011411890843470
+2020-06-08 13:28:51,490 [31] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 22, 19, 19
+2020-06-08 13:28:57,940 [79] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011417022060766
+2020-06-08 13:29:06,438 [27] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43149008764524
+2020-06-08 13:29:06,458 [27] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 4: Next Winning Number: 12, 255, 255
+2020-06-08 13:29:14,201 [79] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43154102169320
+2020-06-08 13:29:29,660 [27] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840686320568760
+2020-06-08 13:30:10,749 [27] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011417022060766
+2020-06-08 13:30:10,762 [27] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 4. UnresolvedSpinId: -1, id: 3
+2020-06-08 13:30:10,784 [27] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 31, 31, 0
+2020-06-08 13:30:10,807 [27] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Timer started: Triple0001, rouletteId: 3, gameId: 22, Error
+2020-06-08 13:30:14,925 [31] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840686320568760
+2020-06-08 13:30:15,085 [31] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1: Next Winning Number: 0, 255, 255
+2020-06-08 13:30:16,165 [59] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011422100934312
+2020-06-08 13:30:20,639 [27] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840691523702162
+2020-06-08 13:30:31,432 [59] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43154102169320
+2020-06-08 13:30:31,455 [59] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 4. UnresolvedSpinId: -1, id: 4
+2020-06-08 13:30:31,551 [59] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 4: Next Winning Number: 13, 255, 255
+2020-06-08 13:30:33,272 [59] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Timer started: QA-NisPapiShowroom, rouletteId: 4, gameId: 67, Error
+2020-06-08 13:30:35,602 [59] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43159210886616
+2020-06-08 13:30:52,870 [59] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43159210886616
+2020-06-08 13:30:52,919 [59] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Same event received: 43159210886616, id: 4, currentRouletteWheelState: BetsOpenedEventSent
+2020-06-08 13:30:56,401 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011422100934312
+2020-06-08 13:31:00,050 [59] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840691523702162
+2020-06-08 13:31:14,355 [59] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43159210886616
+2020-06-08 13:31:40,987 [71] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840691523702162
+2020-06-08 13:31:41,122 [71] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1: Next Winning Number: 7, 255, 255
+2020-06-08 13:31:45,013 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840696676682518
+2020-06-08 13:31:48,931 [76] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43159210886616
+2020-06-08 13:31:48,950 [76] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 4: Next Winning Number: 4, 255, 255
+2020-06-08 13:31:52,475 [47] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43164315541412
+2020-06-08 13:32:16,650 [31] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011427198401608
+2020-06-08 13:32:16,669 [31] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1. UnresolvedSpinId: 5011422100934312, id: 3, winForUnresolvedSpinId: -1
+2020-06-08 13:32:16,742 [71] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011427198401608
+2020-06-08 13:32:16,769 [71] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 2. UnresolvedSpinId: 5011422100934312, id: 3
+2020-06-08 13:32:16,819 [71] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Timer started: Triple0001, rouletteId: 3, gameId: 22, Error
+2020-06-08 13:32:25,893 [76] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840696676682518
+2020-06-08 13:32:46,878 [21] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Init Virtual roulettes. UseVirtualRouletteApp: False
+2020-06-08 13:32:58,831 [71] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: StartVideoStream: False
+2020-06-08 13:32:58,831 [48] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: StartVideoStream: False
+2020-06-08 13:33:33,526 [48] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011432257118904
+2020-06-08 13:33:33,547 [48] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1. UnresolvedSpinId: 5011427198401608, id: 3, winForUnresolvedSpinId: -1
+2020-06-08 13:33:33,793 [33] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011432257118904
+2020-06-08 13:33:33,810 [33] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 2. UnresolvedSpinId: 5011427198401608, id: 3
+2020-06-08 13:33:33,905 [33] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Timer started: Triple0001, rouletteId: 3, gameId: 22, Error
+2020-06-08 13:33:50,650 [18] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840697527083863
+2020-06-08 13:33:50,662 [18] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1. UnresolvedSpinId: 840696676682518, id: 1, winForUnresolvedSpinId: -1
+2020-06-08 13:33:50,738 [59] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840697527083863
+2020-06-08 13:33:50,766 [59] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 2. UnresolvedSpinId: 840696676682518, id: 1
+2020-06-08 13:33:50,825 [59] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Timer started: OPTIMUM0002-NisKalcaSpin, rouletteId: 1, gameId: 25, Error
+2020-06-08 13:34:04,479 [80] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43165124916412
+2020-06-08 13:34:10,872 [80] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Timer started: QA-NisPapiShowroom, rouletteId: 4, gameId: 67, Idle
+2020-06-08 13:34:14,302 [74] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011433073056404
+2020-06-08 13:34:14,325 [74] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3. UnresolvedSpinId: 5011432257118904, id: 3
+2020-06-08 13:34:14,467 [48] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011433073056404
+2020-06-08 13:34:14,490 [48] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 2. UnresolvedSpinId: 5011432257118904, id: 3
+2020-06-08 13:34:14,578 [48] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Timer started: Triple0001, rouletteId: 3, gameId: 22, Error
+2020-06-08 13:34:36,095 [27] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840697527083863
+2020-06-08 13:34:36,127 [27] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1: Next Winning Number: 23, 255, 255
+2020-06-08 13:34:36,688 [59] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43165124916412
+2020-06-08 13:34:36,708 [59] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 4: Next Winning Number: 28, 255, 255
+2020-06-08 13:34:39,482 [11] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43165124916412
+2020-06-08 13:34:39,496 [11] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Same event received: 43165124916412, id: 4, currentRouletteWheelState: WinningEventSent
+2020-06-08 13:34:40,421 [59] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840702726109746
+2020-06-08 13:34:48,736 [63] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43170264258708
+2020-06-08 13:34:51,380 [59] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43170264258708
+2020-06-08 13:34:51,395 [59] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Same event received: 43170264258708, id: 4, currentRouletteWheelState: BetsOpenedEventSent
+2020-06-08 13:34:54,442 [27] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011433073056404
+2020-06-08 13:35:20,867 [27] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43170264258708
+2020-06-08 13:35:21,050 [59] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840702726109746
+2020-06-08 13:35:36,114 [27] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011438172398700
+2020-06-08 13:35:36,201 [27] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3. UnresolvedSpinId: 5011433073056404, id: 3
+2020-06-08 13:35:36,439 [27] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011438172398700
+2020-06-08 13:35:36,460 [27] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 2. UnresolvedSpinId: 5011433073056404, id: 3
+2020-06-08 13:35:36,508 [27] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Timer started: Triple0001, rouletteId: 3, gameId: 22, Error
+2020-06-08 13:35:58,307 [33] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43170264258708
+2020-06-08 13:35:58,328 [33] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 4: Next Winning Number: 4, 255, 255
+2020-06-08 13:36:01,870 [68] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43175378444754
+2020-06-08 13:36:15,287 [76] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011438172398700
+2020-06-08 13:36:51,824 [33] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011438172398700
+2020-06-08 13:36:52,237 [33] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 35, 16, 0
+2020-06-08 13:36:55,610 [56] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011443275647246
+2020-06-08 13:37:18,506 [76] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43175378444754
+2020-06-08 13:37:18,522 [76] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 4. UnresolvedSpinId: -1, id: 4
+2020-06-08 13:37:18,537 [76] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 4: Next Winning Number: 17, 255, 255
+2020-06-08 13:37:18,550 [76] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Timer started: QA-NisPapiShowroom, rouletteId: 4, gameId: 67, Error
+2020-06-08 13:37:26,740 [56] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43180493255800
+2020-06-08 13:37:27,684 [56] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840707883748727
+2020-06-08 13:37:27,697 [56] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1. UnresolvedSpinId: 840702726109746, id: 1, winForUnresolvedSpinId: -1
+2020-06-08 13:37:27,769 [33] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840707883748727
+2020-06-08 13:37:27,781 [33] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 2. UnresolvedSpinId: 840702726109746, id: 1
+2020-06-08 13:37:27,815 [33] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1: Next Winning Number: 6, 255, 255
+2020-06-08 13:37:27,836 [33] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Timer started: OPTIMUM0002-NisKalcaSpin, rouletteId: 1, gameId: 25, Error
+2020-06-08 13:37:27,883 [69] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43180493255800
+2020-06-08 13:37:27,897 [69] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Same event received: 43180493255800, id: 4, currentRouletteWheelState: BetsOpenedEventSent
+2020-06-08 13:37:32,052 [33] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840713032227098
+2020-06-08 13:37:35,729 [27] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011443275647246
+2020-06-08 13:38:07,170 [27] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43180493255800
+2020-06-08 13:38:10,324 [78] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011443275647246
+2020-06-08 13:38:10,342 [78] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 13, 31, 17
+2020-06-08 13:38:12,621 [78] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43180493255800
+2020-06-08 13:38:12,640 [78] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Same event received: 43180493255800, id: 4, currentRouletteWheelState: BetsClosedEventSent
+2020-06-08 13:38:12,812 [17] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840713032227098
+2020-06-08 13:38:16,688 [10] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011448381552042
+2020-06-08 13:38:42,811 [33] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43180493255800
+2020-06-08 13:38:42,839 [33] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 4: Next Winning Number: 6, 255, 255
+2020-06-08 13:38:49,263 [17] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43185633691846
+2020-06-08 13:38:53,917 [10] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840713032227098
+2020-06-08 13:38:53,934 [10] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1: Next Winning Number: 14, 255, 255
+2020-06-08 13:38:56,834 [33] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011448381552042
+2020-06-08 13:38:58,111 [78] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840718187664939
+2020-06-08 13:39:31,370 [27] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43185633691846
+2020-06-08 13:39:33,766 [59] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43185633691846
+2020-06-08 13:39:33,801 [59] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Same event received: 43185633691846, id: 4, currentRouletteWheelState: BetsClosedEventSent
+2020-06-08 13:39:36,049 [33] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011448381552042
+2020-06-08 13:39:36,106 [33] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 18, 35, 3
+2020-06-08 13:39:38,681 [17] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840718187664939
+2020-06-08 13:39:42,231 [17] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011453531831838
+2020-06-08 13:40:03,500 [17] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43185633691846
+2020-06-08 13:40:03,522 [17] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 4: Next Winning Number: 1, 255, 255
+2020-06-08 13:40:14,455 [59] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43186420098096
+2020-06-08 13:40:18,597 [76] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43186420098096
+2020-06-08 13:40:18,607 [76] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Same event received: 43186420098096, id: 4, currentRouletteWheelState: BetsOpenedEventSent
+2020-06-08 13:40:22,829 [27] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840718187664939
+2020-06-08 13:40:22,852 [27] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1: Next Winning Number: 36, 255, 255
+2020-06-08 13:40:22,907 [17] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011453531831838
+2020-06-08 13:40:27,337 [78] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840719077758629
+2020-06-08 13:40:48,008 [76] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43186420098096
+2020-06-08 13:40:56,510 [59] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011453531831838
+2020-06-08 13:40:56,592 [59] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 24, 20, 13
+2020-06-08 13:41:02,733 [76] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011454335894338
+2020-06-08 13:41:07,886 [27] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840719077758629
+2020-06-08 13:41:38,280 [35] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Init Virtual roulettes. UseVirtualRouletteApp: False
+2020-06-08 13:41:51,697 [10] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: StartVideoStream: False
+2020-06-08 13:41:51,698 [27] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: StartVideoStream: False
+2020-06-08 13:42:06,659 [17] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43191521315392
+2020-06-08 13:42:06,679 [17] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1. UnresolvedSpinId: 43186420098096, id: 4, winForUnresolvedSpinId: -1
+2020-06-08 13:42:06,936 [17] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43191521315392
+2020-06-08 13:42:06,953 [17] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 2. UnresolvedSpinId: 43186420098096, id: 4
+2020-06-08 13:42:07,077 [17] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Timer started: QA-NisPapiShowroom, rouletteId: 4, gameId: 67, Error
+2020-06-08 13:42:14,743 [59] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011454335894338
+2020-06-08 13:42:14,786 [59] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 29, 7, 21
+2020-06-08 13:42:14,809 [59] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Timer started: Triple0001, rouletteId: 3, gameId: 22, Idle
+2020-06-08 13:42:21,078 [78] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011459414299134
+2020-06-08 13:42:34,649 [27] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840724238636382
+2020-06-08 13:42:34,698 [27] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1. UnresolvedSpinId: 840719077758629, id: 1, winForUnresolvedSpinId: -1
+2020-06-08 13:42:34,999 [59] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840724238636382
+2020-06-08 13:42:35,041 [59] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 2. UnresolvedSpinId: 840719077758629, id: 1
+2020-06-08 13:42:35,755 [59] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Timer started: OPTIMUM0002-NisKalcaSpin, rouletteId: 1, gameId: 25, Error
+2020-06-08 13:42:47,321 [65] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43191521315392
+2020-06-08 13:42:47,401 [65] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 4: Next Winning Number: 25, 255, 255
+2020-06-08 13:42:55,874 [78] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43196668938938
+2020-06-08 13:43:01,224 [65] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011459414299134
+2020-06-08 13:43:17,962 [65] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840724238636382
+2020-06-08 13:43:17,994 [65] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1: Next Winning Number: 19, 255, 255
+2020-06-08 13:43:22,263 [65] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840729419200204
+2020-06-08 13:43:32,571 [43] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011459414299134
+2020-06-08 13:43:32,594 [43] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 9, 34, 27
+2020-06-08 13:43:33,883 [59] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43196668938938
+2020-06-08 13:43:38,877 [30] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011464488797680
+2020-06-08 13:44:02,939 [30] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840729419200204
+2020-06-08 13:44:14,504 [65] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43196668938938
+2020-06-08 13:44:14,578 [65] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 4: Next Winning Number: 11, 255, 255
+2020-06-08 13:44:20,852 [46] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011464488797680
+2020-06-08 13:44:45,222 [11] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840729419200204
+2020-06-08 13:44:45,247 [11] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1: Next Winning Number: 26, 255, 255
+2020-06-08 13:44:49,762 [78] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840734587102781
+2020-06-08 13:44:51,754 [78] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011464488797680
+2020-06-08 13:44:51,805 [78] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 35, 36, 25
+2020-06-08 13:44:59,630 [43] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43201787968734
+2020-06-08 13:44:59,662 [43] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 4. UnresolvedSpinId: -1, id: 4
+2020-06-08 13:44:59,727 [43] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Timer started: QA-NisPapiShowroom, rouletteId: 4, gameId: 67, Error
+2020-06-08 13:44:59,825 [59] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011469577046226
+2020-06-08 13:45:00,074 [65] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43201787968734
+2020-06-08 13:45:00,125 [65] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Same event received: 43201787968734, id: 4, currentRouletteWheelState: BetsClosedEventSent
+2020-06-08 13:45:30,595 [20] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840734587102781
+2020-06-08 13:45:31,735 [44] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43201787968734
+2020-06-08 13:45:31,756 [44] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 4: Next Winning Number: 16, 255, 255
+2020-06-08 13:45:33,313 [57] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43201787968734
+2020-06-08 13:45:33,332 [57] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Same event received: 43201787968734, id: 4, currentRouletteWheelState: WinningEventSent
+2020-06-08 13:45:38,520 [59] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011469577046226
+2020-06-08 13:46:11,919 [30] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840734587102781
+2020-06-08 13:46:11,940 [30] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1: Next Winning Number: 34, 255, 255
+2020-06-08 13:46:13,783 [51] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011469577046226
+2020-06-08 13:46:13,817 [51] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 28, 36, 19
+2020-06-08 13:46:16,227 [57] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840739748482424
+2020-06-08 13:46:16,450 [30] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43206884186030
+2020-06-08 13:46:16,463 [30] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 4. UnresolvedSpinId: -1, id: 4
+2020-06-08 13:46:16,486 [30] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Timer started: QA-NisPapiShowroom, rouletteId: 4, gameId: 67, Error
+2020-06-08 13:46:20,310 [57] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011474691388522
+2020-06-08 13:46:51,199 [30] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43206884186030
+2020-06-08 13:46:51,230 [30] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 4: Next Winning Number: 10, 255, 255
+2020-06-08 13:46:54,882 [20] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43207699186030
+2020-06-08 13:46:57,096 [51] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840739748482424
+2020-06-08 13:47:00,493 [57] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011474691388522
+2020-06-08 13:47:33,541 [5] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011474691388522
+2020-06-08 13:47:33,563 [5] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 25, 23, 32
+2020-06-08 13:47:35,047 [5] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43207699186030
+2020-06-08 13:47:40,013 [57] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011475489826022
+2020-06-08 13:47:43,198 [30] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840739748482424
+2020-06-08 13:47:43,227 [30] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1: Next Winning Number: 6, 255, 255
+2020-06-08 13:47:47,527 [49] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840740661721174
+2020-06-08 13:48:15,351 [57] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43207699186030
+2020-06-08 13:48:15,373 [57] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 4: Next Winning Number: 35, 255, 255
+2020-06-08 13:48:15,676 [51] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43207699186030
+2020-06-08 13:48:15,686 [51] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Same event received: 43207699186030, id: 4, currentRouletteWheelState: WinningEventSent
+2020-06-08 13:48:20,184 [5] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011475489826022
+2020-06-08 13:48:28,188 [39] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840740661721174
+2020-06-08 13:49:02,163 [24] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011475489826022
+2020-06-08 13:49:02,188 [24] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 5, 19, 34
+2020-06-08 13:49:02,353 [17] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43212777903326
+2020-06-08 13:49:02,366 [17] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 4. UnresolvedSpinId: -1, id: 4
+2020-06-08 13:49:02,394 [17] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Timer started: QA-NisPapiShowroom, rouletteId: 4, gameId: 67, Error
+2020-06-08 13:49:07,197 [51] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43212777903326
+2020-06-08 13:49:07,207 [51] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Same event received: 43212777903326, id: 4, currentRouletteWheelState: BetsClosedEventSent
+2020-06-08 13:49:08,268 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840740661721174
+2020-06-08 13:49:08,289 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1: Next Winning Number: 18, 255, 255
+2020-06-08 13:49:08,571 [5] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011480670574568
+2020-06-08 13:49:12,751 [5] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840745807182889
+2020-06-08 13:49:35,240 [5] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43212777903326
+2020-06-08 13:49:35,277 [5] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 4: Next Winning Number: 28, 255, 255
+2020-06-08 13:49:35,315 [17] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43212777903326
+2020-06-08 13:49:35,325 [17] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Same event received: 43212777903326, id: 4, currentRouletteWheelState: WinningEventSent
+2020-06-08 13:49:48,668 [24] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011480670574568
+2020-06-08 13:49:53,412 [57] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840745807182889
+2020-06-08 13:50:18,587 [5] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011480670574568
+2020-06-08 13:50:18,606 [5] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 10, 17, 4
+2020-06-08 13:50:19,574 [17] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43217885683122
+2020-06-08 13:50:19,592 [17] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 4. UnresolvedSpinId: -1, id: 4
+2020-06-08 13:50:19,627 [17] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Timer started: QA-NisPapiShowroom, rouletteId: 4, gameId: 67, Error
+2020-06-08 13:50:24,969 [17] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011485729604364
+2020-06-08 13:50:28,054 [20] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43217885683122
+2020-06-08 13:50:28,069 [20] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Same event received: 43217885683122, id: 4, currentRouletteWheelState: BetsClosedEventSent
+2020-06-08 13:50:34,400 [24] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840745807182889
+2020-06-08 13:50:34,424 [24] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1: Next Winning Number: 24, 255, 255
+2020-06-08 13:50:38,769 [51] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840750962375916
+2020-06-08 13:50:53,195 [39] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43217885683122
+2020-06-08 13:50:53,214 [39] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 4: Next Winning Number: 22, 255, 255
+2020-06-08 13:51:00,992 [20] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43217885683122
+2020-06-08 13:51:01,004 [20] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Same event received: 43217885683122, id: 4, currentRouletteWheelState: WinningEventSent
+2020-06-08 13:51:05,098 [17] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011485729604364
+2020-06-08 13:51:19,372 [5] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840750962375916
+2020-06-08 13:51:36,875 [51] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43222973306668
+2020-06-08 13:51:36,890 [51] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 4. UnresolvedSpinId: -1, id: 4
+2020-06-08 13:51:36,919 [51] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Timer started: QA-NisPapiShowroom, rouletteId: 4, gameId: 67, Error
+2020-06-08 13:51:38,937 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011485729604364
+2020-06-08 13:51:38,952 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 17, 31, 3
+2020-06-08 13:51:45,414 [5] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011490829102910
+2020-06-08 13:51:59,972 [17] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840750962375916
+2020-06-08 13:52:00,007 [17] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1: Next Winning Number: 32, 255, 255
+2020-06-08 13:52:04,379 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840756113877789
+2020-06-08 13:52:13,498 [39] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43222973306668
+2020-06-08 13:52:13,527 [39] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 4: Next Winning Number: 33, 255, 255
+2020-06-08 13:52:14,960 [57] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43228080305214
+2020-06-08 13:52:25,568 [57] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011490829102910
+2020-06-08 13:52:26,177 [17] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43222973306668
+2020-06-08 13:52:26,200 [17] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 4: Next Winning Number: 33, 255, 255
+2020-06-08 13:52:45,193 [10] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840756113877789
+2020-06-08 13:52:58,886 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011490829102910
+2020-06-08 13:52:58,921 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 16, 8, 8
+2020-06-08 13:52:58,996 [57] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43228080305214
+2020-06-08 13:52:59,009 [57] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 4. UnresolvedSpinId: -1, id: 4
+2020-06-08 13:52:59,043 [57] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Timer started: QA-NisPapiShowroom, rouletteId: 4, gameId: 67, Error
+2020-06-08 13:52:59,956 [39] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43228080305214
+2020-06-08 13:52:59,967 [39] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Same event received: 43228080305214, id: 4, currentRouletteWheelState: BetsClosedEventSent
+2020-06-08 13:53:05,379 [57] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011495922351456
+2020-06-08 13:53:30,624 [51] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840756113877789
+2020-06-08 13:53:30,653 [51] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1: Next Winning Number: 0, 255, 255
+2020-06-08 13:53:34,932 [17] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840761314838888
+2020-06-08 13:53:42,405 [10] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43228080305214
+2020-06-08 13:53:42,423 [10] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 4: Next Winning Number: 7, 255, 255
+2020-06-08 13:53:44,063 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: QA-NisPapiShowroom, currentspinId: 43228080305214
+2020-06-08 13:53:44,077 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Same event received: 43228080305214, id: 4, currentRouletteWheelState: WinningEventSent
+2020-06-08 13:53:45,408 [10] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011495922351456
+2020-06-08 13:54:15,514 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840761314838888
+2020-06-08 13:54:20,893 [17] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011495922351456
+2020-06-08 13:54:20,913 [17] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 14, 31, 31
+2020-06-08 13:54:27,038 [39] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011496740320206
+2020-06-08 13:54:59,778 [25] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840761314838888
+2020-06-08 13:54:59,808 [25] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1: Next Winning Number: 30, 255, 255
+2020-06-08 13:55:04,060 [57] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840762206247542
+2020-06-08 13:55:07,405 [17] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011496740320206
+2020-06-08 13:55:39,717 [51] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011496740320206
+2020-06-08 13:55:39,747 [51] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 8, 19, 31
+2020-06-08 13:55:44,817 [51] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840762206247542
+2020-06-08 13:55:46,015 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011501825287502
+2020-06-08 13:56:26,489 [10] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011501825287502
+2020-06-08 13:56:30,542 [5] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840762206247542
+2020-06-08 13:56:30,557 [5] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1: Next Winning Number: 8, 255, 255
+2020-06-08 13:56:34,781 [39] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840767408730017
+2020-06-08 13:57:01,590 [51] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011501825287502
+2020-06-08 13:57:01,618 [51] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 11, 14, 21
+2020-06-08 13:57:07,789 [57] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011506937442298
+2020-06-08 13:57:15,560 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840767408730017
+2020-06-08 13:57:48,061 [51] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011506937442298
+2020-06-08 13:58:00,692 [57] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840767408730017
+2020-06-08 13:58:00,720 [57] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1: Next Winning Number: 10, 255, 255
+2020-06-08 13:58:05,025 [5] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840772605724872
+2020-06-08 13:58:25,130 [10] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011506937442298
+2020-06-08 13:58:25,156 [10] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 2, 13, 9
+2020-06-08 13:58:31,441 [51] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011512069128344
+2020-06-08 13:58:45,926 [5] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840772605724872
+2020-06-08 13:59:11,567 [17] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011512069128344
+2020-06-08 13:59:30,258 [17] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840772605724872
+2020-06-08 13:59:30,287 [17] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1: Next Winning Number: 8, 255, 255
+2020-06-08 13:59:34,574 [10] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840777796524670
+2020-06-08 13:59:46,886 [51] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011512069128344
+2020-06-08 13:59:46,904 [51] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 29, 3, 18
+2020-06-08 13:59:53,176 [57] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011517181439390
+2020-06-08 14:00:15,248 [28] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840777796524670
+2020-06-08 14:00:33,372 [10] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011517181439390
+2020-06-08 14:00:56,357 [17] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840777796524670
+2020-06-08 14:00:56,390 [17] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1: Next Winning Number: 17, 255, 255
+2020-06-08 14:01:00,606 [10] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840778656392109
+2020-06-08 14:01:05,474 [5] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011517181439390
+2020-06-08 14:01:05,505 [5] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 22, 1, 26
+2020-06-08 14:01:11,796 [17] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011522262344186
+2020-06-08 14:01:41,457 [17] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840778656392109
+2020-06-08 14:01:52,106 [17] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011522262344186
+2020-06-08 14:02:24,210 [39] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840778656392109
+2020-06-08 14:02:24,228 [39] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1: Next Winning Number: 21, 255, 255
+2020-06-08 14:02:28,785 [39] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011522262344186
+2020-06-08 14:02:28,814 [39] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 11, 9, 15
+2020-06-08 14:02:28,862 [51] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840783831146076
+2020-06-08 14:02:35,352 [57] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011523096875436
+2020-06-08 14:03:09,663 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840783831146076
+2020-06-08 14:03:15,452 [39] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011523096875436
+2020-06-08 14:03:48,715 [57] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011523096875436
+2020-06-08 14:03:48,734 [57] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 17, 28, 7
+2020-06-08 14:03:55,040 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840783831146076
+2020-06-08 14:03:55,071 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1: Next Winning Number: 25, 255, 255
+2020-06-08 14:03:55,381 [39] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011528190592732
+2020-06-08 14:03:59,302 [39] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840789033560140
+2020-06-08 14:04:35,294 [10] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011528190592732
+2020-06-08 14:04:40,138 [17] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840789033560140
+2020-06-08 14:05:09,340 [28] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011528190592732
+2020-06-08 14:05:09,370 [28] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 4, 13, 32
+2020-06-08 14:05:15,516 [28] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011533290247528
+2020-06-08 14:05:21,707 [28] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840789033560140
+2020-06-08 14:05:21,721 [28] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1: Next Winning Number: 5, 255, 255
+2020-06-08 14:05:26,179 [33] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840794195843340
+2020-06-08 14:05:55,679 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011533290247528
+2020-06-08 14:06:07,017 [57] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840794195843340
+2020-06-08 14:06:32,309 [28] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011533290247528
+2020-06-08 14:06:32,326 [28] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 0, 0, 15
+2020-06-08 14:06:38,747 [28] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011538415527324
+2020-06-08 14:06:49,919 [57] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840794195843340
+2020-06-08 14:06:49,936 [57] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1: Next Winning Number: 2, 255, 255
+2020-06-08 14:06:54,086 [33] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840799371455186
+2020-06-08 14:07:18,917 [10] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011538415527324
+2020-06-08 14:07:34,874 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840799371455186
+2020-06-08 14:07:50,254 [28] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011538415527324
+2020-06-08 14:07:50,273 [28] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 32, 7, 8
+2020-06-08 14:07:56,656 [33] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011543491275870
+2020-06-08 14:08:13,149 [33] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840799371455186
+2020-06-08 14:08:13,167 [33] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1: Next Winning Number: 5, 255, 255
+2020-06-08 14:08:17,786 [28] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840800205778496
+2020-06-08 14:08:37,078 [5] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011543491275870
+2020-06-08 14:08:58,465 [39] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840800205778496
+2020-06-08 14:09:13,737 [39] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011543491275870
+2020-06-08 14:09:13,752 [39] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 2, 4, 22
+2020-06-08 14:09:20,136 [39] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011544325963370
+2020-06-08 14:09:38,279 [39] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840800205778496
+2020-06-08 14:09:38,297 [39] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1: Next Winning Number: 0, 255, 255
+2020-06-08 14:09:42,862 [5] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840805351646214
+2020-06-08 14:10:00,389 [57] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011544325963370
+2020-06-08 14:10:23,608 [33] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840805351646214
+2020-06-08 14:10:32,750 [17] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011544325963370
+2020-06-08 14:10:32,773 [17] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 9, 31, 32
+2020-06-08 14:10:38,937 [28] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011549409211916
+2020-06-08 14:11:01,364 [39] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840805351646214
+2020-06-08 14:11:01,380 [39] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1: Next Winning Number: 32, 255, 255
+2020-06-08 14:11:05,598 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840810476053868
+2020-06-08 14:11:19,069 [51] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011549409211916
+2020-06-08 14:11:46,261 [57] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840810476053868
+2020-06-08 14:11:59,703 [10] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011549409211916
+2020-06-08 14:11:59,718 [10] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 29, 19, 14
+2020-06-08 14:12:06,262 [5] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011554576210462
+2020-06-08 14:12:26,708 [51] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840810476053868
+2020-06-08 14:12:26,726 [51] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1: Next Winning Number: 33, 255, 255
+2020-06-08 14:12:31,166 [10] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840815625860287
+2020-06-08 14:12:46,392 [32] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011554576210462
+2020-06-08 14:13:11,849 [32] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840815625860287
+2020-06-08 14:13:20,163 [57] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011554576210462
+2020-06-08 14:13:20,181 [57] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 19, 31, 21
+2020-06-08 14:13:26,682 [32] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011559675709008
+2020-06-08 14:13:54,332 [51] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840815625860287
+2020-06-08 14:13:54,355 [51] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1: Next Winning Number: 36, 255, 255
+2020-06-08 14:13:58,641 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840820796176501
+2020-06-08 14:14:06,808 [33] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011559675709008
+2020-06-08 14:14:39,365 [28] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840820796176501
+2020-06-08 14:14:43,671 [17] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011559675709008
+2020-06-08 14:14:43,691 [17] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 14, 0, 2
+2020-06-08 14:14:50,070 [10] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011564805363804
+2020-06-08 14:15:21,005 [15] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840820796176501
+2020-06-08 14:15:21,028 [15] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1: Next Winning Number: 2, 255, 255
+2020-06-08 14:15:25,393 [33] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840821663622176
+2020-06-08 14:15:30,392 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011564805363804
+2020-06-08 14:16:06,383 [17] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840821663622176
+2020-06-08 14:16:11,188 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011565592863804
+2020-06-08 14:16:11,197 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3. UnresolvedSpinId: 5011564805363804, id: 3
+2020-06-08 14:16:11,261 [36] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011565592863804
+2020-06-08 14:16:11,272 [36] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 2. UnresolvedSpinId: 5011564805363804, id: 3
+2020-06-08 14:16:11,308 [36] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Timer started: Triple0001, rouletteId: 3, gameId: 22, Error
+2020-06-08 14:16:47,287 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840821663622176
+2020-06-08 14:16:47,309 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1: Next Winning Number: 30, 255, 255
+2020-06-08 14:16:49,249 [57] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011565592863804
+2020-06-08 14:16:51,336 [39] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840826815967901
+2020-06-08 14:17:26,123 [36] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011565592863804
+2020-06-08 14:17:26,146 [36] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 33, 7, 35
+2020-06-08 14:17:31,830 [33] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840826815967901
+2020-06-08 14:17:32,232 [36] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011570722049850
+2020-06-08 14:18:12,427 [57] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011570722049850
+2020-06-08 14:18:14,425 [33] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840826815967901
+2020-06-08 14:18:14,445 [33] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1: Next Winning Number: 29, 255, 255
+2020-06-08 14:18:18,692 [28] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840831986472262
+2020-06-08 14:18:52,498 [28] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011570722049850
+2020-06-08 14:18:52,518 [28] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 10, 20, 34
+2020-06-08 14:18:58,963 [39] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011575883267146
+2020-06-08 14:18:59,367 [39] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840831986472262
+2020-06-08 14:19:39,085 [39] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011575883267146
+2020-06-08 14:19:44,640 [57] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840831986472262
+2020-06-08 14:19:44,654 [57] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1: Next Winning Number: 29, 255, 255
+2020-06-08 14:19:49,154 [36] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840837183752176
+2020-06-08 14:20:19,292 [32] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011575883267146
+2020-06-08 14:20:19,310 [32] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 13, 10, 6
+2020-06-08 14:20:25,393 [33] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011581043234442
+2020-06-08 14:20:29,969 [57] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840837183752176
+2020-06-08 14:21:05,524 [33] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011581043234442
+2020-06-08 14:21:13,187 [39] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840837183752176
+2020-06-08 14:21:13,204 [39] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1: Next Winning Number: 2, 255, 255
+2020-06-08 14:21:17,843 [28] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840842365483668
+2020-06-08 14:21:45,227 [57] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011581043234442
+2020-06-08 14:21:45,245 [57] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 11, 34, 4
+2020-06-08 14:21:51,841 [57] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011586200701738
+2020-06-08 14:21:58,565 [57] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840842365483668
+2020-06-08 14:22:31,936 [33] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011586200701738
+2020-06-08 14:22:41,912 [36] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840842365483668
+2020-06-08 14:22:41,932 [36] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1: Next Winning Number: 27, 255, 255
+2020-06-08 14:22:46,431 [32] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840843251814791
+2020-06-08 14:23:07,721 [33] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011586200701738
+2020-06-08 14:23:07,770 [33] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 3, 6, 24
+2020-06-08 14:23:13,870 [28] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011587023357988
+2020-06-08 14:23:27,062 [36] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840843251814791
+2020-06-08 14:23:54,291 [50] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011587023357988
+2020-06-08 14:24:07,778 [5] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840843251814791
+2020-06-08 14:24:07,801 [5] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1: Next Winning Number: 16, 255, 255
+2020-06-08 14:24:11,873 [50] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840848403059215
+2020-06-08 14:24:29,333 [32] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011587023357988
+2020-06-08 14:24:29,364 [32] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 32, 36, 20
+2020-06-08 14:24:35,484 [33] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011592134262784
+2020-06-08 14:24:52,544 [50] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840848403059215
+2020-06-08 14:25:15,705 [5] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011592134262784
+2020-06-08 14:25:33,397 [28] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840848403059215
+2020-06-08 14:25:33,415 [28] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1: Next Winning Number: 34, 255, 255
+2020-06-08 14:25:37,873 [57] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840853556381665
+2020-06-08 14:25:48,850 [33] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011592134262784
+2020-06-08 14:25:48,869 [33] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 15, 6, 28
+2020-06-08 14:25:55,415 [17] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011597227355080
+2020-06-08 14:26:18,531 [36] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840853556381665
+2020-06-08 14:26:35,650 [33] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011597227355080
+2020-06-08 14:26:55,986 [10] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840853556381665
+2020-06-08 14:26:56,000 [10] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1: Next Winning Number: 7, 255, 255
+2020-06-08 14:27:00,516 [73] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840858677073386
+2020-06-08 14:27:12,291 [17] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011597227355080
+2020-06-08 14:27:12,319 [17] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 19, 28, 12
+2020-06-08 14:27:18,671 [39] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011602355916126
+2020-06-08 14:27:41,142 [33] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840858677073386
+2020-06-08 14:27:58,938 [41] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011602355916126
+2020-06-08 14:28:27,928 [73] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840858677073386
+2020-06-08 14:28:27,961 [73] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1: Next Winning Number: 1, 255, 255
+2020-06-08 14:28:32,005 [47] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011602355916126
+2020-06-08 14:28:32,024 [47] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 24, 19, 30
+2020-06-08 14:28:32,065 [39] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840863888012296
+2020-06-08 14:28:38,197 [33] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011607446820922
+2020-06-08 14:29:12,667 [73] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840863888012296
+2020-06-08 14:29:18,510 [41] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011607446820922
+2020-06-08 14:29:51,838 [48] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011607446820922
+2020-06-08 14:29:51,872 [48] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 34, 0, 31
+2020-06-08 14:29:53,113 [41] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840863888012296
+2020-06-08 14:29:53,129 [41] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1: Next Winning Number: 23, 255, 255
+2020-06-08 14:29:57,539 [28] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840864743234856
+2020-06-08 14:29:58,256 [47] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011612541475718
+2020-06-08 14:30:38,162 [47] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840864743234856
+2020-06-08 14:30:38,446 [47] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011612541475718
+2020-06-08 14:31:17,022 [41] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011612541475718
+2020-06-08 14:31:17,173 [41] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 28, 29, 0
+2020-06-08 14:31:22,231 [41] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840864743234856
+2020-06-08 14:31:22,365 [41] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1: Next Winning Number: 21, 255, 255
+2020-06-08 14:31:22,971 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011613389288218
+2020-06-08 14:31:26,003 [48] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840869924207372
+2020-06-08 14:32:21,331 [47] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: StartVideoStream: False
+2020-06-08 14:32:21,331 [73] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: StartVideoStream: False
+2020-06-08 14:32:22,182 [35] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Init Virtual roulettes. UseVirtualRouletteApp: False
+2020-06-08 14:33:24,368 [17] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011618489568014
+2020-06-08 14:33:24,402 [17] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Timer started: Triple0001, rouletteId: 3, gameId: 22, Idle
+2020-06-08 14:33:33,211 [36] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840875082878660
+2020-06-08 14:33:33,234 [36] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Timer started: OPTIMUM0002-NisKalcaSpin, rouletteId: 1, gameId: 25, Idle
+2020-06-08 14:34:06,185 [39] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011618489568014
+2020-06-08 14:34:06,219 [39] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 19, 9, 21
+2020-06-08 14:34:12,285 [73] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011623669847810
+2020-06-08 14:34:19,449 [73] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840875082878660
+2020-06-08 14:34:19,466 [73] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1: Next Winning Number: 10, 255, 255
+2020-06-08 14:34:23,891 [73] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840880291209749
+2020-06-08 14:34:52,316 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011623669847810
+2020-06-08 14:35:04,585 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840880291209749
+2020-06-08 14:35:26,764 [33] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011623669847810
+2020-06-08 14:35:26,809 [33] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 36, 18, 25
+2020-06-08 14:35:33,200 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011628776065106
+2020-06-08 14:35:51,698 [33] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840880291209749
+2020-06-08 14:35:51,715 [33] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1: Next Winning Number: 23, 255, 255
+2020-06-08 14:35:55,870 [73] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840885507139531
+2020-06-08 14:36:13,257 [28] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011628776065106
+2020-06-08 14:36:36,745 [28] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840885507139531
+2020-06-08 14:36:44,218 [73] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011628776065106
+2020-06-08 14:36:44,233 [73] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 25, 31, 24
+2020-06-08 14:36:50,591 [33] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011633845719902
+2020-06-08 14:37:19,849 [17] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840885507139531
+2020-06-08 14:37:19,867 [17] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1: Next Winning Number: 35, 255, 255
+2020-06-08 14:37:24,154 [17] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840886388472170
+2020-06-08 14:37:30,721 [17] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011633845719902
+2020-06-08 14:38:04,973 [41] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840886388472170
+2020-06-08 14:38:09,622 [73] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011633845719902
+2020-06-08 14:38:09,649 [73] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 15, 8, 1
+2020-06-08 14:38:16,246 [36] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011634700094902
+2020-06-08 14:38:47,994 [28] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840886388472170
+2020-06-08 14:38:48,012 [28] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1: Next Winning Number: 21, 255, 255
+2020-06-08 14:38:52,425 [73] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840891565765837
+2020-06-08 14:38:56,364 [39] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011634700094902
+2020-06-08 14:39:28,454 [36] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011634700094902
+2020-06-08 14:39:28,475 [36] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 12, 34, 3
+2020-06-08 14:39:33,050 [48] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840891565765837
+2020-06-08 14:39:34,647 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011639780999698
+2020-06-08 14:40:14,336 [47] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840891565765837
+2020-06-08 14:40:14,360 [47] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1: Next Winning Number: 6, 255, 255
+2020-06-08 14:40:14,891 [47] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011639780999698
+2020-06-08 14:40:18,426 [41] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840896722337422
+2020-06-08 14:40:47,641 [47] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011639780999698
+2020-06-08 14:40:47,670 [47] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 13, 15, 20
+2020-06-08 14:40:54,166 [47] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011644870654494
+2020-06-08 14:40:58,964 [47] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840896722337422
+2020-06-08 14:41:34,384 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011644870654494
+2020-06-08 14:41:44,948 [48] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840896722337422
+2020-06-08 14:41:44,967 [48] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1: Next Winning Number: 8, 255, 255
+2020-06-08 14:41:49,266 [36] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840901924206814
+2020-06-08 14:42:09,254 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011644870654494
+2020-06-08 14:42:09,273 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 7, 10, 0
+2020-06-08 14:42:15,613 [41] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011649980153040
+2020-06-08 14:42:29,957 [33] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840901924206814
+2020-06-08 14:42:55,774 [36] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011649980153040
+2020-06-08 14:43:12,363 [41] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840901924206814
+2020-06-08 14:43:12,381 [41] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1: Next Winning Number: 28, 255, 255
+2020-06-08 14:43:16,608 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840907093835641
+2020-06-08 14:43:28,802 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011649980153040
+2020-06-08 14:43:28,821 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 22, 25, 26
+2020-06-08 14:43:35,146 [33] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011655071370336
+2020-06-08 14:43:57,501 [48] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840907093835641
+2020-06-08 14:44:15,247 [41] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011655071370336
+2020-06-08 14:44:36,771 [24] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840907093835641
+2020-06-08 14:44:36,792 [24] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1: Next Winning Number: 34, 255, 255
+2020-06-08 14:44:40,975 [36] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840907938163874
+2020-06-08 14:44:55,359 [48] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011655071370336
+2020-06-08 14:44:55,383 [48] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 31, 5, 11
+2020-06-08 14:45:01,559 [12] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011655935276586
+2020-06-08 14:45:21,713 [48] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840907938163874
+2020-06-08 14:45:41,744 [33] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011655935276586
+2020-06-08 14:46:05,842 [41] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840907938163874
+2020-06-08 14:46:05,857 [41] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1: Next Winning Number: 13, 255, 255
+2020-06-08 14:46:10,081 [24] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840913123169452
+2020-06-08 14:46:14,598 [36] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011655935276586
+2020-06-08 14:46:14,616 [36] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 36, 34, 11
+2020-06-08 14:46:21,097 [76] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011661025400132
+2020-06-08 14:46:50,745 [7] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840913123169452
+2020-06-08 14:47:01,231 [48] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011661025400132
+2020-06-08 14:47:33,528 [7] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840913123169452
+2020-06-08 14:47:33,549 [7] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1: Next Winning Number: 1, 255, 255
+2020-06-08 14:47:35,799 [36] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011661025400132
+2020-06-08 14:47:35,836 [36] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 8, 18, 17
+2020-06-08 14:47:37,970 [36] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840918297337903
+2020-06-08 14:47:42,423 [7] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011666131617428
+2020-06-08 14:48:18,674 [7] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840918297337903
+2020-06-08 14:48:22,579 [22] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011666131617428
+2020-06-08 14:48:55,227 [41] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011666131617428
+2020-06-08 14:48:55,260 [41] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 3: Next Winning Number: 26, 1, 2
+2020-06-08 14:49:02,093 [10] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840918297337903
+2020-06-08 14:49:02,119 [10] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: 1: Next Winning Number: 10, 255, 255
+2020-06-08 14:49:02,153 [41] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011671221584724
+2020-06-08 14:49:06,370 [7] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840923476814988
+2020-06-08 14:49:41,969 [7] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: Triple0001, currentspinId: 5011671221584724
+2020-06-08 14:49:47,193 [69] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: RouletteWheelEvent: OPTIMUM0002-NisKalcaSpin, currentspinId: 840923476814988
+2020-06-08 15:04:45,317 [24] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: StartVideoStream: False
+2020-06-08 15:04:45,320 [10] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: StartVideoStream: False
+2020-06-08 15:04:51,562 [1] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: Init Virtual roulettes. UseVirtualRouletteApp: False
+2020-06-08 15:40:54,270 [47] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: StartVideoStream: False
+2020-06-08 15:40:54,270 [33] INFO  Utils.Logging.RouletteWheelLogger - RoulleteWheel: StartVideoStream: False
